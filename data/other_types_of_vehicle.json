@@ -1,0 +1,230 @@
+[
+  {
+    "number": 2,
+    "text": "You're waiting to turn right out of a minor road. It's clear to the left but a lorry is \ncoming from the right. Why should you wait, even if you have enough time to turn?",
+    "options": {
+      "A": "The lorry could suddenly speed up",
+      "B": "The load on the lorry might be unstable",
+      "C": "The lorry might be slowing down",
+      "D": "Anything overtaking the lorry will be hidden from view"
+    },
+    "correct": "D",
+    "explanation": "Anything overtaking the lorry will be hidden from view. Large vehicles can hide overtaking traffic from your view."
+  },
+  {
+    "number": 3,
+    "text": "You're following a long\nvehicle as it approaches a\ncrossroads. What should\nyou do if it signals left but\nmoves out to the right?",
+    "options": {
+      "A": "Get closer in order to pass it quickly",
+      "B": "Overtake it as it starts to slow down",
+      "C": "Assume the signal is wrong and that it's turning right",
+      "D": "Stay well back and give it room"
+    },
+    "correct": "B",
+    "explanation": "It will take longer to overtake. Large vehicles require more time and distance to overtake safely."
+  },
+  {
+    "number": 4,
+    "text": "You're following a long \nvehicle approaching a \ncrossroads. What should \nyou do if the driver signals right but moves close to the left-hand kerb?",
+    "options": {
+      "A": "Report the driver to the police",
+      "B": "Warn the driver about the wrong signal",
+      "C": "Wait behind the long vehicle",
+      "D": "Overtake on the right-hand side"
+    },
+    "correct": "A",
+    "explanation": "Leave plenty of room. Motorcycles can be blown off course by strong winds or your vehicle's draft."
+  },
+  {
+    "number": 5,
+    "text": "You’re approaching a \nmini-roundabout. What \nshould you do if a long \nvehicle in front signals left but positions over to the right?",
+    "options": {
+      "A": "Keep well back",
+      "B": "Sound your horn",
+      "C": "Overtake on the left",
+      "D": "Follow the same course as the lorry"
+    },
+    "correct": "C",
+    "explanation": "The driver might not be able to see you. Large vehicles have significant blind spots where you may not be visible."
+  },
+  {
+    "number": 6,
+    "text": "You're driving on a single\ncarriageway road. Why\nshould you keep well back\nwhile you're following a\nlarge vehicle?",
+    "options": {
+      "A": "To give yourself acceleration space if you decide to overtake",
+      "B": "To offer other drivers a safe gap if they want to overtake you",
+      "C": "To leave a gap in case the vehicle stops and rolls back",
+      "D": "To get the best view of the road ahead"
+    },
+    "correct": "D",
+    "explanation": "Allow extra room. Buses and coaches need wide turning circles, especially at junctions."
+  },
+  {
+    "number": 8,
+    "text": "You're following a lorry on a wet road. What should you do when spray makes it \ndifficult to see the road \nahead?",
+    "options": {
+      "A": "Drop back until you can see better",
+      "B": "Put your headlights on full beam",
+      "C": "Keep close to the lorry, away from the spray",
+      "D": "Speed up and overtake quickly"
+    },
+    "correct": "A",
+    "explanation": "The vehicle could be carrying oversized loads. Agricultural vehicles often carry wide or long loads."
+  },
+  {
+    "number": 9,
+    "text": "You're leaving a safe gap\nas you follow a large\nvehicle. What should you do\nif a car moves into this gap?",
+    "options": {
+      "A": "Start to overtake",
+      "B": "Sound your horn",
+      "C": "Drop back further",
+      "D": "Flash your headlights"
+    },
+    "correct": "C",
+    "explanation": "It will take a long time to overtake. Slow-moving agricultural vehicles require extra time to pass safely."
+  },
+  {
+    "number": 10,
+    "text": "What should you do\nwhen you're approaching a\nbus that's signalling to move\naway from a bus stop?",
+    "options": {
+      "A": "Get past before it moves",
+      "B": "Allow it to pull away, if it's safe to do so",
+      "C": "Flash your headlights as you approach",
+      "D": "Signal left and wave the bus on"
+    },
+    "correct": "D",
+    "explanation": "Give them plenty of room. Powered wheelchairs and mobility scooters need space and consideration."
+  },
+  {
+    "number": 11,
+    "text": "What should you do if\nyou want to overtake a long,\nslow-moving vehicle on a\nbusy road?",
+    "options": {
+      "A": "Follow it closely and keep moving out to see the road ahead",
+      "B": "Flash your headlights for the oncoming traffic to give way",
+      "C": "Stay behind until the driver waves you past",
+      "D": "Keep well back so that you get a good view of the road ahead"
+    },
+    "correct": "B",
+    "explanation": "Drop back to increase your view. Following too closely restricts your view of the road ahead."
+  },
+  {
+    "number": 13,
+    "text": "What should you do as\nyou approach this lorry?",
+    "options": {
+      "A": "Make the lorry wait for you",
+      "B": "Slow down and be prepared to wait",
+      "C": "Move to the right-hand side of the road",
+      "D": "Flash your lights at the lorry"
+    },
+    "correct": "C",
+    "explanation": "Drop back and give more space. Large vehicles obstruct your view and need extra following distance."
+  },
+  {
+    "number": 14,
+    "text": "You're following a large\nvehicle as it approaches a\ncrossroads. What should\nyou do if the driver signals\nto turn left?",
+    "options": {
+      "A": "Wait for the vehicle to finish turning",
+      "B": "Overtake if there are no oncoming vehicles",
+      "C": "Overtake if you can leave plenty of room",
+      "D": "Wait for the driver to cancel their signal"
+    },
+    "correct": "D",
+    "explanation": "The driver might not be able to see you in their mirrors. Large vehicle blind spots mean drivers may not see you."
+  },
+  {
+    "number": 15,
+    "text": "Why is it more difficult to\novertake a large vehicle than\na car?",
+    "options": {
+      "A": "It will take longer to overtake a large vehicle",
+      "B": "A large vehicle will be fitted with a speed limiter",
+      "C": "A large vehicle will have air brakes",
+      "D": "It will take longer for a large vehicle to accelerate"
+    },
+    "correct": "B",
+    "explanation": "Stay well back. Horse riders need plenty of space as horses can be unpredictable."
+  },
+  {
+    "number": 16,
+    "text": "It's very windy. What\nshould you do if you're\nbehind a motorcyclist who's\novertaking a high-sided\nvehicle?",
+    "options": {
+      "A": "Keep close to the motorcyclist",
+      "B": "Stay level with the motorcyclist",
+      "C": "Keep well back",
+      "D": "Overtake the motorcyclist immediately"
+    },
+    "correct": "A",
+    "explanation": "Drop back. Following closely restricts your view and reaction time."
+  },
+  {
+    "number": 17,
+    "text": "What should you do if\nthere's a bus at a bus stop\nahead of you?",
+    "options": {
+      "A": "Pass the bus as quickly as you possibly can",
+      "B": "Watch carefully for the sudden appearance of pedestrians",
+      "C": "Continue at the same speed but sound your horn as a warning",
+      "D": "Flash your lights to warn the driver of your presence"
+    },
+    "correct": "C",
+    "explanation": "Their brakes might not be as good as yours. Older vehicles may have less effective braking systems."
+  },
+  {
+    "number": 18,
+    "text": "What should you be\nprepared to do in this\nsituation?",
+    "options": {
+      "A": "Slow down and give way",
+      "B": "Squeeze through the gap",
+      "C": "Report the driver to the police",
+      "D": "Sound your horn and continue"
+    },
+    "correct": "D",
+    "explanation": "To help them see traffic behind. Motorcyclists shoulder check to see traffic in their blind spots."
+  },
+  {
+    "number": 19,
+    "text": "Why should drivers be\nmore careful on roads where\ntrams also operate?",
+    "options": {
+      "A": "Because trams don't have lights",
+      "B": "Because trams don't have a horn",
+      "C": "Because trams can't stop for cars",
+      "D": "Because trams can't steer to avoid obstructions"
+    },
+    "correct": "B",
+    "explanation": "Keep well back. Slow vehicles should be given space, not pressured."
+  },
+  {
+    "number": 20,
+    "text": "You're towing a caravan.\nWhich is the safest type of\nrear-view mirror to use?",
+    "options": {
+      "A": "Interior wide-angle mirror",
+      "B": "Extended-arm side mirrors",
+      "C": "Ordinary door mirrors",
+      "D": "Ordinary interior mirror"
+    },
+    "correct": "A",
+    "explanation": "You won't be able to see ahead. Following large vehicles closely severely restricts forward visibility."
+  },
+  {
+    "number": 21,
+    "text": "You're driving in heavy traffic on a wet road. Which lights should you use if \nthere's a lot of surface \nspray?",
+    "options": {
+      "A": "Dipped headlights",
+      "B": "Rear fog lights if visibility is more than 100 metres (328 feet)",
+      "C": "Sidelights only",
+      "D": "Main-beam headlights"
+    },
+    "correct": "A",
+    "explanation": "Dipped headlights. Use dipped headlights in heavy spray to help you see and be seen."
+  },
+  {
+    "number": 22,
+    "text": "What should you do if\nyou overtake a cyclist when\nit's very windy?",
+    "options": {
+      "A": "Overtake very slowly",
+      "B": "Sound your horn repeatedly",
+      "C": "Allow extra room",
+      "D": "Keep close as you pass"
+    },
+    "correct": "C",
+    "explanation": "Allow extra room. Strong winds can push cyclists off course, so give extra passing space."
+  }
+]
