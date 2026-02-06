@@ -1,0 +1,873 @@
+[
+  {
+    "text": "What does a circular sign with a red border showing '20' and text 'ZONE' mean?",
+    "options": {
+      "A": "Entry to 20 mph zone",
+      "B": "End of 20 mph zone",
+      "C": "20 vehicles maximum",
+      "D": "20 tonne weight limit"
+    },
+    "correct": "A",
+    "explanation": "A red circle with 20 and ZONE indicates the start of a 20 mph speed limit zone, usually in residential areas with traffic calming measures.",
+    "image": "images/20-mph-zone-sign.png",
+    "number": 1
+  },
+  {
+    "text": "What does a circular sign with '20' crossed through with a black diagonal line mean?",
+    "options": {
+      "A": "No vehicles over 20 tonnes",
+      "B": "End of 20 mph zone",
+      "C": "20 mph speed limit",
+      "D": "Minimum speed 20 mph"
+    },
+    "correct": "B",
+    "explanation": "The diagonal line crossing through the 20 mph zone sign indicates the end of the 20 mph speed restriction.",
+    "image": "images/zone-ends-sign.png",
+    "number": 2
+  },
+  {
+    "text": "What does a circular sign with a black diagonal stripe on white background mean?",
+    "options": {
+      "A": "No entry",
+      "B": "End of all restrictions",
+      "C": "National speed limit applies",
+      "D": "No stopping"
+    },
+    "correct": "C",
+    "explanation": "A white circle with a black diagonal stripe indicates that the national speed limit applies (70 mph on motorways/dual carriageways, 60 mph on single carriageways for cars).",
+    "image": "images/national-speed-limit-options.png",
+    "number": 3
+  },
+  {
+    "text": "What shape is a STOP sign?",
+    "options": {
+      "A": "Circle",
+      "B": "Triangle",
+      "C": "Octagon (8 sides)",
+      "D": "Rectangle"
+    },
+    "correct": "C",
+    "explanation": "STOP signs are octagonal (8-sided) - this is the only sign with this shape in the UK, making it instantly recognizable even when obscured.",
+    "image": "images/stop-sign-octagon.png",
+    "number": 4
+  },
+  {
+    "text": "What does an inverted triangle (point down) with red border mean?",
+    "options": {
+      "A": "Stop",
+      "B": "Give way to traffic on major road",
+      "C": "Warning ahead",
+      "D": "Priority road"
+    },
+    "correct": "B",
+    "explanation": "An inverted triangle with red border is a Give Way sign, instructing you to give priority to traffic on the major road.",
+    "image": "images/give-way-line-roundabout.png",
+    "number": 5
+  },
+  {
+    "text": "What does a circular sign with a red border and white center (no symbols) mean?",
+    "options": {
+      "A": "No entry",
+      "B": "No vehicles",
+      "C": "No stopping",
+      "D": "Speed limit zone"
+    },
+    "correct": "B",
+    "explanation": "A red circle on its own (white center, no symbols) means no entry for all vehicles except bicycles being pushed.",
+    "image": "images/no-entry-sign-options.png",
+    "number": 6
+  },
+  {
+    "text": "What does a solid red circle mean?",
+    "options": {
+      "A": "Stop",
+      "B": "No entry for vehicular traffic",
+      "C": "No waiting",
+      "D": "Clearway"
+    },
+    "correct": "B",
+    "explanation": "A solid red circle (filled) means no entry for any vehicles - you must not proceed past this sign.",
+    "image": "images/no-entry-sign-options.png",
+    "number": 7
+  },
+  {
+    "text": "What does a red circle with a white horizontal bar mean?",
+    "options": {
+      "A": "No entry",
+      "B": "No through road",
+      "C": "No waiting",
+      "D": "One way street"
+    },
+    "correct": "A",
+    "explanation": "A red circle with a white horizontal bar is the 'No Entry' sign for vehicles.",
+    "image": "images/no-entry-sign-options.png",
+    "number": 8
+  },
+  {
+    "text": "What does a red circle with a car symbol mean?",
+    "options": {
+      "A": "Cars only",
+      "B": "No motor vehicles",
+      "C": "Car park",
+      "D": "Low emission zone"
+    },
+    "correct": "B",
+    "explanation": "A red circle showing a car symbol means no motor vehicles are allowed (except motorcycles without sidecars).",
+    "image": "images/no-motor-vehicles.png",
+    "number": 9
+  },
+  {
+    "text": "What does a red circle with two cars side by side mean?",
+    "options": {
+      "A": "Two lanes ahead",
+      "B": "No overtaking",
+      "C": "Dual carriageway",
+      "D": "Car sharing only"
+    },
+    "correct": "B",
+    "explanation": "Two cars shown side by side in a red circle means no overtaking.",
+    "image": "images/no-overtaking.png",
+    "number": 10
+  },
+  {
+    "text": "What does a red circle with LEFT TURN arrow crossed out mean?",
+    "options": {
+      "A": "Turn left only",
+      "B": "No left turn",
+      "C": "Left lane closed",
+      "D": "Priority from left"
+    },
+    "correct": "B",
+    "explanation": "A red circle with a left arrow crossed means no left turn permitted.",
+    "image": "images/no-right-turn.png",
+    "number": 11
+  },
+  {
+    "text": "What does a red circle with RIGHT TURN arrow crossed out mean?",
+    "options": {
+      "A": "Turn right only",
+      "B": "No right turn",
+      "C": "Right lane closed",
+      "D": "Priority from right"
+    },
+    "correct": "B",
+    "explanation": "A red circle with a right arrow crossed means no right turn permitted.",
+    "image": "images/no-right-turn.png",
+    "number": 12
+  },
+  {
+    "text": "What does a red circle with a lorry/truck symbol mean?",
+    "options": {
+      "A": "Goods vehicles only",
+      "B": "No goods vehicles over weight shown",
+      "C": "Loading bay",
+      "D": "Truck stop ahead"
+    },
+    "correct": "B",
+    "explanation": "A red circle with a lorry symbol indicates no goods vehicles over the maximum gross weight shown (in tonnes).",
+    "image": "images/height-restriction-4m.png",
+    "number": 13
+  },
+  {
+    "text": "What does a red circle showing 4.4m with a vertical arrow mean?",
+    "options": {
+      "A": "Maximum width 4.4 metres",
+      "B": "Maximum length 4.4 metres",
+      "C": "Maximum height 4.4 metres",
+      "D": "Minimum height 4.4 metres"
+    },
+    "correct": "C",
+    "explanation": "A red circle with a height measurement and vertical arrow shows the maximum height of vehicles allowed to pass.",
+    "image": "images/height-restriction-4m.png",
+    "number": 14
+  },
+  {
+    "text": "What does a red circle showing metres with a horizontal double-headed arrow mean?",
+    "options": {
+      "A": "Maximum width shown",
+      "B": "Maximum length shown",
+      "C": "Maximum distance",
+      "D": "Lane width"
+    },
+    "correct": "A",
+    "explanation": "A red circle with a width measurement and horizontal double-headed arrow indicates maximum vehicle width.",
+    "image": "images/height-limit-sign-options.png",
+    "number": 15
+  },
+  {
+    "text": "What does a red circle with a red cross (X) mean?",
+    "options": {
+      "A": "No entry",
+      "B": "Clearway - no stopping",
+      "C": "No waiting",
+      "D": "Emergency vehicles only"
+    },
+    "correct": "B",
+    "explanation": "A red circle with a red X means Clearway - no stopping on the carriageway during the times shown (or at any time if no times shown).",
+    "image": "images/clearway-no-stopping.png",
+    "number": 16
+  },
+  {
+    "text": "What does a red circle with one diagonal red line mean?",
+    "options": {
+      "A": "No stopping",
+      "B": "No waiting",
+      "C": "No parking",
+      "D": "Clearway"
+    },
+    "correct": "B",
+    "explanation": "A red circle with one red diagonal line means no waiting (no stopping to load/unload or set down/pick up passengers).",
+    "image": "images/waiting-restrictions-8am-6pm.png",
+    "number": 17
+  },
+  {
+    "text": "What do blue circular signs with white symbols indicate?",
+    "options": {
+      "A": "Information",
+      "B": "Warning",
+      "C": "Mandatory instruction - must be obeyed",
+      "D": "Optional advice"
+    },
+    "correct": "C",
+    "explanation": "Blue circular signs give mandatory instructions (positive orders) that must be obeyed.",
+    "image": "images/blue-circular-sign-meaning.png",
+    "number": 18
+  },
+  {
+    "text": "What does a blue circle showing '30' mean?",
+    "options": {
+      "A": "Maximum speed 30 mph",
+      "B": "Minimum speed 30 mph",
+      "C": "30 mph zone ahead",
+      "D": "Advisory speed 30 mph"
+    },
+    "correct": "B",
+    "explanation": "A blue circle (not red) with a speed shown indicates minimum speed limit - vehicles must travel at least this fast unless unsafe.",
+    "image": "images/minimum-speed-30-mph.png",
+    "number": 19
+  },
+  {
+    "text": "What does a blue circle with left and right arrows mean?",
+    "options": {
+      "A": "Two-way traffic",
+      "B": "Pass either side to reach same destination",
+      "C": "Turn left or right",
+      "D": "Crossroads ahead"
+    },
+    "correct": "B",
+    "explanation": "A blue circle with arrows pointing left and right means vehicles may pass either side of the obstruction.",
+    "image": "images/pass-either-side.png",
+    "number": 20
+  },
+  {
+    "text": "What does a blue circle with a tram symbol mean?",
+    "options": {
+      "A": "Tram crossing ahead",
+      "B": "Give way to trams",
+      "C": "Trams only",
+      "D": "Tram stop"
+    },
+    "correct": "C",
+    "explanation": "A blue circle with a tram symbol means the route is for trams only - other vehicles must not enter.",
+    "image": "images/trams-only-route.png",
+    "number": 21
+  },
+  {
+    "text": "What does a blue rectangular sign with a bus symbol and arrow pointing against traffic mean?",
+    "options": {
+      "A": "Bus stop",
+      "B": "No buses",
+      "C": "Contraflow bus lane",
+      "D": "Bus station ahead"
+    },
+    "correct": "C",
+    "explanation": "A blue sign showing a bus and arrow indicates a contraflow bus lane - buses travel opposite to other traffic.",
+    "image": "images/contraflow-bus-lane-1.png",
+    "number": 22
+  },
+  {
+    "text": "What do triangular signs with red borders indicate?",
+    "options": {
+      "A": "Mandatory instructions",
+      "B": "Information",
+      "C": "Warning of hazards ahead",
+      "D": "Prohibition"
+    },
+    "correct": "C",
+    "explanation": "Red triangle signs warn of hazards ahead - you should slow down and be prepared.",
+    "image": "images/triangle-warning-sign-purpose.png",
+    "number": 23
+  },
+  {
+    "text": "What does a red triangle with a T-junction symbol mean?",
+    "options": {
+      "A": "T-junction ahead",
+      "B": "Turn ahead",
+      "C": "Traffic lights",
+      "D": "Tunnel ahead"
+    },
+    "correct": "A",
+    "explanation": "A red triangle showing a T-junction warns that you're approaching a T-junction where you must give way.",
+    "image": "images/t-junction-warning.png",
+    "number": 24
+  },
+  {
+    "text": "What does a red triangle with a cross (+) symbol mean?",
+    "options": {
+      "A": "Hospital ahead",
+      "B": "First aid",
+      "C": "Crossroads ahead",
+      "D": "No through road"
+    },
+    "correct": "C",
+    "explanation": "A red triangle with a cross symbol warns of a crossroads ahead where traffic may cross your path.",
+    "image": "images/crossroads-warning.png",
+    "number": 25
+  },
+  {
+    "text": "What does a red triangle with three circular arrows mean?",
+    "options": {
+      "A": "Roundabout ahead",
+      "B": "Turn around",
+      "C": "Winding road",
+      "D": "Circular route"
+    },
+    "correct": "A",
+    "explanation": "A red triangle with circular arrows warns of a roundabout ahead.",
+    "image": "images/roundabout-warning.png",
+    "number": 26
+  },
+  {
+    "text": "What does a red triangle with a snowflake symbol mean?",
+    "options": {
+      "A": "Cold weather ahead",
+      "B": "Risk of ice",
+      "C": "Winter tyres required",
+      "D": "Ski area"
+    },
+    "correct": "B",
+    "explanation": "A snowflake in a red triangle warns of risk of ice on the road ahead.",
+    "image": "images/risk-of-ice-snowflake.png",
+    "number": 27
+  },
+  {
+    "text": "What does a red triangle with a windsock/flag symbol mean?",
+    "options": {
+      "A": "Airport nearby",
+      "B": "Side winds",
+      "C": "Flag flying zone",
+      "D": "Weather station"
+    },
+    "correct": "B",
+    "explanation": "A windsock symbol warns of strong cross winds or side winds that could affect vehicle control.",
+    "image": "images/side-winds-warning.png",
+    "number": 28
+  },
+  {
+    "text": "What does a red triangle with a bicycle symbol mean?",
+    "options": {
+      "A": "Cycle parking",
+      "B": "No cycling",
+      "C": "Cycle route ahead",
+      "D": "Cyclists dismount"
+    },
+    "correct": "C",
+    "explanation": "A bicycle in a red triangle warns that cyclists may be entering or crossing the road ahead.",
+    "image": "images/cycle-route-ahead.png",
+    "number": 29
+  },
+  {
+    "text": "What does a red triangle showing two adults and a child mean?",
+    "options": {
+      "A": "School ahead",
+      "B": "Playground",
+      "C": "Pedestrians in road ahead",
+      "D": "Pedestrian crossing"
+    },
+    "correct": "C",
+    "explanation": "Figures shown in a triangle warn of pedestrians likely to be walking in or crossing the road.",
+    "image": "images/pedestrians-walking-road.png",
+    "number": 30
+  },
+  {
+    "text": "What does a red triangle with a double bend symbol (S-shape) mean?",
+    "options": {
+      "A": "Slippery road",
+      "B": "Series of bends ahead",
+      "C": "Winding road for 2 miles",
+      "D": "Serpentine road"
+    },
+    "correct": "B",
+    "explanation": "A double-bend (S) symbol warns of a series of bends ahead - first bend is in direction shown.",
+    "image": "images/double-bend-ahead.png",
+    "number": 31
+  },
+  {
+    "text": "What does a red triangle with a hump/bump profile mean?",
+    "options": {
+      "A": "Road works",
+      "B": "Uneven road",
+      "C": "Humps for traffic calming",
+      "D": "Hill ahead"
+    },
+    "correct": "C",
+    "explanation": "A hump symbol warns of road humps (speed bumps) ahead for traffic calming.",
+    "image": "images/humps-in-road.png",
+    "number": 32
+  },
+  {
+    "text": "What does a red triangle showing two lanes becoming one mean?",
+    "options": {
+      "A": "Road narrows",
+      "B": "Dual carriageway ends",
+      "C": "Lane closed",
+      "D": "Merge ahead"
+    },
+    "correct": "B",
+    "explanation": "Two lanes reducing to one in a triangle warns that dual carriageway is ending - single carriageway with two-way traffic ahead.",
+    "image": "images/end-of-dual-carriageway.png",
+    "number": 33
+  },
+  {
+    "text": "What does a red triangle showing a road narrowing from both sides mean?",
+    "options": {
+      "A": "Bridge ahead",
+      "B": "Road narrows on both sides",
+      "C": "Tunnel",
+      "D": "Bottleneck"
+    },
+    "correct": "B",
+    "explanation": "Converging lines from both sides warn that the road narrows ahead from both sides.",
+    "image": "images/road-narrows-dual-carriageway-ends.png",
+    "number": 34
+  },
+  {
+    "text": "What does a red triangle with an exclamation mark (!) mean?",
+    "options": {
+      "A": "Important road",
+      "B": "Other danger not specified",
+      "C": "Emergency services",
+      "D": "Stop ahead"
+    },
+    "correct": "B",
+    "explanation": "An exclamation mark warns of an unexpected danger ahead - the specific hazard will be indicated on a plate below.",
+    "image": "images/danger-ahead-exclamation.png",
+    "number": 35
+  },
+  {
+    "text": "What does a red triangle with 'Hidden dip' written on a plate below mean?",
+    "options": {
+      "A": "Road depression ahead",
+      "B": "Valley ahead",
+      "C": "Hidden dip in the road",
+      "D": "Drainage area"
+    },
+    "correct": "C",
+    "explanation": "This warns of a hidden dip in the road that you cannot see until close - often with 'Hidden dip' text below an exclamation mark.",
+    "image": "images/hidden-dip-warning.png",
+    "number": 36
+  },
+  {
+    "text": "What does a red triangle with a train/fence symbol mean?",
+    "options": {
+      "A": "Railway station",
+      "B": "Level crossing with barrier or gate ahead",
+      "C": "No trains",
+      "D": "Train viewing area"
+    },
+    "correct": "B",
+    "explanation": "A train symbol with fence/barrier warns of a level crossing with barrier or gate ahead.",
+    "image": "images/level-crossing-with-gate.png",
+    "number": 37
+  },
+  {
+    "text": "What does a red triangle with a tram symbol mean?",
+    "options": {
+      "A": "Tram stop",
+      "B": "Trams crossing ahead",
+      "C": "Tram route",
+      "D": "Tram depot"
+    },
+    "correct": "B",
+    "explanation": "A tram symbol in a triangle warns that trams may be crossing the road ahead.",
+    "image": "images/trams-crossing-ahead.png",
+    "number": 38
+  },
+  {
+    "text": "What does a red triangle showing 10% mean?",
+    "options": {
+      "A": "10% incline/gradient ahead",
+      "B": "10% discount zone",
+      "C": "10 kilometres ahead",
+      "D": "10% tax zone"
+    },
+    "correct": "A",
+    "explanation": "A percentage (like 10%) in a red triangle warns of a steep hill - the percentage is the gradient (10% = 1 in 10).",
+    "image": "images/steep-hill-10-percent.png",
+    "number": 39
+  },
+  {
+    "text": "What does a red triangle with 'Ford' written below mean?",
+    "options": {
+      "A": "Ford vehicle dealership",
+      "B": "Water crossing ahead",
+      "C": "Four-way junction",
+      "D": "Forward only"
+    },
+    "correct": "B",
+    "explanation": "Ford means a shallow water crossing across the road - the triangle warns you the road ahead crosses through water.",
+    "image": "images/ford-water-crossing.png",
+    "number": 40
+  },
+  {
+    "text": "What does a blue rectangular sign with a white 'P' mean?",
+    "options": {
+      "A": "Police station",
+      "B": "Parking place",
+      "C": "Pedestrian zone",
+      "D": "Post office"
+    },
+    "correct": "B",
+    "explanation": "A blue rectangle with white P indicates a parking place.",
+    "image": "images/parking-options-4-signs.png",
+    "number": 41
+  },
+  {
+    "text": "What does a blue square sign showing 'T' dead-end with red bar across top mean?",
+    "options": {
+      "A": "T-junction",
+      "B": "No through road",
+      "C": "Turn around",
+      "D": "Taxi stand"
+    },
+    "correct": "B",
+    "explanation": "A T-shaped dead end sign indicates no through road - the road ahead doesn't continue.",
+    "image": "images/no-through-road-t-sign.png",
+    "number": 42
+  },
+  {
+    "text": "What do brown rectangular signs indicate?",
+    "options": {
+      "A": "Road works",
+      "B": "Tourist attractions or facilities",
+      "C": "Earth-moving vehicles",
+      "D": "Brown field sites"
+    },
+    "correct": "B",
+    "explanation": "Brown signs indicate tourist attractions, facilities or points of interest.",
+    "image": "images/brown-tourist-sign-train.png",
+    "number": 43
+  },
+  {
+    "text": "What does a blue motorway sign showing 'Crawler lane' with truck symbol mean?",
+    "options": {
+      "A": "Slow vehicles must use hard shoulder",
+      "B": "Lane for heavy and slow vehicles",
+      "C": "Emergency vehicles only",
+      "D": "Truck parking ahead"
+    },
+    "correct": "B",
+    "explanation": "A crawler lane is provided for slow-moving vehicles (lorries, trucks) on steep uphill sections of motorways.",
+    "image": "images/crawler-lane-motorway.png",
+    "number": 44
+  },
+  {
+    "text": "What does a blue motorway sign with a white arrow curving up-left mean?",
+    "options": {
+      "A": "Sharp turn ahead",
+      "B": "Leave motorway at next exit",
+      "C": "Hard shoulder",
+      "D": "Slip road ahead"
+    },
+    "correct": "B",
+    "explanation": "An upward-curving arrow on motorway signs indicates you should leave at the next exit.",
+    "image": "images/motorway-leave-at-next-exit.png",
+    "number": 45
+  },
+  {
+    "text": "What does a black sign showing '50' inside amber lights mean?",
+    "options": {
+      "A": "Permanent speed limit 50 mph",
+      "B": "Temporary maximum speed 50 mph",
+      "C": "Minimum speed 50 mph",
+      "D": "50 miles to next services"
+    },
+    "correct": "B",
+    "explanation": "Speed shown in amber lights indicates a temporary maximum speed (often due to traffic, weather, or road works).",
+    "image": "images/motorway-temp-speed-50.png",
+    "number": 46
+  },
+  {
+    "text": "What does a motorway sign showing two vertical arrows with one blocked by red X mean?",
+    "options": {
+      "A": "Lane closed ahead - move to open lane",
+      "B": "Two lanes merging",
+      "C": "Overtaking lane",
+      "D": "Variable speed limit"
+    },
+    "correct": "A",
+    "explanation": "A red X over a lane means that lane is closed - you must move to an open lane shown by arrows.",
+    "image": "images/motorway-right-lane-closed.png",
+    "number": 47
+  },
+  {
+    "text": "What does a motorway sign showing '25' in a box on a blue background mean?",
+    "options": {
+      "A": "25 mph speed limit",
+      "B": "Junction number 25",
+      "C": "25 miles to destination",
+      "D": "Route number 25"
+    },
+    "correct": "B",
+    "explanation": "Numbers in boxes on motorway signs indicate junction numbers for navigational purposes.",
+    "image": "images/motorway-nottingham-a46-j25.png",
+    "number": 48
+  },
+  {
+    "text": "What does a blue sign with motorway symbol crossed by red diagonal line mean?",
+    "options": {
+      "A": "No motorway traffic",
+      "B": "End of motorway",
+      "C": "Motorway closed",
+      "D": "Slip road ahead"
+    },
+    "correct": "B",
+    "explanation": "A motorway symbol with red diagonal line indicates end of motorway regulations.",
+    "image": "images/end-of-motorway.png",
+    "number": 49
+  },
+  {
+    "text": "What does a yellow motorway sign saying 'STAY IN LANE' with lane markings mean?",
+    "options": {
+      "A": "Choose your lane",
+      "B": "Keep in your lane - contraflow system ahead",
+      "C": "Lane discipline",
+      "D": "Police checkpoint"
+    },
+    "correct": "B",
+    "explanation": "STAY IN LANE warns of contraflow system (traffic in both directions using one carriageway) - you must not change lanes.",
+    "image": "images/stay-in-lane-contraflow.png",
+    "number": 50
+  },
+  {
+    "text": "At traffic lights showing red and amber together, what should you do?",
+    "options": {
+      "A": "Go if the way is clear",
+      "B": "Stop - do not pass the stop line",
+      "C": "Prepare to go - about to turn green",
+      "D": "Proceed with caution"
+    },
+    "correct": "C",
+    "explanation": "Red and amber together means the lights are about to change to green - prepare to go but don't move until green shows.",
+    "image": "images/traffic-light-turn-left.png",
+    "number": 51
+  },
+  {
+    "text": "What does a red traffic light with diagonal red bar mean?",
+    "options": {
+      "A": "Traffic lights out of order",
+      "B": "Emergency vehicles only",
+      "C": "Proceed with extreme caution",
+      "D": "Pedestrian phase"
+    },
+    "correct": "A",
+    "explanation": "A traffic light showing a red diagonal bar means the lights are not working - treat as unmarked junction (give way to traffic from right).",
+    "image": "images/traffic-lights-out-of-order.png",
+    "number": 52
+  },
+  {
+    "text": "What do alternating flashing red lights mean?",
+    "options": {
+      "A": "Slow down",
+      "B": "Level crossing - stop when lights show",
+      "C": "Emergency vehicles",
+      "D": "School crossing"
+    },
+    "correct": "B",
+    "explanation": "Alternating flashing red lights are at level crossings - you MUST stop when they show as a train is approaching.",
+    "image": "images/flashing-red-lights-level-crossing.png",
+    "number": 53
+  },
+  {
+    "text": "What does a green filter arrow at traffic lights mean?",
+    "options": {
+      "A": "Go straight only",
+      "B": "You may go in the direction shown by arrow even if main light is red",
+      "C": "Give way then turn",
+      "D": "Priority route"
+    },
+    "correct": "B",
+    "explanation": "A green filter arrow allows you to proceed in that direction even if the main light is red.",
+    "image": "images/traffic-light-turn-left.png",
+    "number": 54
+  },
+  {
+    "text": "When police officer raises arm straight up, what does this mean?",
+    "options": {
+      "A": "Go",
+      "B": "Stop",
+      "C": "Slow down",
+      "D": "Give way"
+    },
+    "correct": "B",
+    "explanation": "Arm raised straight up means STOP - traffic must stop from all directions.",
+    "image": "images/police-officer-stop-signal.png",
+    "number": 55
+  },
+  {
+    "text": "What do zigzag white lines on the road mean?",
+    "options": {
+      "A": "Speed limit zone",
+      "B": "No parking or overtaking",
+      "C": "Loading bay",
+      "D": "Speed bumps ahead"
+    },
+    "correct": "B",
+    "explanation": "Zigzag lines (near pedestrian crossings or school crossings) mean no parking, stopping, or overtaking in this area.",
+    "image": "images/zigzag-white-lines.png",
+    "number": 56
+  },
+  {
+    "text": "When may you cross a double solid white line in the middle of the road?",
+    "options": {
+      "A": "Never",
+      "B": "Only to pass a stationary vehicle blocking the lane",
+      "C": "To overtake if safe",
+      "D": "To turn into a property or side road"
+    },
+    "correct": "D",
+    "explanation": "You may cross double solid white lines only to enter/exit premises or a side road, or to pass a stationary obstruction.",
+    "image": "images/double-solid-white-line.png",
+    "number": 57
+  },
+  {
+    "text": "What does a single broken white line along the middle of the road mean?",
+    "options": {
+      "A": "Do not cross",
+      "B": "No overtaking",
+      "C": "Hazard warning line - may cross if safe",
+      "D": "Parking permitted"
+    },
+    "correct": "C",
+    "explanation": "A single broken white center line marks lanes - you may cross it to overtake if safe to do so.",
+    "image": "images/single-broken-white-line.png",
+    "number": 58
+  },
+  {
+    "text": "What do white triangles painted on the road mean?",
+    "options": {
+      "A": "Parking spaces",
+      "B": "GIVE WAY - you must yield to traffic ahead",
+      "C": "Warning triangles",
+      "D": "Turn arrows"
+    },
+    "correct": "B",
+    "explanation": "White triangles pointing towards you mean GIVE WAY - you must give priority to traffic on the road you're joining.",
+    "image": "images/road-marking-triangles.png",
+    "number": 59
+  },
+  {
+    "text": "What does 'STOP' painted on the road with a solid white line mean?",
+    "options": {
+      "A": "Stop only if traffic approaching",
+      "B": "You MUST stop at the line",
+      "C": "Bus stop",
+      "D": "Suggested stopping point"
+    },
+    "correct": "B",
+    "explanation": "STOP painted on the road with a solid line means you MUST stop at the line even if road appears clear.",
+    "image": "images/stop-sign-and-road-marking.png",
+    "number": 60
+  },
+  {
+    "text": "What does a broken white line across the road at a roundabout entrance mean?",
+    "options": {
+      "A": "Stop",
+      "B": "Give way to traffic from the right",
+      "C": "Proceed with caution",
+      "D": "Roundabout priority lane"
+    },
+    "correct": "B",
+    "explanation": "A give way line (broken white) at roundabout means you must give priority to traffic already on the roundabout (from your right in UK).",
+    "image": "images/give-way-line-roundabout.png",
+    "number": 61
+  },
+  {
+    "text": "What do yellow lines painted on the road edge or kerb indicate?",
+    "options": {
+      "A": "Loading bay",
+      "B": "Waiting restrictions apply",
+      "C": "Bus stop",
+      "D": "Speed limit zone"
+    },
+    "correct": "B",
+    "explanation": "Yellow lines indicate waiting and parking restrictions - check nearby signs for details of restrictions.",
+    "image": "images/waiting-restrictions-mon-sat.png",
+    "number": 62
+  },
+  {
+    "text": "What does a longer broken hazard warning line mean compared to normal center line?",
+    "options": {
+      "A": "Overtaking allowed",
+      "B": "Hazard ahead - do not cross unless you can see road is clear well ahead",
+      "C": "No difference",
+      "D": "Fast lane"
+    },
+    "correct": "B",
+    "explanation": "Longer broken lines (hazard warning lines) warn of a hazard ahead - only cross to overtake if you can see far enough ahead that it's safe.",
+    "image": "images/hazard-warning-line-diagrams.png",
+    "number": 63
+  },
+  {
+    "text": "What does a car driver's right arm extended straight out mean?",
+    "options": {
+      "A": "Turning right",
+      "B": "Turning left",
+      "C": "Slowing down",
+      "D": "Waving hello"
+    },
+    "correct": "A",
+    "explanation": "Right arm extended horizontally means the driver intends to turn right.",
+    "image": "images/arm-signal-turn-right-circular.png",
+    "number": 64
+  },
+  {
+    "text": "What does a car driver's arm rotating in a circular motion mean?",
+    "options": {
+      "A": "Going straight",
+      "B": "Turning left",
+      "C": "Turning right or changing lane to the right",
+      "D": "Emergency stop"
+    },
+    "correct": "C",
+    "explanation": "Arm moving in a circular motion indicates the driver intends to turn right or move to a lane on their right.",
+    "image": "images/arm-signal-turn-right-circular.png",
+    "number": 65
+  },
+  {
+    "text": "What does a motorcyclist's LEFT arm extended at shoulder level mean?",
+    "options": {
+      "A": "Right turn",
+      "B": "Left turn",
+      "C": "Stop",
+      "D": "Overtaking"
+    },
+    "correct": "B",
+    "explanation": "Left arm extended horizontally from a motorcyclist means they're turning left.",
+    "image": "images/motorcycle-arm-signal-turn-left.png",
+    "number": 66
+  },
+  {
+    "text": "What does a motorcyclist's right arm moving up and down mean?",
+    "options": {
+      "A": "Waving",
+      "B": "Slowing down or stopping",
+      "C": "Turning right",
+      "D": "Mechanical problem"
+    },
+    "correct": "B",
+    "explanation": "Right arm moving up and down indicates the rider is slowing down or stopping.",
+    "image": "images/motorcycle-arm-signal-slowing-stopping.png",
+    "number": 67
+  }
+]

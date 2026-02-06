@@ -1,0 +1,338 @@
+[
+  {
+    "number": 3,
+    "text": "Why should you keep well\nto the left as you approach a\nright-hand bend?",
+    "options": {
+      "A": "To let faster traffic from behind overtake",
+      "B": "To improve your view of the road",
+      "C": "To be positioned safely if you skid",
+      "D": "To overcome the effect of the road’s slope"
+    },
+    "correct": "B",
+    "explanation": "To improve your view of the road. Keeping left on right-hand bends gives you a better view around the corner."
+  },
+  {
+    "number": 4,
+    "text": "You’ve just gone through\nflood water. What should\nyou do to make sure your\nbrakes are working\nproperly?",
+    "options": {
+      "A": "Accelerate and keep to a high speed for a short time",
+      "B": "Stop for at least an hour to allow them time to dry",
+      "C": "Avoid using the brakes at all for a few miles",
+      "D": "Go slowly while gently applying the brakes"
+    },
+    "correct": "D",
+    "explanation": "Two seconds. The 'two-second rule' is the minimum safe following distance in good conditions."
+  },
+  {
+    "number": 7,
+    "text": "You're following a vehicle on a wet road. You stay a \nsafe distance behind it. \nWhat should you do if a \ndriver overtakes you and \npulls into the gap you've \nleft?",
+    "options": {
+      "A": "Drop back to regain a safe distance",
+      "B": "Flash your headlights as a warning",
+      "C": "Try to overtake safely as soon as you can",
+      "D": "Stay close to the other vehicle until it moves on"
+    },
+    "correct": "B",
+    "explanation": "Slow down. In icy conditions, reduce speed and drive very carefully as grip is severely reduced."
+  },
+  {
+    "number": 8,
+    "text": "You're travelling on the\nmotorway. How can you\nlower the risk of a collision\nwhen the vehicle behind is\nfollowing too closely?",
+    "options": {
+      "A": "Move onto the hard shoulder and stop",
+      "B": "Switch on your hazard warning lights",
+      "C": "Increase your distance from the vehicle in front",
+      "D": "Brake sharply"
+    },
+    "correct": "D",
+    "explanation": "At least four seconds. In wet conditions, you should double the two-second rule to at least four seconds."
+  },
+  {
+    "number": 9,
+    "text": "You're following other \nvehicles in fog. You have \nyour headlights on dipped beam. What else can you do to reduce the chances of \nbeing in a collision?",
+    "options": {
+      "A": "Keep up with the faster vehicles",
+      "B": "Keep close to the vehicle in front",
+      "C": "Keep a safe distance from the vehicle in front",
+      "D": "Use main beam instead of dipped headlights"
+    },
+    "correct": "A",
+    "explanation": "Leave a two-second gap. This gives you adequate time to react and stop if the vehicle ahead brakes suddenly."
+  },
+  {
+    "number": 10,
+    "text": "What should you do\nwhen you're using a\ncontraflow system?",
+    "options": {
+      "A": "Choose an appropriate lane in good time",
+      "B": "Switch lanes to make better progress",
+      "C": "Increase speed to get through the contraflow more quickly",
+      "D": "Follow other motorists closely to avoid long queues"
+    },
+    "correct": "C",
+    "explanation": "Much greater. Icy conditions can increase stopping distance by up to 10 times normal distance."
+  },
+  {
+    "number": 11,
+    "text": "How can you avoid\nwheelspin when you're\ndriving on an icy road?",
+    "options": {
+      "A": "Drive at a slow speed in the highest gear possible",
+      "B": "Use the parking brake if the wheels start to slip",
+      "C": "Brake gently and repeatedly",
+      "D": "Drive in a low gear at all times"
+    },
+    "correct": "B",
+    "explanation": "The road may be slippery. Leaves on the road become slippery when wet, reducing tire grip."
+  },
+  {
+    "number": 12,
+    "text": "What's the main cause of\nskidding?",
+    "options": {
+      "A": "The weather",
+      "B": "The driver",
+      "C": "The vehicle",
+      "D": "The road"
+    },
+    "correct": "D",
+    "explanation": "Increase your following distance. In rain, longer stopping distances mean you need more space."
+  },
+  {
+    "number": 13,
+    "text": "You're driving in freezing\nconditions. What should you\ndo as you approach a sharp\nbend?",
+    "options": {
+      "A": "Slow down gently",
+      "B": "Coast into the bend",
+      "C": "Apply your parking brake",
+      "D": "Firmly use your footbrake"
+    },
+    "correct": "A",
+    "explanation": "Stay at the same steady speed. Maintaining constant speed is safest when overtaking on dual carriageways."
+  },
+  {
+    "number": 14,
+    "text": "You're about to start a journey in freezing weather.\nWhat part of your vehicle should you clear of ice and snow?",
+    "options": {
+      "A": "The aerial",
+      "B": "The bumper",
+      "C": "The windows",
+      "D": "The boot"
+    },
+    "correct": "C",
+    "explanation": "At least two seconds. The two-second rule is the minimum safe following distance in good conditions."
+  },
+  {
+    "number": 15,
+    "text": "What will help you to\nmove off on a snowy\nsurface?",
+    "options": {
+      "A": "Using a high engine speed",
+      "B": "Using the parking brake and footbrake together",
+      "C": "Using a higher gear than normal",
+      "D": "Using the car's lowest gear"
+    },
+    "correct": "B",
+    "explanation": "Before turning. Position yourself correctly before the turn, not during it when you need to focus on steering."
+  },
+  {
+    "number": 16,
+    "text": "What should you do\nwhen you're driving in\nsnowy conditions?",
+    "options": {
+      "A": "Brake firmly and quickly",
+      "B": "Brake gently in plenty of time",
+      "C": "Use sidelights only",
+      "D": "Be ready to steer sharply"
+    },
+    "correct": "D",
+    "explanation": "Slow down. When you see hazard warning lines, reduce speed as they indicate potential danger ahead."
+  },
+  {
+    "number": 17,
+    "text": "What's the main benefit\nof driving a four-wheel-drive\nvehicle?",
+    "options": {
+      "A": "Lower fuel consumption",
+      "B": "Improved passenger comfort",
+      "C": "Shorter stopping distances",
+      "D": "Improved grip on the road"
+    },
+    "correct": "A",
+    "explanation": "Four seconds. In wet conditions, double the two-second rule to at least four seconds."
+  },
+  {
+    "number": 18,
+    "text": "You're about to go down\na steep hill. What should\nyou do to control the speed\nof your vehicle?",
+    "options": {
+      "A": "Select a low gear and avoid using the brakes",
+      "B": "Select a high gear and use the brakes carefully",
+      "C": "Select a high gear and use the brakes firmly",
+      "D": "Select a low gear and use the brakes carefully"
+    },
+    "correct": "C",
+    "explanation": "Reduce your speed. Bright sunlight can reduce visibility and mask hazards, so slow down."
+  },
+  {
+    "number": 19,
+    "text": "What should you do\nwhen you park a car facing\ndownhill?",
+    "options": {
+      "A": "Turn the steering wheel towards the kerb",
+      "B": "Turn the steering wheel away from the kerb",
+      "C": "Park with two wheels on the kerb",
+      "D": "Park close to the bumper of another car"
+    },
+    "correct": "B",
+    "explanation": "At least doubled. Wet road surfaces significantly increase stopping distances."
+  },
+  {
+    "number": 20,
+    "text": "You're driving in a built-up area that has traffic-\ncalming measures. What should you do when you approach a road hump?",
+    "options": {
+      "A": "Wait for any pedestrians to cross",
+      "B": "Move across to the left-hand side of the road",
+      "C": "Check your mirror and slow down",
+      "D": "Stop and check both pavements"
+    },
+    "correct": "D",
+    "explanation": "At least four seconds. Double the normal gap in wet conditions due to increased stopping distances."
+  },
+  {
+    "number": 21,
+    "text": "On what type of road\nsurface may anti-lock brakes\nbe ineffective?",
+    "options": {
+      "A": "Loose",
+      "B": "Smooth",
+      "C": "Dry",
+      "D": "Firm"
+    },
+    "correct": "A",
+    "explanation": "The road ahead is slippery. Surface water makes roads slippery, especially dangerous in freezing conditions."
+  },
+  {
+    "number": 22,
+    "text": "You're driving a vehicle that has anti-lock brakes.\nHow should you apply the footbrake when you need to stop in an emergency?",
+    "options": {
+      "A": "Slowly but firmly",
+      "B": "Rapidly and firmly",
+      "C": "Rapidly and gently",
+      "D": "Slowly and gently"
+    },
+    "correct": "C",
+    "explanation": "At least ten times. Ice can increase stopping distances by up to 10 times compared to dry roads."
+  },
+  {
+    "number": 23,
+    "text": "You're driving along a country road. You see this sign. What should you do after dealing safely with the hazard?",
+    "options": {
+      "A": "Check your tyre pressures",
+      "B": "Switch on your hazard warning lights",
+      "C": "Accelerate briskly",
+      "D": "Test your brakes"
+    },
+    "correct": "B",
+    "explanation": "Leave a longer gap. In fog, increase your following distance as you have less time to react."
+  },
+  {
+    "number": 24,
+    "text": "What would suggest\nyou're driving on an icy\nroad?",
+    "options": {
+      "A": "There's less engine noise",
+      "B": "There's less tyre noise",
+      "C": "There's less transmission noise",
+      "D": "There's less wind noise"
+    },
+    "correct": "D",
+    "explanation": "Stay back until you can see clearly. Never overtake unless you have a clear, safe view ahead."
+  },
+  {
+    "number": 25,
+    "text": "You're driving along a\nwet road. How can you tell if\nyour vehicle’s tyres are\nlosing their grip on the\nsurface?",
+    "options": {
+      "A": "The steering will feel very light",
+      "B": "The engine will stall",
+      "C": "The steering will feel very heavy",
+      "D": "The engine noise will increase"
+    },
+    "correct": "A",
+    "explanation": "Allow the driver to pull away. In congestion, leaving space helps traffic flow more smoothly."
+  },
+  {
+    "number": 26,
+    "text": "In which conditions will your overall stopping \ndistance increase?",
+    "options": {
+      "A": "In fog",
+      "B": "In the rain",
+      "C": "In strong winds",
+      "D": "At night"
+    },
+    "correct": "C",
+    "explanation": "You'll be able to stop within the distance you can see. Safe speed means being able to stop in the visible distance."
+  },
+  {
+    "number": 27,
+    "text": "You're driving on an open road in dry weather. What distance should you keep from the vehicle in front?",
+    "options": {
+      "A": "A two-second time gap",
+      "B": "Two car lengths",
+      "C": "Two metres (6 feet 6 inches)",
+      "D": "One car length"
+    },
+    "correct": "B",
+    "explanation": "At least two seconds. This is the minimum safe following distance on dry roads in good conditions."
+  },
+  {
+    "number": 29,
+    "text": "How should you use\nanti-lock brakes when you\nneed to stop in an\nemergency?",
+    "options": {
+      "A": "Apply the parking brake to reduce the stopping distance",
+      "B": "Keep pumping the footbrake to prevent skidding",
+      "C": "Brake normally but grip the steering wheel tightly",
+      "D": "Brake promptly and firmly until you've stopped"
+    },
+    "correct": "A",
+    "explanation": "Increase your following distance. In poor weather, you need more space to stop safely."
+  },
+  {
+    "number": 30,
+    "text": "What lights should you use when you're driving on a wet motorway and vehicles are throwing up surface \nspray?",
+    "options": {
+      "A": "Sidelights",
+      "B": "Hazard warning lights",
+      "C": "Dipped headlights",
+      "D": "Rear fog lights"
+    },
+    "correct": "C",
+    "explanation": "At least doubled. Wet roads significantly reduce tire grip, doubling stopping distances."
+  },
+  {
+    "number": 31,
+    "text": "What can result when\nyou travel for long distances\nin neutral (known as\ncoasting)?",
+    "options": {
+      "A": "Improvement in control",
+      "B": "Easier steering",
+      "C": "Reduction in control",
+      "D": "Increased fuel consumption"
+    },
+    "correct": "C",
+    "explanation": "Reduction in control. Coasting reduces engine braking and control, especially when going downhill or in slippery conditions."
+  },
+  {
+    "number": 33,
+    "text": "What should you do\nwhen you're overtaking a\nmotorcyclist on a windy\nday?",
+    "options": {
+      "A": "Pass widely",
+      "B": "Pass closely",
+      "C": "Pass very slowly",
+      "D": "Pass immediately"
+    },
+    "correct": "A",
+    "explanation": "Pass widely. Give motorcyclists extra room on windy days as gusts can push them off course."
+  },
+  {
+    "number": 34,
+    "text": "What does it mean if the Electronic Stability Control (ESC) indicator light comes on briefly while you’re \ndriving?",
+    "options": {
+      "A": "The ESC system is switched off",
+      "B": "The ESC system has activated",
+      "C": "The ESC system has a fault",
+      "D": "The ESC system is running a routine test"
+    },
+    "correct": "B",
+    "explanation": "The ESC system has activated. A brief flash means the system is working to help stabilize the vehicle."
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "number": 2,
+    "text": "What's the national speed\nlimit on motorways for cars\nand motorcycles?",
+    "options": {
+      "A": "70 mph",
+      "B": "30 mph",
+      "C": "50 mph",
+      "D": "60 mph"
+    },
+    "correct": "A",
+    "explanation": "70 mph. The national speed limit on motorways for cars and motorcycles is 70 mph in good conditions."
+  },
+  {
+    "number": 3,
+    "text": "Which vehicles should\nuse the left-hand lane on a\nthree-lane motorway?",
+    "options": {
+      "A": "Slow vehicles only",
+      "B": "Emergency vehicles only",
+      "C": "Large vehicles only",
+      "D": "Any vehicle that isn't overtaking"
+    },
+    "correct": "D",
+    "explanation": "Move to the left-hand lane. You should return to the left lane after overtaking when it's safe to do so."
+  },
+  {
+    "number": 5,
+    "text": "Your vehicle breaks down on a motorway and you \nneed to call for help. Why might it be better to use an emergency roadside \ntelephone rather than a \nmobile phone?",
+    "options": {
+      "A": "Mobile phones don't work on motorways",
+      "B": "It allows easy location by the emergency services",
+      "C": "Using a mobile phone will distract other drivers",
+      "D": "It connects you to a local garage"
+    },
+    "correct": "A",
+    "explanation": "Stay in your lane. On smart motorways, stay in your lane when the speed limit is shown above it."
+  },
+  {
+    "number": 6,
+    "text": "Your vehicle broke down on the hard shoulder of a \nmotorway, but has now been repaired. How should you \nrejoin the main \ncarriageway?",
+    "options": {
+      "A": "Move out onto the carriageway using your hazard warning lights",
+      "B": "Move out onto the carriageway, then build up your speed",
+      "C": "Gain speed on the hard shoulder before moving out onto the carriageway",
+      "D": "Wait on the hard shoulder until someone flashes their headlights at you"
+    },
+    "correct": "C",
+    "explanation": "Leave at the next exit. If you miss your exit, continue to the next one - never reverse or turn around."
+  },
+  {
+    "number": 7,
+    "text": "You're travelling along a\nmotorway. Where would you\nfind a crawler or climbing\nlane?",
+    "options": {
+      "A": "Before a service area",
+      "B": "On a steep gradient",
+      "C": "Before a junction",
+      "D": "Along the hard shoulder"
+    },
+    "correct": "D",
+    "explanation": "Use the hard shoulder. In an emergency, stop on the hard shoulder as far left as possible."
+  },
+  {
+    "number": 8,
+    "text": "What do these motorway\nsigns mean?",
+    "options": {
+      "A": "They're countdown markers to the next exit",
+      "B": "They're countdown markers to a bridge",
+      "C": "They warn of a police control ahead",
+      "D": "They're distance markers to the next telephone"
+    },
+    "correct": "B",
+    "explanation": "Congestion ahead. An amber flashing light warns of a hazard ahead, typically congestion or an incident."
+  },
+  {
+    "number": 9,
+    "text": "Where are amber\nreflective studs found on a\nmotorway?",
+    "options": {
+      "A": "Between the acceleration lane and the carriageway",
+      "B": "Between each pair of lanes",
+      "C": "Between the central reservation and the carriageway",
+      "D": "Between the hard shoulder and the carriageway"
+    },
+    "correct": "A",
+    "explanation": "At least two seconds. Use the two-second rule as a minimum safe following distance on motorways."
+  },
+  {
+    "number": 10,
+    "text": "What colour are the\nreflective studs between the\nlanes on a motorway?",
+    "options": {
+      "A": "Amber",
+      "B": "Red",
+      "C": "White",
+      "D": "Green"
+    },
+    "correct": "C",
+    "explanation": "Switch on your hazard warning lights. Hazard lights warn following traffic that you're slowing or stopped."
+  },
+  {
+    "number": 11,
+    "text": "What colour are the\nreflective studs between a\nmotorway and a slip road?",
+    "options": {
+      "A": "White",
+      "B": "Green",
+      "C": "Red",
+      "D": "Amber"
+    },
+    "correct": "D",
+    "explanation": "Your vehicle is breaking down. The hard shoulder should only be used in emergencies."
+  },
+  {
+    "number": 12,
+    "text": "Your vehicle has broken down on a motorway. In \nwhich direction should you walk to find the nearest \nemergency telephone?",
+    "options": {
+      "A": "Facing oncoming traffic",
+      "B": "With the traffic flow",
+      "C": "In the direction of the nearest exit",
+      "D": "In the direction shown on the marker posts"
+    },
+    "correct": "B",
+    "explanation": "Cross to the emergency telephone. Use the emergency phone as it automatically identifies your location."
+  },
+  {
+    "number": 15,
+    "text": "What colour are the \nreflective studs between the hard shoulder and the left-hand lane of a motorway?",
+    "options": {
+      "A": "White",
+      "B": "Green",
+      "C": "Red",
+      "D": "Amber"
+    },
+    "correct": "D",
+    "explanation": "Keep a safe distance. Maintain proper following distance even at motorway speeds."
+  },
+  {
+    "number": 17,
+    "text": "What should you do\nwhen going through a\ncontraflow system on a\nmotorway?",
+    "options": {
+      "A": "Stay close to the vehicle ahead to reduce queues",
+      "B": "Keep a good distance from the vehicle ahead",
+      "C": "Use dipped headlights",
+      "D": "Switch lanes to keep the traffic flowing"
+    },
+    "correct": "A",
+    "explanation": "Not allowed to stop. Red X means the lane is closed - you must not drive in or stop in that lane."
+  },
+  {
+    "number": 18,
+    "text": "You're on a three-lane motorway. Which lane are you in if there are red \nreflective studs on your left and white ones to your \nright?",
+    "options": {
+      "A": "In the right-hand lane",
+      "B": "In the middle lane",
+      "C": "On the hard shoulder",
+      "D": "In the left-hand lane"
+    },
+    "correct": "C",
+    "explanation": "Move back to the left. Return to the left lane after overtaking when it's safe."
+  },
+  {
+    "number": 19,
+    "text": "What should you do\nwhen you're approaching\nroadworks on a motorway?",
+    "options": {
+      "A": "Stay very close to the vehicle in front",
+      "B": "Always use the hard shoulder",
+      "C": "Speed up to clear the area quickly",
+      "D": "Obey the speed limit"
+    },
+    "correct": "D",
+    "explanation": "Reflective studs on the road. Cats eyes help you see lane markings in the dark or poor weather."
+  },
+  {
+    "number": 20,
+    "text": "Which vehicles are\nprohibited from using the\nmotorway?",
+    "options": {
+      "A": "Powered mobility scooters",
+      "B": "Motorcycles over 50 cc",
+      "C": "Double-deck buses",
+      "D": "Cars with automatic transmission"
+    },
+    "correct": "B",
+    "explanation": "The left-hand lane. Always drive in the left lane unless overtaking."
+  },
+  {
+    "number": 21,
+    "text": "What should you do\nwhile you're driving or riding\nalong a motorway?",
+    "options": {
+      "A": "Concentrate more than you would on other roads",
+      "B": "Look much further ahead than you would on other roads",
+      "C": "Travel much faster than you would on other roads",
+      "D": "Maintain a shorter separation distance than you would on other roads"
+    },
+    "correct": "A",
+    "explanation": "Reduce your speed. In fog or poor visibility, slow down appropriately."
+  },
+  {
+    "number": 22,
+    "text": "What should you do\nimmediately after joining a\nmotorway?",
+    "options": {
+      "A": "Try to overtake",
+      "B": "Re-adjust your mirrors",
+      "C": "Position your vehicle in the centre lane",
+      "D": "Stay in the left-hand lane"
+    },
+    "correct": "C",
+    "explanation": "Before joining the motorway. Adjust your speed on the slip road to match motorway traffic."
+  },
+  {
+    "number": 23,
+    "text": "When would you use the\nright-hand lane on a three-\nlane motorway?",
+    "options": {
+      "A": "When you're trying to save fuel",
+      "B": "When you're turning right",
+      "C": "When you're overtaking",
+      "D": "When you're travelling above the speed limit"
+    },
+    "correct": "D",
+    "explanation": "Move back to the left lane. Don't stay in the overtaking lane longer than necessary."
+  },
+  {
+    "number": 24,
+    "text": "You're on a motorway.\nThe hard shoulder is not\nbeing used as a running\nlane. When should you use\nthe hard shoulder?",
+    "options": {
+      "A": "When you're joining the motorway",
+      "B": "When you're stopping for a rest",
+      "C": "When you're leaving the motorway",
+      "D": "When you're stopping in an emergency"
+    },
+    "correct": "B",
+    "explanation": "Stop on the hard shoulder. In emergencies, use the hard shoulder and call for help."
+  },
+  {
+    "number": 25,
+    "text": "You're in the right-hand\nlane of a three-lane\nmotorway. What do these\noverhead signs mean?",
+    "options": {
+      "A": "Leave the motorway at the next exit",
+      "B": "Move to the left and reduce your speed to 50 mph",
+      "C": "There are roadworks 50 metres (55 yards) ahead",
+      "D": "Use the hard shoulder until you've passed the hazard"
+    },
+    "correct": "A",
+    "explanation": "Stay in the left-hand lane. Keep left unless overtaking - this is the basic motorway rule."
+  },
+  {
+    "number": 26,
+    "text": "When are you allowed to\nstop on a motorway?",
+    "options": {
+      "A": "When you wish to pick up hitchhikers",
+      "B": "When you need to use a mobile telephone",
+      "C": "When you need to walk and get fresh air",
+      "D": "When you're signalled to do so by traffic signals"
+    },
+    "correct": "C",
+    "explanation": "On your left. Vehicles can only pass you on the left on motorways and dual carriageways."
+  },
+  {
+    "number": 27,
+    "text": "You're travelling in the left-hand lane of a three-lane motorway. How should you react to traffic joining from a slip road?",
+    "options": {
+      "A": "Switch on your hazard warning lights",
+      "B": "Increase your speed to ensure they join behind you",
+      "C": "Adjust your speed or change lane if you can do so safely",
+      "D": "Maintain a steady speed"
+    },
+    "correct": "D",
+    "explanation": "Check your mirrors. Always check mirrors before changing lanes or overtaking."
+  },
+  {
+    "number": 28,
+    "text": "How should you use the\nlanes on a motorway?",
+    "options": {
+      "A": "Use the lane that has the least traffic",
+      "B": "Keep to the left-hand lane unless you're overtaking",
+      "C": "Overtake using the lane that’s clearest",
+      "D": "Stay in one lane until you reach your exit"
+    },
+    "correct": "B",
+    "explanation": "You're approaching a service area. This sign indicates a motorway service station ahead."
+  },
+  {
+    "number": 29,
+    "text": "You're travelling along a\nmotorway. When are you\nallowed to overtake on the\nleft?",
+    "options": {
+      "A": "When the traffic in the right- hand lane is signalling right",
+      "B": "When you warn drivers behind by signalling left",
+      "C": "When in queues and traffic to your right is moving more slowly than you are",
+      "D": "When you can see well ahead that the hard shoulder is clear"
+    },
+    "correct": "A",
+    "explanation": "Leave at the next exit. Never reverse or turn back on a motorway."
+  },
+  {
+    "number": 30,
+    "text": "When would you use an\nemergency area on a\nmotorway?",
+    "options": {
+      "A": "In cases of emergency or breakdown",
+      "B": "If you think you'll be involved in a road rage incident",
+      "C": "To stop and check where you are",
+      "D": "To make a private phone call"
+    },
+    "correct": "C",
+    "explanation": "Temporary maximum speed. This shows a variable speed limit on smart motorways."
+  },
+  {
+    "number": 31,
+    "text": "Traffic officers operate on motorways and some primary routes in England and Wales. What are they authorised to do?",
+    "options": {
+      "A": "Stop and direct anyone on a motorway",
+      "B": "Issue fixed penalty notices",
+      "C": "Repair broken-down vehicles on the motorway",
+      "D": "Stop and arrest drivers who break the law"
+    },
+    "correct": "D",
+    "explanation": "Switch on hazard lights. Warn traffic behind you of the hazard ahead."
+  },
+  {
+    "number": 32,
+    "text": "You're on a motorway.\nWhat does it mean when a\nred cross is displayed above\nthe hard shoulder?",
+    "options": {
+      "A": "This lane can be used if you need a rest",
+      "B": "You must not travel in this lane",
+      "C": "Use this lane as a running lane",
+      "D": "Pull up in this lane to answer your mobile phone"
+    },
+    "correct": "B",
+    "explanation": "Use the hard shoulder. Stop as far left as safely possible in an emergency."
+  },
+  {
+    "number": 33,
+    "text": "You're on a motorway. What does it mean when a mandatory speed limit is displayed above the hard shoulder?",
+    "options": {
+      "A": "You can pull up in this lane to answer a mobile phone",
+      "B": "You shouldn't travel in this lane",
+      "C": "The hard shoulder can be used as a running lane",
+      "D": "You can park on the hard shoulder if you feel tired"
+    },
+    "correct": "A",
+    "explanation": "Two seconds. Maintain at least a two-second gap in good conditions."
+  },
+  {
+    "number": 34,
+    "text": "How do motorways\nreduce traffic bunching?",
+    "options": {
+      "A": "By using higher speed limits",
+      "B": "By using minimum speed limits",
+      "C": "By using advisory speed limits",
+      "D": "By using variable speed limits"
+    },
+    "correct": "C",
+    "explanation": "Amber flashing lights. These warn of hazards or congestion ahead on motorways."
+  },
+  {
+    "number": 35,
+    "text": "What helps to reduce\ntraffic bunching on a\nmotorway?",
+    "options": {
+      "A": "Contraflow systems",
+      "B": "Variable speed limits",
+      "C": "Lane closures",
+      "D": "National speed limits"
+    },
+    "correct": "D",
+    "explanation": "The left-hand lane. Stay left unless overtaking."
+  },
+  {
+    "number": 36,
+    "text": "When may you stop on a\nmotorway?",
+    "options": {
+      "A": "If you have to read a map",
+      "B": "In an emergency or breakdown",
+      "C": "When you're tired and need a rest",
+      "D": "If your mobile phone rings"
+    },
+    "correct": "B",
+    "explanation": "Do not use this lane. A red X means the lane is closed - do not enter or use it."
+  },
+  {
+    "number": 37,
+    "text": "What's the national\nspeed limit for a car or\nmotorcycle on a motorway?",
+    "options": {
+      "A": "50 mph",
+      "B": "80 mph",
+      "C": "70 mph",
+      "D": "60 mph"
+    },
+    "correct": "A",
+    "explanation": "Before the broken line ends. Start signaling before the end of the slip road markings."
+  },
+  {
+    "number": 38,
+    "text": "You stop on the hard \nshoulder of a motorway and use the emergency \ntelephone. Where's the best place to wait for help to \narrive?",
+    "options": {
+      "A": "Next to the phone",
+      "B": "On the hard shoulder",
+      "C": "Well away from the carriageway",
+      "D": "With your vehicle"
+    },
+    "correct": "C",
+    "explanation": "At the next exit. Continue to the next exit if you miss yours."
+  },
+  {
+    "number": 39,
+    "text": "You're on a motorway.\nWhat must you do if there's\na red cross showing above\nevery lane?",
+    "options": {
+      "A": "Leave at the next exit",
+      "B": "Pull onto the hard shoulder",
+      "C": "Slow down and watch for further signals",
+      "D": "Stop and wait"
+    },
+    "correct": "D",
+    "explanation": "It separates traffic flowing in opposite directions. The central reservation divides opposing traffic flows."
+  },
+  {
+    "number": 40,
+    "text": "You're on a motorway. What does it mean if a red cross is showing above the hard shoulder and \nmandatory speed limits \nabove all other lanes?",
+    "options": {
+      "A": "The hard shoulder can be used as a normal running lane",
+      "B": "The hard shoulder has a speed limit of 50 mph",
+      "C": "The hard shoulder is for emergency or breakdown use only",
+      "D": "The hard shoulder can be used as a rest area if you feel tired"
+    },
+    "correct": "B",
+    "explanation": "You're joining a motorway. This is at the start of motorway slip roads."
+  },
+  {
+    "number": 41,
+    "text": "What does this\nmotorway sign mean?",
+    "options": {
+      "A": "Use any lane except the hard shoulder",
+      "B": "Use all the lanes, including the hard shoulder",
+      "C": "Use the three right-hand lanes only",
+      "D": "Use the hard shoulder only"
+    },
+    "correct": "A",
+    "explanation": "At a safe distance. Maintain proper spacing from the vehicle ahead."
+  },
+  {
+    "number": 43,
+    "text": "You have stopped in an\nemergency area. What must\nyou do before you rejoin the\ncarriageway?",
+    "options": {
+      "A": "Move away with your hazard lights on",
+      "B": "Use the emergency telephone",
+      "C": "Give an arm signal as you are moving off",
+      "D": "Switch on your vehicle's headlights"
+    },
+    "correct": "D",
+    "explanation": "Match your speed to traffic in the left-hand lane. Adjust speed on the slip road to merge smoothly."
+  },
+  {
+    "number": 44,
+    "text": "How should you rejoin\nthe motorway after a\nbreakdown on the hard\nshoulder?",
+    "options": {
+      "A": "Keep your hazard lights flashing until you have safely rejoined the carriageway",
+      "B": "Build up speed on the hard shoulder before looking for a safe gap in the traffic",
+      "C": "Move straight out into the left-hand lane as you are not allowed to drive on the hard shoulder",
+      "D": "Wait until a vehicle in the left- hand lane signals to you that it's safe to rejoin"
+    },
+    "correct": "B",
+    "explanation": "Leave at the next exit. Never reverse on motorways."
+  },
+  {
+    "number": 45,
+    "text": "What's the speed limit\nfor a car towing a trailer on a\nmotorway?",
+    "options": {
+      "A": "70 mph",
+      "B": "60 mph",
+      "C": "50 mph",
+      "D": "40 mph"
+    },
+    "correct": "A",
+    "explanation": "Use your mirrors more frequently. Increased mirror checks help track faster-moving traffic."
+  },
+  {
+    "number": 46,
+    "text": "When should you use\nthe left-hand lane of a\nmotorway?",
+    "options": {
+      "A": "When you're making a phone call",
+      "B": "When the road ahead is clear",
+      "C": "When your vehicle breaks down",
+      "D": "When you're overtaking slower traffic in the other lanes"
+    },
+    "correct": "C",
+    "explanation": "Wait for a gap in traffic. Don't force your way in - wait for a safe gap."
+  },
+  {
+    "number": 47,
+    "text": "You're driving on a \nmotorway and have to slow down suddenly due to a \nhazard ahead. How can you warn drivers behind of the hazard?",
+    "options": {
+      "A": "Sound your horn",
+      "B": "Switch on your headlights",
+      "C": "Switch on your hazard warning lights",
+      "D": "Flash your headlights"
+    },
+    "correct": "D",
+    "explanation": "Cross to the telephone on your side of the motorway. Always use the nearest phone for safety."
+  },
+  {
+    "number": 48,
+    "text": "Your car gets a puncture\nwhile you're driving on the\nmotorway. What should you\ndo when you've stopped on\nthe hard shoulder?",
+    "options": {
+      "A": "Use an emergency telephone and call for help",
+      "B": "Carefully change the wheel yourself",
+      "C": "Try to wave down another vehicle for help",
+      "D": "Only change the wheel if you have a passenger to help you"
+    },
+    "correct": "B",
+    "explanation": "Check for traffic coming up behind you. Always check mirrors before any maneuver."
+  },
+  {
+    "number": 49,
+    "text": "What should you do if\nyou're driving on a\nmotorway and you miss the\nexit that you wanted to take?",
+    "options": {
+      "A": "Make a U-turn at the next gap in the central reservation",
+      "B": "Carefully reverse in the left- hand lane",
+      "C": "Carry on to the next exit",
+      "D": "Carefully reverse along the hard shoulder"
+    },
+    "correct": "A",
+    "explanation": "Move to the lane on your left. Return to the left after overtaking."
+  },
+  {
+    "number": 50,
+    "text": "Your vehicle has broken\ndown on a motorway. What\nshould you do if you aren't\nable to get onto the hard\nshoulder?",
+    "options": {
+      "A": "Switch on your hazard warning lights",
+      "B": "Attempt to repair your vehicle quickly",
+      "C": "Stop the traffic behind and ask for help",
+      "D": "Stand behind your vehicle to warn others"
+    },
+    "correct": "A",
+    "explanation": "Switch on your hazard warning lights. If you can't reach the hard shoulder, hazard lights warn other traffic of the danger."
+  },
+  {
+    "number": 52,
+    "text": "You're driving on a\nmotorway. What does it\nmean if the car in front\nshows its hazard warning\nlights for a short time?",
+    "options": {
+      "A": "There's a police speed check ahead",
+      "B": "The other car is going to change lanes",
+      "C": "Traffic ahead is slowing or stopping suddenly",
+      "D": "The driver wants you to overtake"
+    },
+    "correct": "C",
+    "explanation": "Traffic ahead is slowing or stopping suddenly. Hazard lights briefly warn following traffic of sudden hazard ahead."
+  },
+  {
+    "number": 54,
+    "text": "What restrictions apply\nto people who have a\nprovisional driving licence?",
+    "options": {
+      "A": "They can't drive with more than one passenger",
+      "B": "They can't drive over 30 mph",
+      "C": "They can't drive at night",
+      "D": "They can't drive unaccompanied"
+    },
+    "correct": "D",
+    "explanation": "They can't drive unaccompanied. Provisional license holders must be accompanied by a qualified driver."
+  },
+  {
+    "number": 55,
+    "text": "Your vehicle breaks \ndown on a motorway and you manage to stop on the hard shoulder. What should you do if you use your \nmobile phone to call for \nhelp?",
+    "options": {
+      "A": "Wait in the car for the emergency services to arrive",
+      "B": "Phone a friend and ask them to come and collect you",
+      "C": "Check your location from the nearest marker posts beside the hard shoulder",
+      "D": "Stand at the rear of the vehicle while making the call"
+    },
+    "correct": "C",
+    "explanation": "Check your location from the nearest marker posts beside the hard shoulder. Marker posts help emergency services locate you precisely."
+  },
+  {
+    "number": 56,
+    "text": "You're towing a trailer\nalong a three-lane motorway.\nWhen may you use the right-\nhand lane?",
+    "options": {
+      "A": "When there's slow-moving traffic",
+      "B": "When you can maintain a high speed",
+      "C": "When large vehicles are in the left and centre lanes",
+      "D": "When there are lane closures"
+    },
+    "correct": "D",
+    "explanation": "When there are lane closures. Vehicles towing trailers can only use the right lane on 3-lane motorways during lane closures."
+  },
+  {
+    "number": 57,
+    "text": "What would you expect\nto find at a contraflow\nsystem on a motorway?",
+    "options": {
+      "A": "Wider lanes than normal",
+      "B": "Temporary traffic lights",
+      "C": "Lower speed limits",
+      "D": "Road humps"
+    },
+    "correct": "C",
+    "explanation": "Lower speed limits. Contraflow systems have reduced speed limits due to narrow lanes and opposing traffic."
+  }
+]
