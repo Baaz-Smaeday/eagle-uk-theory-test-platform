@@ -1,0 +1,746 @@
+[
+  {
+    "number": 2,
+    "text": "When are you not allowed\nto sound your vehicle's\nhorn?",
+    "options": {
+      "A": "Between 11.30 pm and 6.00 am on any road",
+      "B": "Between 11.30 pm and 7.00 am in a built-up area",
+      "C": "At any time in a built-up area",
+      "D": "Between 10.00 pm and 6.00 am in a built-up area"
+    },
+    "correct": "B",
+    "explanation": "Between 11.30 pm and 7.00 am in a built-up area. You must not sound your horn in a built-up area between these hours except when another vehicle poses a danger."
+  },
+  {
+    "number": 3,
+    "text": "What makes the vehicle in\nthe picture 'environmentally\nfriendly'?",
+    "options": {
+      "A": "It's powered by unleaded petrol",
+      "B": "It's powered by gravity",
+      "C": "It's powered by diesel",
+      "D": "It's powered by electricity"
+    },
+    "correct": "D",
+    "explanation": "Use a properly adjusted head restraint. A correctly positioned head restraint reduces the risk of neck injury (whiplash) in a collision."
+  },
+  {
+    "number": 4,
+    "text": "Why have 'red routes'\nbeen introduced in major\ncities?",
+    "options": {
+      "A": "To provide better parking",
+      "B": "To allow lorries to load more freely",
+      "C": "To help the traffic flow",
+      "D": "To raise the speed limits"
+    },
+    "correct": "A",
+    "explanation": "Before starting a journey. Tyre checks should be part of your regular routine before driving, not during the journey."
+  },
+  {
+    "number": 6,
+    "text": "What's the purpose of a\ncatalytic converter?",
+    "options": {
+      "A": "To reduce fuel consumption",
+      "B": "To reduce engine wear",
+      "C": "To reduce harmful exhaust gases",
+      "D": "To reduce the risk of fire"
+    },
+    "correct": "B",
+    "explanation": "Check the vehicle's handbook. The manufacturer's handbook contains the correct tyre pressure specifications for your vehicle."
+  },
+  {
+    "number": 7,
+    "text": "When should tyre\npressures be checked?",
+    "options": {
+      "A": "When tyres are cold",
+      "B": "After any lengthy journey",
+      "C": "After travelling at high speed",
+      "D": "When tyres are hot"
+    },
+    "correct": "D",
+    "explanation": "Stop in a safe place when you can. Never stop on the motorway to make adjustments - find a safe place like a service area."
+  },
+  {
+    "number": 8,
+    "text": "When will your vehicle\nuse more fuel?",
+    "options": {
+      "A": "When its tyres are over-inflated",
+      "B": "When its tyres are under-inflated",
+      "C": "When its tyres are of different makes",
+      "D": "When its tyres are new"
+    },
+    "correct": "A",
+    "explanation": "Before you start your journey. All vehicle checks, including lights, should be done before you drive."
+  },
+  {
+    "number": 9,
+    "text": "How should you dispose\nof a used vehicle battery?",
+    "options": {
+      "A": "Leave it on waste land",
+      "B": "Put it in the dustbin",
+      "C": "Take it to a local-authority disposal site",
+      "D": "Bury it in your garden"
+    },
+    "correct": "C",
+    "explanation": "It could seriously injure you in a collision. Loose objects become dangerous projectiles in a crash, causing serious injury."
+  },
+  {
+    "number": 10,
+    "text": "What's most likely to\nincrease fuel consumption?",
+    "options": {
+      "A": "Staying in high gears",
+      "B": "Harsh braking and accelerating",
+      "C": "Poor steering control",
+      "D": "Accelerating around bends"
+    },
+    "correct": "B",
+    "explanation": "Wash the windscreen with clean water. Clean water and proper washer fluid help maintain clear visibility."
+  },
+  {
+    "number": 11,
+    "text": "The fluid level in your \nbattery is low. What fluid \nshould you use to top it up?",
+    "options": {
+      "A": "Distilled water",
+      "B": "Battery acid",
+      "C": "Engine oil",
+      "D": "Engine coolant"
+    },
+    "correct": "D",
+    "explanation": "At least 1.6 millimetres. This is the legal minimum tread depth required across the central three-quarters of the tyre."
+  },
+  {
+    "number": 15,
+    "text": "You need to top up your\nbattery with distilled water.\nWhat level should you fill it\nto?",
+    "options": {
+      "A": "The top of the battery",
+      "B": "Halfway up the battery",
+      "C": "Just below the cell plates",
+      "D": "Just above the cell plates"
+    },
+    "correct": "D",
+    "explanation": "It increases fuel consumption. Under-inflated tyres create more rolling resistance, increasing fuel consumption and tyre wear."
+  },
+  {
+    "number": 16,
+    "text": "How can you plan your\nroute before starting a long\njourney?",
+    "options": {
+      "A": "Check your vehicle handbook",
+      "B": "Ask your local garage",
+      "C": "Use a route planner on the internet",
+      "D": "Consult a travel agent"
+    },
+    "correct": "A",
+    "explanation": "Move back and use your mirrors. You must have a clear view behind. If the load blocks your view, use mirrors or ask someone to guide you."
+  },
+  {
+    "number": 17,
+    "text": "Why is it a good idea to\nplan your journey to avoid\nbusy times?",
+    "options": {
+      "A": "You'll have a more stressful journey",
+      "B": "Your journey time will be longer",
+      "C": "It will cause more traffic congestion",
+      "D": "You'll have an easier journey"
+    },
+    "correct": "C",
+    "explanation": "Check your mirrors. Always check mirrors before signaling to be aware of other traffic around you."
+  },
+  {
+    "number": 18,
+    "text": "How will your journey be\naffected by travelling\noutside the busy times of\nday?",
+    "options": {
+      "A": "Your journey will take longer",
+      "B": "Your journey will use more fuel",
+      "C": "Your journey will be more hazardous",
+      "D": "Your journey will have fewer delays"
+    },
+    "correct": "B",
+    "explanation": "Every 600 miles. Oil levels should be checked regularly - every 600 miles or weekly, whichever comes first."
+  },
+  {
+    "number": 19,
+    "text": "You plan your route\nbefore starting a journey.\nWhy should you also plan\nan alternative route?",
+    "options": {
+      "A": "You may get held up by a tractor",
+      "B": "You may find you have to pay a congestion charge",
+      "C": "Your maps may have different scales",
+      "D": "Your original route may be blocked"
+    },
+    "correct": "D",
+    "explanation": "Fuel consumption will increase. Incorrect tyre pressure increases rolling resistance, leading to higher fuel consumption."
+  },
+  {
+    "number": 20,
+    "text": "You have to arrive on\ntime for an appointment.\nHow should you plan for the\njourney?",
+    "options": {
+      "A": "Avoid roads with the national speed limit",
+      "B": "Allow plenty of time for the trip",
+      "C": "Plan to travel at busy times",
+      "D": "Prevent other drivers from overtaking"
+    },
+    "correct": "A",
+    "explanation": "You'll have a reduced view behind. Tinted glass reduces visibility, especially in poor light conditions, making it harder to see behind."
+  },
+  {
+    "number": 21,
+    "text": "What can you expect if\nyou drive using rapid\nacceleration and heavy\nbraking?",
+    "options": {
+      "A": "Increased road safety",
+      "B": "Reduced pollution",
+      "C": "Increased fuel consumption",
+      "D": "Reduced exhaust emissions"
+    },
+    "correct": "C",
+    "explanation": "Reduce your speed and turn on dipped headlights. In fog, slow down and use dipped headlights to help you see and be seen."
+  },
+  {
+    "number": 22,
+    "text": "What could cause you to\ncrash if the level is allowed\nto get too low?",
+    "options": {
+      "A": "Brake-fluid level",
+      "B": "Radiator-coolant level",
+      "C": "Battery-water level",
+      "D": "Anti-freeze level"
+    },
+    "correct": "B",
+    "explanation": "Before a long journey. Check all fluid levels, including coolant, as part of your pre-journey vehicle checks."
+  },
+  {
+    "number": 23,
+    "text": "What should you do if\nyour anti-lock brakes (ABS)\nwarning light stays on?",
+    "options": {
+      "A": "Check the brake-fluid level",
+      "B": "Check the footbrake free play",
+      "C": "Have the brakes checked immediately",
+      "D": "Check that the parking brake is released"
+    },
+    "correct": "D",
+    "explanation": "Stop and rectify the problem immediately. Loose wheels are extremely dangerous and must be fixed before continuing."
+  },
+  {
+    "number": 24,
+    "text": "What does it mean if this\nlight comes on while you're\ndriving?",
+    "options": {
+      "A": "Your seat belt isn't fastened",
+      "B": "A fault in the braking system",
+      "C": "The engine oil is low",
+      "D": "A rear light has failed"
+    },
+    "correct": "A",
+    "explanation": "Put the reflective side towards you. The reflective side should face inward to reflect your body heat back to you."
+  },
+  {
+    "number": 25,
+    "text": "Why is it important to\nwear suitable shoes when\nyou're driving?",
+    "options": {
+      "A": "To enable you to walk for assistance if you break down",
+      "B": "To prevent wear on the pedals",
+      "C": "To maintain control of the pedals",
+      "D": "To enable you to adjust your seat"
+    },
+    "correct": "C",
+    "explanation": "Unbalanced wheels. Steering vibration at speed often indicates the wheels need balancing."
+  },
+  {
+    "number": 26,
+    "text": "If you're involved in a\ncollision, what will reduce\nthe risk of neck injury?",
+    "options": {
+      "A": "A properly adjusted head restraint",
+      "B": "An air-sprung seat",
+      "C": "Anti-lock brakes",
+      "D": "A collapsible steering wheel"
+    },
+    "correct": "B",
+    "explanation": "Every 600 miles. Oil levels should be checked frequently as part of regular vehicle maintenance."
+  },
+  {
+    "number": 27,
+    "text": "What does it mean if \nyour vehicle keeps bouncing after you sharply press \ndown and release on the \nbodywork over a wheel?",
+    "options": {
+      "A": "The tyres are worn",
+      "B": "The shock absorbers are worn",
+      "C": "The vehicle is on soft ground",
+      "D": "The tyres are under inflated"
+    },
+    "correct": "D",
+    "explanation": "Pump it up and down. Pump the brakes to build up pressure in the hydraulic system if they feel spongy."
+  },
+  {
+    "number": 29,
+    "text": "What makes your tyres\nillegal?",
+    "options": {
+      "A": "If they're of different makes",
+      "B": "If they were bought second- hand",
+      "C": "If they have any large, deep cuts in the side wall",
+      "D": "If they have different tread patterns"
+    },
+    "correct": "C",
+    "explanation": "The brakes have been adjusted. Steering pulling to one side often indicates uneven brake adjustment or wear."
+  },
+  {
+    "number": 30,
+    "text": "What's the legal \nminimum depth of tread for car tyres?",
+    "options": {
+      "A": "4 mm",
+      "B": "2.5 mm",
+      "C": "1.6 mm",
+      "D": "1 mm"
+    },
+    "correct": "B",
+    "explanation": "It can damage the environment. Used engine oil is toxic and must be disposed of properly to protect the environment."
+  },
+  {
+    "number": 31,
+    "text": "You're carrying two 13-year-old children and their parents in your car. Who's responsible for seeing that the children wear seat belts?",
+    "options": {
+      "A": "You, the driver",
+      "B": "The children's parents",
+      "C": "The front-seat passenger",
+      "D": "The children"
+    },
+    "correct": "D",
+    "explanation": "Take it to a local authority disposal site. Batteries must be recycled properly at designated disposal sites."
+  },
+  {
+    "number": 33,
+    "text": "How can you avoid\nwasting fuel?",
+    "options": {
+      "A": "By having your vehicle serviced regularly",
+      "B": "By driving at higher speeds where possible",
+      "C": "By keeping an empty roof rack on your vehicle",
+      "D": "By revving the engine in the lower gears"
+    },
+    "correct": "C",
+    "explanation": "The seat belt doesn't need to be worn. Pregnant women must wear seat belts unless they have a medical exemption certificate from their doctor."
+  },
+  {
+    "number": 34,
+    "text": "What could you do to\nreduce the volume of traffic\non the roads?",
+    "options": {
+      "A": "Walk or cycle on short journeys",
+      "B": "Use a car with a smaller engine",
+      "C": "Drive in a bus lane",
+      "D": "Travel by car at all times"
+    },
+    "correct": "B",
+    "explanation": "Check it's adjusted correctly. The head restraint should be adjusted so the rigid part is at least as high as your eyes or ears."
+  },
+  {
+    "number": 37,
+    "text": "How much more fuel will\nyou use by driving at 70\nmph, compared with driving\nat 50 mph?",
+    "options": {
+      "A": "About 15%",
+      "B": "About 75%",
+      "C": "About 100%",
+      "D": "About 5%"
+    },
+    "correct": "C",
+    "explanation": "Report the incident to the police. Stationary vehicles can be targeted - always report suspicious activity."
+  },
+  {
+    "number": 38,
+    "text": "What should you do if\nyour vehicle pulls to one\nside when you use the\nbrakes?",
+    "options": {
+      "A": "Increase the pressure in your tyres",
+      "B": "Have the brakes checked as soon as possible",
+      "C": "Change gear and pump the brake pedal",
+      "D": "Use your parking brake at the same time"
+    },
+    "correct": "B",
+    "explanation": "Regular servicing. Proper servicing maintains engine efficiency, reducing emissions and fuel consumption."
+  },
+  {
+    "number": 39,
+    "text": "What will happen if your\ncar's wheels are\nunbalanced?",
+    "options": {
+      "A": "The steering will pull to one side",
+      "B": "The tyres will deflate",
+      "C": "The brakes will fail",
+      "D": "The steering will vibrate"
+    },
+    "correct": "D",
+    "explanation": "The exhaust system. Excessive exhaust smoke indicates problems with the exhaust system or engine."
+  },
+  {
+    "number": 40,
+    "text": "What can be damaged if you turn the steering wheel when the car isn't moving?",
+    "options": {
+      "A": "The tyres",
+      "B": "The gearbox",
+      "C": "The engine",
+      "D": "The brakes"
+    },
+    "correct": "A",
+    "explanation": "Warning triangle. Place a warning triangle at least 45 metres behind your vehicle to warn other traffic."
+  },
+  {
+    "number": 42,
+    "text": "What may help to deter a\nthief from stealing your car?",
+    "options": {
+      "A": "Always keeping the headlights on",
+      "B": "Fitting reflective glass windows",
+      "C": "Always keeping the interior light on",
+      "D": "Etching the registration number on the windows"
+    },
+    "correct": "B",
+    "explanation": "It will increase fuel consumption. Roof racks increase wind resistance, reducing fuel efficiency even when empty."
+  },
+  {
+    "number": 43,
+    "text": "What should you remove\nfrom your car before leaving\nit unattended?",
+    "options": {
+      "A": "The service record",
+      "B": "The vehicle registration document",
+      "C": "The car dealer’s details",
+      "D": "The owner’s manual"
+    },
+    "correct": "D",
+    "explanation": "Regular servicing. Proper maintenance keeps the vehicle running efficiently and reduces emissions."
+  },
+  {
+    "number": 45,
+    "text": "What will reduce fuel\nconsumption?",
+    "options": {
+      "A": "Accelerating rapidly",
+      "B": "Staying in lower gears",
+      "C": "Late and heavy braking",
+      "D": "Driving more slowly"
+    },
+    "correct": "C",
+    "explanation": "It will damage the environment. Engine oil contains harmful pollutants that can damage soil and water."
+  },
+  {
+    "number": 46,
+    "text": "You service your own\nvehicle. How should you\ndispose of the old engine\noil?",
+    "options": {
+      "A": "Put it in your dustbin",
+      "B": "Tip it into a hole in the ground",
+      "C": "Pour it down a drain",
+      "D": "Take it to a local-authority site"
+    },
+    "correct": "B",
+    "explanation": "In the owner's handbook. The handbook provides manufacturer recommendations for service intervals."
+  },
+  {
+    "number": 49,
+    "text": "How will you benefit\nfrom following the\nmanufacturer's service\nschedule for your vehicle?",
+    "options": {
+      "A": "Your vehicle tax will be lower",
+      "B": "Your vehicle will be cheaper to insure",
+      "C": "Your vehicle will remain reliable",
+      "D": "Your journey times will be reduced"
+    },
+    "correct": "C",
+    "explanation": "Remove anything that might attract thieves. Don't leave valuables visible as this increases theft risk."
+  },
+  {
+    "number": 50,
+    "text": "How should you drive\nwhen you're driving along a\nroad that has road humps?",
+    "options": {
+      "A": "Always keep to the maximum legal speed",
+      "B": "Accelerate quickly between the humps",
+      "C": "Drive slowly at school times only",
+      "D": "Maintain a reduced speed throughout"
+    },
+    "correct": "B",
+    "explanation": "Check tyre pressures. Correct tyre pressure reduces rolling resistance, improving fuel economy."
+  },
+  {
+    "number": 51,
+    "text": "When should you check\nthe engine oil level?",
+    "options": {
+      "A": "When the engine is hot",
+      "B": "Every time you drive the car",
+      "C": "Early in the morning",
+      "D": "Before a long journey"
+    },
+    "correct": "D",
+    "explanation": "Before driving. All pre-drive checks should be done before you start your journey."
+  },
+  {
+    "number": 52,
+    "text": "You're having difficulty\nfinding a parking space in a\nbusy town. Can you park on\nthe zigzag lines of a zebra\ncrossing?",
+    "options": {
+      "A": "No, not under any circumstances",
+      "B": "No, not unless you stay with your car",
+      "C": "Yes, if you don't block people from crossing",
+      "D": "Yes, in order to drop off a passenger"
+    },
+    "correct": "A",
+    "explanation": "It could affect the vehicle's handling. Incorrect pressures affect grip, steering response, and braking."
+  },
+  {
+    "number": 53,
+    "text": "What should you do\nwhen you leave your car\nunattended for a few\nminutes?",
+    "options": {
+      "A": "Switch the engine off but leave the key in",
+      "B": "Leave the engine running",
+      "C": "Park near a traffic warden",
+      "D": "Lock it and remove the key"
+    },
+    "correct": "C",
+    "explanation": "Always use them. Seat belts should be worn at all times while the vehicle is moving, regardless of journey length."
+  },
+  {
+    "number": 54,
+    "text": "Why should you try and\npark in a secure car park?",
+    "options": {
+      "A": "It stops the car being exposed to bad weather",
+      "B": "It makes it easy to find your car",
+      "C": "It helps deter thieves",
+      "D": "It doesn't cost anything to park here"
+    },
+    "correct": "B",
+    "explanation": "1.6 millimetres. The legal minimum tread depth is 1.6mm across the central three-quarters of the breadth."
+  },
+  {
+    "number": 55,
+    "text": "Where would parking\nyour vehicle cause an\nobstruction?",
+    "options": {
+      "A": "In a marked parking space",
+      "B": "In front of a property entrance",
+      "C": "Alongside a parking meter",
+      "D": "On your driveway"
+    },
+    "correct": "D",
+    "explanation": "Planning routes to avoid busy times. Route planning helps avoid congestion, saving fuel and reducing emissions."
+  },
+  {
+    "number": 56,
+    "text": "What's the most \nimportant reason for having a properly adjusted head \nrestraint?",
+    "options": {
+      "A": "To help you avoid neck injury",
+      "B": "To help you relax",
+      "C": "To help you maintain your driving position",
+      "D": "To make you more comfortable"
+    },
+    "correct": "A",
+    "explanation": "The coolant level. Low coolant can cause the engine to overheat, leading to serious damage."
+  },
+  {
+    "number": 57,
+    "text": "What can you do to reduce environmental damage caused by your vehicle?",
+    "options": {
+      "A": "Avoid using the cruise control",
+      "B": "Use the air conditioning whenever you drive",
+      "C": "Use the gears to slow the vehicle",
+      "D": "Avoid making a lot of short journeys"
+    },
+    "correct": "C",
+    "explanation": "Find a safe place to stop. Pull over safely to check the problem rather than trying to investigate while driving."
+  },
+  {
+    "number": 58,
+    "text": "What can people who\nlive or work in towns and\ncities do to help reduce\nurban pollution levels?",
+    "options": {
+      "A": "Drive short journeys",
+      "B": "Walk or cycle",
+      "C": "Over-rev in a low gear",
+      "D": "Drive more quickly"
+    },
+    "correct": "B",
+    "explanation": "Stop as soon as it's safe and check your tyres. A bumpy ride suggests tyre or suspension problems requiring immediate attention."
+  },
+  {
+    "number": 59,
+    "text": "How can you reduce the\nchances of your car being\nbroken into when leaving it\nunattended?",
+    "options": {
+      "A": "Take all valuables with you",
+      "B": "Park near a taxi rank",
+      "C": "Place any valuables on the floor",
+      "D": "Park near a fire station"
+    },
+    "correct": "D",
+    "explanation": "Regularly checking tyre pressures. Proper tyre pressure improves fuel efficiency and reduces tyre wear."
+  },
+  {
+    "number": 60,
+    "text": "How can you help to\nprevent your car radio being\nstolen?",
+    "options": {
+      "A": "Leave the radio turned on",
+      "B": "Install a security-coded radio",
+      "C": "Park near a busy junction",
+      "D": "Park in an unlit area"
+    },
+    "correct": "A",
+    "explanation": "They reduce your view to the rear. Loose covers can shift and block your view through the rear window."
+  },
+  {
+    "number": 61,
+    "text": "How can you reduce the\nrisk of your vehicle being\nbroken into at night?",
+    "options": {
+      "A": "Park in a poorly lit area",
+      "B": "Leave it in a well-lit area",
+      "C": "Park in a quiet side road",
+      "D": "Don’t engage the steering lock"
+    },
+    "correct": "C",
+    "explanation": "Dispose of it at a local authority site. Engine oil must be disposed of properly at authorized facilities."
+  },
+  {
+    "number": 62,
+    "text": "What will help you to\nkeep your car secure?",
+    "options": {
+      "A": "Taking car maintenance classes",
+      "B": "Passing an advanced driving test",
+      "C": "Registering with a Vehicle Watch scheme",
+      "D": "Being a member of a vehicle breakdown organisation"
+    },
+    "correct": "B",
+    "explanation": "Driving smoothly. Smooth driving with gentle acceleration and braking uses less fuel and reduces emissions."
+  },
+  {
+    "number": 63,
+    "text": "On a vehicle, where\nwould you find a catalytic\nconverter?",
+    "options": {
+      "A": "In the air filter",
+      "B": "On the cooling system",
+      "C": "On the exhaust system",
+      "D": "In the fuel tank"
+    },
+    "correct": "D",
+    "explanation": "At least 1.6 millimetres. This is the legal minimum tread depth required for safe tire performance."
+  },
+  {
+    "number": 64,
+    "text": "What can you achieve if\nyou drive smoothly?",
+    "options": {
+      "A": "Reduction in journey times by about 15%",
+      "B": "Increase in journey times by about 15%",
+      "C": "Reduction in fuel consumption by about 15%",
+      "D": "Increase in fuel consumption by about 15%"
+    },
+    "correct": "A",
+    "explanation": "You'll have reduced steering control. Worn shock absorbers reduce tire contact with the road, affecting steering."
+  },
+  {
+    "number": 65,
+    "text": "Which driving technique\ncan help you save fuel?",
+    "options": {
+      "A": "Accelerating sharply in each gear",
+      "B": "Missing out some gears",
+      "C": "Using each gear in turn",
+      "D": "Using lower gears as often as possible"
+    },
+    "correct": "C",
+    "explanation": "It must be securely fastened. All cargo must be secured to prevent it shifting or falling during driving."
+  },
+  {
+    "number": 66,
+    "text": "How can driving in a\nfuel-efficient manner help\nprotect the environment?",
+    "options": {
+      "A": "Through increased fuel bills",
+      "B": "Through the legal enforcement of speed regulations",
+      "C": "By increasing the number of cars on the road",
+      "D": "By reducing exhaust emissions"
+    },
+    "correct": "D",
+    "explanation": "By reducing exhaust emissions. Fuel-efficient driving means less fuel burned and fewer harmful emissions released into the atmosphere."
+  },
+  {
+    "number": 68,
+    "text": "What's the legal\nminimum tread depth for\ntyres on your trailer or\ncaravan?",
+    "options": {
+      "A": "2 mm",
+      "B": "1.6 mm",
+      "C": "1 mm",
+      "D": "2.6 mm"
+    },
+    "correct": "B",
+    "explanation": "1.6 mm. The legal minimum tread depth for trailer and caravan tyres is the same as for cars - 1.6mm across the central three-quarters of the tread."
+  },
+  {
+    "number": 70,
+    "text": "When may a passenger\ntravel in a car without\nwearing a seat belt?",
+    "options": {
+      "A": "When they're under 1.5 metres (5 feet) in height",
+      "B": "When they're exempt for medical reasons",
+      "C": "When they're sitting in the rear seat",
+      "D": "When they're under 14 years old"
+    },
+    "correct": "B",
+    "explanation": "When they're exempt for medical reasons. Passengers can only travel without seat belts if they have a valid medical exemption certificate."
+  },
+  {
+    "number": 71,
+    "text": "You're driving a friend's children home from school. They're both under 14 years old. Who's responsible for making sure they wear a \nseat belt or approved child restraint where required?",
+    "options": {
+      "A": "Your friend",
+      "B": "An adult passenger",
+      "C": "The children",
+      "D": "You, the driver"
+    },
+    "correct": "D",
+    "explanation": "You, the driver. The driver is responsible for ensuring all passengers under 14 wear seat belts or appropriate child restraints."
+  },
+  {
+    "number": 72,
+    "text": "What's likely to happen if\nyou put too much oil in your\nengine?",
+    "options": {
+      "A": "The oil seals will leak",
+      "B": "The clutch pedal will lock",
+      "C": "The air intake will become blocked",
+      "D": "The timing belt will slip"
+    },
+    "correct": "A",
+    "explanation": "The oil seals will leak. Excess oil creates pressure in the engine, which can cause seals to fail and leak."
+  },
+  {
+    "number": 73,
+    "text": "You have to make an \nunexpected journey. You're carrying a five-year-old child on the back seat of your car. They're under 1.35 metres (4 feet 5 inches) tall. How \nshould you seat them if a \ncorrect child restraint isn't available?",
+    "options": {
+      "A": "Sharing a belt with an adult",
+      "B": "Between two other children",
+      "C": "Using an adult seat belt",
+      "D": "Behind the passenger seat"
+    },
+    "correct": "C",
+    "explanation": "Using an adult seat belt. In unexpected journeys where a child restraint isn't available, use an adult seat belt rather than no restraint."
+  },
+  {
+    "number": 74,
+    "text": "You're carrying an 11-year-old child on the front seat of your car. They're under 1.35 metres (4 feet 5 inches) tall. What seat belt security must be in place?",
+    "options": {
+      "A": "They must be able to see clearly out of the front window",
+      "B": "They must use an adult seat belt",
+      "C": "They must be able to fasten their own seat belt",
+      "D": "They must use a suitable child restraint"
+    },
+    "correct": "D",
+    "explanation": "They must use a suitable child restraint. Children under 1.35m tall must use an appropriate child restraint in the front seat."
+  },
+  {
+    "number": 75,
+    "text": "You're stopped at the\nside of the road. What must\nyou do if you'll be waiting\nthere for some time?",
+    "options": {
+      "A": "Apply the steering lock",
+      "B": "Use your headlights",
+      "C": "Switch off the radio",
+      "D": "Switch off the engine"
+    },
+    "correct": "D",
+    "explanation": "Switch off the engine. When stationary for any length of time, turn off the engine to reduce emissions and save fuel."
+  },
+  {
+    "number": 76,
+    "text": "You want to put a rear-facing baby seat on the front passenger seat. What must you do if the passenger seat is protected by a frontal \nairbag?",
+    "options": {
+      "A": "Put the child in an adult seat belt",
+      "B": "Deactivate the airbag",
+      "C": "Turn the seat to face sideways",
+      "D": "Ask a passenger to hold the baby"
+    },
+    "correct": "B",
+    "explanation": "Deactivate the airbag. Rear-facing child seats must never be used with an active airbag as it can cause serious injury. The airbag must be deactivated."
+  },
+  {
+    "number": 77,
+    "text": "You're leaving your\nvehicle parked on a road\nand unattended. When may\nyou leave the engine\nrunning?",
+    "options": {
+      "A": "If you'll be parking for less than five minutes",
+      "B": "Never if you're away from the vehicle",
+      "C": "When parked in a 20 mph zone",
+      "D": "If the battery keeps going flat"
+    },
+    "correct": "B",
+    "explanation": "Never if you're away from the vehicle. You must never leave a vehicle with the engine running unattended - it's illegal and a security risk."
+  }
+]

@@ -1,0 +1,806 @@
+[
+  {
+    "number": 2,
+    "text": "What should you do if you\nwant to turn left at a junction\nwhere pedestrians have\nstarted to cross?",
+    "options": {
+      "A": "Give way to them",
+      "B": "Sound your horn and proceed",
+      "C": "Stop and wave at them to cross",
+      "D": "Go around them, leaving plenty of room"
+    },
+    "correct": "A",
+    "explanation": "You must give way to pedestrians who have started to cross. Pedestrians have priority when they are already crossing at junctions."
+  },
+  {
+    "number": 4,
+    "text": "Why should you check for\nmotorcyclists just before\nturning right into a side\nroad?",
+    "options": {
+      "A": "They may be following you closely",
+      "B": "They may be overtaking on your right",
+      "C": "They may be emerging from the side road",
+      "D": "They may be overtaking on your left"
+    },
+    "correct": "B",
+    "explanation": "Motorcyclists may be overtaking on your right before you turn. Always check your right mirror and blind spot before turning right."
+  },
+  {
+    "number": 5,
+    "text": "Why is a toucan crossing\ndifferent from a puffin\ncrossing?",
+    "options": {
+      "A": "It's controlled by two flashing lights",
+      "B": "Moped riders can use it",
+      "C": "It's controlled by a traffic warden",
+      "D": "Pedestrians and cyclists can use it together"
+    },
+    "correct": "D",
+    "explanation": "A toucan crossing allows both pedestrians and cyclists to cross together. The name 'toucan' is a play on 'two can' cross."
+  },
+  {
+    "number": 6,
+    "text": "How will a school\ncrossing patrol signal you to\nstop?",
+    "options": {
+      "A": "By displaying a 'stop' sign",
+      "B": "By displaying a red light",
+      "C": "By pointing to children waiting to cross",
+      "D": "By giving you an arm signal"
+    },
+    "correct": "A",
+    "explanation": "A school crossing patrol uses a 'STOP CHILDREN' sign on a pole to signal you to stop."
+  },
+  {
+    "number": 7,
+    "text": "Where would you see this\nsign?",
+    "options": {
+      "A": "On the rear of a school bus or coach",
+      "B": "In the window of a car taking children to school",
+      "C": "At the side of the road",
+      "D": "At playground areas"
+    },
+    "correct": "A",
+    "explanation": "This sign is displayed on the rear of school buses or coaches to warn other drivers that children may be getting on or off."
+  },
+  {
+    "number": 8,
+    "text": "What does this sign\nmean?",
+    "options": {
+      "A": "A route for cyclists only",
+      "B": "A route for pedestrians only",
+      "C": "No route for pedestrians and cyclists",
+      "D": "A route for pedestrians and cyclists"
+    },
+    "correct": "D",
+    "explanation": "This sign indicates a shared route for both pedestrians and cyclists to use together."
+  },
+  {
+    "number": 9,
+    "text": "You see a pedestrian\ncarrying a white stick that\nalso has a red band. What\ndoes this mean?",
+    "options": {
+      "A": "They're deaf and blind",
+      "B": "They have limited mobility",
+      "C": "They're deaf",
+      "D": "They're blind"
+    },
+    "correct": "A",
+    "explanation": "A white stick with a red band indicates the person is deaf and blind (deafblind). A white stick alone means blind."
+  },
+  {
+    "number": 10,
+    "text": "What would you do if you\nsee older people crossing\nthe road ahead?",
+    "options": {
+      "A": "Be patient and allow them to cross in their own time",
+      "B": "Tap the horn in case they're hard of hearing",
+      "C": "Rev the engine to let them know that you're waiting",
+      "D": "Wave them across so they know that you've seen them"
+    },
+    "correct": "A",
+    "explanation": "Be patient and allow older people to cross in their own time. They may need more time to cross safely."
+  },
+  {
+    "number": 11,
+    "text": "What should you do\nwhen you see an older\nperson about to cross the\nroad ahead?",
+    "options": {
+      "A": "Speed up to get past them quickly",
+      "B": "Be careful; they may misjudge your speed",
+      "C": "Stop and wave them across the road",
+      "D": "Expect them to wait for you to pass"
+    },
+    "correct": "B",
+    "explanation": "Be careful, as older pedestrians may misjudge your speed or how far away you are. Slow down and be prepared to stop."
+  },
+  {
+    "number": 12,
+    "text": "You're approaching a\nroundabout. What should\nyou do if a cyclist ahead is\nsignalling to turn right?",
+    "options": {
+      "A": "Overtake on the right",
+      "B": "Give a warning with your horn",
+      "C": "Signal the cyclist to move across",
+      "D": "Give the cyclist plenty of room"
+    },
+    "correct": "D",
+    "explanation": "Give the cyclist plenty of room. Cyclists can signal and take a position in the centre of the lane when turning right at roundabouts."
+  },
+  {
+    "number": 13,
+    "text": "Which vehicle should\nyou allow extra room as you\novertake them?",
+    "options": {
+      "A": "Road-sweeper",
+      "B": "Tractor",
+      "C": "Bicycle",
+      "D": "Lorry"
+    },
+    "correct": "D",
+    "explanation": "Be patient and stay behind the cyclist. Don't overtake just before they turn left, as you may cut across their path."
+  },
+  {
+    "number": 14,
+    "text": "Why should you look\ncarefully for motorcyclists\nand cyclists at junctions?",
+    "options": {
+      "A": "They may want to turn into the side road",
+      "B": "They might not see you turn",
+      "C": "They're harder to see",
+      "D": "They may slow down to let you turn"
+    },
+    "correct": "B",
+    "explanation": "Motorcycles have a smaller profile and can be hidden in blind spots. Check mirrors carefully and look out for them."
+  },
+  {
+    "number": 15,
+    "text": "You're waiting to come\nout of a side road. Why\nshould you look carefully for\nmotorcycles?",
+    "options": {
+      "A": "Motorcycles have right of way",
+      "B": "Motorcycles are usually faster than cars",
+      "C": "Police patrols often use motorcycles",
+      "D": "Motorcycles can easily be hidden behind obstructions"
+    },
+    "correct": "D",
+    "explanation": "Move back to reduce the intimidation. Following too closely can make vulnerable road users feel pressured and unsafe."
+  },
+  {
+    "number": 16,
+    "text": "Why do motorcyclists\nuse dipped headlights in\ndaylight?",
+    "options": {
+      "A": "So that the rider can be seen more easily",
+      "B": "To stop the battery overcharging",
+      "C": "To improve the rider’s vision",
+      "D": "The rider is inviting you to proceed"
+    },
+    "correct": "A",
+    "explanation": "Be aware that the driver may not have seen you. The driver's view may be obscured by parked vehicles."
+  },
+  {
+    "number": 18,
+    "text": "Why do motorcyclists\noften look round over their\nright shoulder just before\nturning right?",
+    "options": {
+      "A": "It helps them balance as they turn",
+      "B": "To listen for traffic behind them",
+      "C": "To check for traffic in their blind area",
+      "D": "Motorcycles don't have mirrors"
+    },
+    "correct": "B",
+    "explanation": "Hold back and allow the cyclist to proceed first. Squeezing past creates unnecessary danger."
+  },
+  {
+    "number": 19,
+    "text": "Which is the most vulnerable road user?",
+    "options": {
+      "A": "Motorcyclist",
+      "B": "Lorry driver",
+      "C": "Tractor driver",
+      "D": "Car driver"
+    },
+    "correct": "C",
+    "explanation": "Allow extra room in case they wobble. Children and less experienced cyclists may be unsteady or unpredictable."
+  },
+  {
+    "number": 20,
+    "text": "You're approaching a\nroundabout. What should\nyou do if there are horses\nbeing ridden in front of you?",
+    "options": {
+      "A": "Sound your horn as a warning",
+      "B": "Accelerate past as quickly as possible",
+      "C": "Give them plenty of room",
+      "D": "Treat them like any other vehicle"
+    },
+    "correct": "B",
+    "explanation": "Move over to give them room. Horse riders need space and can be easily startled by close-passing vehicles."
+  },
+  {
+    "number": 21,
+    "text": "As you approach a\npelican crossing, the lights\nchange to green. What\nshould you do if older\npeople are still crossing?",
+    "options": {
+      "A": "Flash your lights in case they haven't noticed you",
+      "B": "Wave them to cross as quickly as they can",
+      "C": "Rev your engine to make them hurry",
+      "D": "Wait patiently while they cross"
+    },
+    "correct": "A",
+    "explanation": "Stay well back from the horse. Close following may frighten the horse and cause it to bolt or the rider to lose control."
+  },
+  {
+    "number": 22,
+    "text": "What action should you\ntake when you see flashing\namber lights under a school\nwarning sign?",
+    "options": {
+      "A": "Wait at the lights until they stop flashing",
+      "B": "Reduce speed until you're clear of the area",
+      "C": "Increase your speed to clear the area quickly",
+      "D": "Keep up your speed and sound the horn"
+    },
+    "correct": "D",
+    "explanation": "Allow them to cross in their own time. Never rush elderly pedestrians as they may need extra time."
+  },
+  {
+    "number": 23,
+    "text": "Why should these road\nmarkings be kept clear?",
+    "options": {
+      "A": "To allow children to be picked up after school",
+      "B": "To allow children to be dropped off at school",
+      "C": "To allow teachers to park",
+      "D": "To allow children to see and be seen when they're crossing the road"
+    },
+    "correct": "C",
+    "explanation": "Pedestrians have priority at zebra crossings. You must stop and allow them to cross."
+  },
+  {
+    "number": 24,
+    "text": "Where would you see\nthis sign?",
+    "options": {
+      "A": "On a school bus",
+      "B": "Near a school crossing",
+      "C": "At a playground entrance",
+      "D": "At a ‘pedestrians only’ area"
+    },
+    "correct": "B",
+    "explanation": "Move to the left to increase the gap. Give motorcyclists plenty of space when they are alongside you."
+  },
+  {
+    "number": 25,
+    "text": "You're following two \ncyclists as they approach a roundabout in the left-hand lane. Where would you \nexpect the cyclists to go?",
+    "options": {
+      "A": "Straight ahead",
+      "B": "Any direction",
+      "C": "Right",
+      "D": "Left"
+    },
+    "correct": "C",
+    "explanation": "Give way to them. Pedestrians who have started crossing have right of way."
+  },
+  {
+    "number": 26,
+    "text": "You're travelling behind a moped. What should you do if you want to turn left a short distance ahead?",
+    "options": {
+      "A": "Overtake the moped before the junction",
+      "B": "Pull alongside the moped and stay level until just before the junction",
+      "C": "Sound your horn as a warning and pull in front of the moped",
+      "D": "Stay behind until the moped has passed the junction"
+    },
+    "correct": "A",
+    "explanation": "Be prepared to slow down and give way. The vehicle may be about to drop off passengers."
+  },
+  {
+    "number": 27,
+    "text": "You see a horse rider as you approach a roundabout.\nWhat should you do if \nthey're signalling right but keeping well to the left?",
+    "options": {
+      "A": "Stay well back",
+      "B": "Proceed as normal",
+      "C": "Keep close to them",
+      "D": "Cut in front of them"
+    },
+    "correct": "D",
+    "explanation": "Slow down and be ready to stop for pedestrians. They may cross suddenly without looking."
+  },
+  {
+    "number": 28,
+    "text": "How should you react to\ninexperienced drivers?",
+    "options": {
+      "A": "Sound your horn to warn them of your presence",
+      "B": "Be patient and prepare for them to react more slowly",
+      "C": "Flash your headlights to indicate that it's safe for them to proceed",
+      "D": "Overtake them as soon as possible"
+    },
+    "correct": "B",
+    "explanation": "Remain behind until you can overtake safely. Don't rush past elderly pedestrians."
+  },
+  {
+    "number": 29,
+    "text": "What should you do\nwhen you're following a\nlearner driver who stalls at a\njunction?",
+    "options": {
+      "A": "Stay very close behind and flash your headlights",
+      "B": "Immediately steer around them and drive on",
+      "C": "Start to rev your engine if they take too long to restart",
+      "D": "Be patient, as you expect them to make mistakes"
+    },
+    "correct": "C",
+    "explanation": "The person is deaf and blind (deafblind). The red band on a white stick indicates this condition."
+  },
+  {
+    "number": 30,
+    "text": "You're on a country road. What should you expect to see coming towards you on your side of the road?",
+    "options": {
+      "A": "Horse riders",
+      "B": "Motorcycles",
+      "C": "Bicycles",
+      "D": "Pedestrians"
+    },
+    "correct": "A",
+    "explanation": "Wave the pedestrians across. When you've stopped at a zebra crossing, you can gesture to confirm it's safe for them to cross."
+  },
+  {
+    "number": 31,
+    "text": "You're following a\ncyclist. What should you do\nwhen you wish to turn left a\nshort distance ahead?",
+    "options": {
+      "A": "Pull alongside the cyclist and stay level until after the junction",
+      "B": "Hold back until the cyclist has passed the junction",
+      "C": "Go around the cyclist on the junction",
+      "D": "Overtake the cyclist before you reach the junction"
+    },
+    "correct": "D",
+    "explanation": "The driver intends to turn left. The cyclist is signaling their intention to turn left."
+  },
+  {
+    "number": 32,
+    "text": "A horse rider is in the \nleft-hand lane approaching a roundabout. Where should you expect the rider to go?",
+    "options": {
+      "A": "To the right",
+      "B": "Straight ahead",
+      "C": "To the left",
+      "D": "In any direction"
+    },
+    "correct": "A",
+    "explanation": "Slow down and give them time and space. Young children may do unpredictable things."
+  },
+  {
+    "number": 33,
+    "text": "Powered vehicles used by disabled people are small and can be hard to see.\nWhat must they display if they're travelling on a dual carriageway?",
+    "options": {
+      "A": "Flashing amber beacon",
+      "B": "Flashing red beacon",
+      "C": "Flashing green beacon",
+      "D": "Flashing blue beacon"
+    },
+    "correct": "D",
+    "explanation": "Look out for animals being led, ridden or driven on the road. Rural roads often have animals."
+  },
+  {
+    "number": 34,
+    "text": "What does it mean when\na moving vehicle is showing\na flashing amber beacon?",
+    "options": {
+      "A": "The vehicle belongs to a school crossing patrol",
+      "B": "The vehicle is slow moving",
+      "C": "The vehicle is a doctor's car",
+      "D": "The vehicle has broken down"
+    },
+    "correct": "B",
+    "explanation": "Cyclists and motorcyclists. These are the most vulnerable in side winds due to their smaller mass and profile."
+  },
+  {
+    "number": 36,
+    "text": "What should you do\nwhen you see these horse\nriders in front?",
+    "options": {
+      "A": "Slow down and be ready to stop",
+      "B": "Pull out to the middle of the road",
+      "C": "Switch on your hazard warning lights",
+      "D": "Give a right-turn signal"
+    },
+    "correct": "C",
+    "explanation": "It will reduce your view ahead. Driving too close restricts your view of the road ahead."
+  },
+  {
+    "number": 37,
+    "text": "What's the purpose of\nthese road markings?",
+    "options": {
+      "A": "To ensure children can see and be seen when they're crossing the road",
+      "B": "To enable parents to pick up or drop off children safely",
+      "C": "To enable teachers to have clear access to the school",
+      "D": "To ensure delivery vehicles have easy access to the school"
+    },
+    "correct": "B",
+    "explanation": "Stay well back and don't rush them. Elderly pedestrians need time and shouldn't be pressured."
+  },
+  {
+    "number": 38,
+    "text": "What should you do if\nthe left-hand pavement is\nclosed due to street repairs?",
+    "options": {
+      "A": "Watch out for pedestrians walking in the road",
+      "B": "Position close to the left- hand kerb",
+      "C": "Speed up to get past the roadworks more quickly",
+      "D": "Use your right-hand mirror more often"
+    },
+    "correct": "D",
+    "explanation": "Move to the left and slow down. Give horse riders plenty of space as horses can be unpredictable."
+  },
+  {
+    "number": 39,
+    "text": "What should you do\nwhen you're following a\nmotorcyclist along a road\nthat has a poor surface?",
+    "options": {
+      "A": "Follow closely so they can see you in their mirrors",
+      "B": "Allow the same room as normal to avoid wasting road space",
+      "C": "Allow extra room in case they swerve to avoid potholes",
+      "D": "Overtake immediately to avoid delays"
+    },
+    "correct": "A",
+    "explanation": "Give way to any pedestrians crossing. Pedestrians have priority when they're already crossing."
+  },
+  {
+    "number": 40,
+    "text": "What does this sign\nmean?",
+    "options": {
+      "A": "No cycling",
+      "B": "End of cycle route",
+      "C": "Cycle parking only",
+      "D": "Cycle route ahead"
+    },
+    "correct": "C",
+    "explanation": "Slow down and be ready to stop. People may be crossing or about to cross near bus stops."
+  },
+  {
+    "number": 41,
+    "text": "You're approaching this roundabout. What should you do when a cyclist is \nkeeping to the left while \nsignalling to turn right?",
+    "options": {
+      "A": "Overtake them",
+      "B": "Sound your horn",
+      "C": "Allow them space to turn",
+      "D": "Assume they're turning left"
+    },
+    "correct": "B",
+    "explanation": "Drive slowly and carefully past them. Children can be unpredictable and may not see you."
+  },
+  {
+    "number": 42,
+    "text": "What should you do\nwhen you're approaching\nthis crossing?",
+    "options": {
+      "A": "Stop and wave the pedestrians across",
+      "B": "Continue unless the pedestrians step out",
+      "C": "Prepare to slow down and stop",
+      "D": "Speed up and pass by quickly"
+    },
+    "correct": "A",
+    "explanation": "Ahead if you're approaching a school. This sign warns of a school crossing patrol ahead."
+  },
+  {
+    "number": 43,
+    "text": "What does it mean if you\nsee a pedestrian with a dog\nthat has a yellow or\nburgundy coat?",
+    "options": {
+      "A": "The pedestrian is colour- blind",
+      "B": "The pedestrian is a dog trainer",
+      "C": "The pedestrian is an older person",
+      "D": "The pedestrian is deaf"
+    },
+    "correct": "D",
+    "explanation": "Slow down and be prepared to stop. Children can behave unpredictably near schools."
+  },
+  {
+    "number": 44,
+    "text": "Who may use toucan\ncrossings?",
+    "options": {
+      "A": "Only cyclists",
+      "B": "Motorcyclists and cyclists",
+      "C": "Cyclists and pedestrians",
+      "D": "Motorcyclists and pedestrians"
+    },
+    "correct": "B",
+    "explanation": "Give way to them. Pedestrians crossing at junctions have priority."
+  },
+  {
+    "number": 45,
+    "text": "This junction, controlled\nby traffic lights, has a\nmarked area between two\nstop lines. What's this for?",
+    "options": {
+      "A": "To allow taxis to position in front of other traffic",
+      "B": "To allow people with disabilities to cross the road",
+      "C": "To allow cyclists and pedestrians to cross the road together",
+      "D": "To allow cyclists to position in front of other traffic"
+    },
+    "correct": "A",
+    "explanation": "Leave plenty of room in case the cyclist wobbles. Cyclists may swerve to avoid drains, potholes, or debris."
+  },
+  {
+    "number": 46,
+    "text": "You're about to overtake\na cyclist. Why should you\nleave them as much room as\nyou would give to a car?",
+    "options": {
+      "A": "The cyclist might have to make a left turn",
+      "B": "The cyclist might speed up",
+      "C": "The cyclist might get off their bicycle",
+      "D": "The cyclist might be unsettled if you pass too near them"
+    },
+    "correct": "C",
+    "explanation": "Be patient and give them time to cross. Never rush pedestrians, especially elderly ones."
+  },
+  {
+    "number": 47,
+    "text": "What should you do\nwhen you're passing loose\nsheep on the road?",
+    "options": {
+      "A": "Briefly sound your horn",
+      "B": "Herd them to the side of the road",
+      "C": "Pass quickly but quietly",
+      "D": "Go very slowly"
+    },
+    "correct": "D",
+    "explanation": "Move out early to give them extra room. Cyclists need space for safety."
+  },
+  {
+    "number": 48,
+    "text": "At night, what does it\nmean if you see a pedestrian\nwearing reflective clothing\nand carrying a bright red\nlight?",
+    "options": {
+      "A": "You're approaching a traffic danger spot",
+      "B": "You're approaching roadworks",
+      "C": "You're approaching an organised walk",
+      "D": "You're approaching a slow-moving vehicle"
+    },
+    "correct": "A",
+    "explanation": "Slow down and be prepared to stop. Children may run into the road without looking."
+  },
+  {
+    "number": 49,
+    "text": "You’ve just passed your\ndriving test. How can you\nreduce your risk of being\ninvolved in a collision?",
+    "options": {
+      "A": "By always staying close to the vehicle in front",
+      "B": "By never going over 40 mph",
+      "C": "By staying in the left-hand lane on all roads",
+      "D": "By taking further training"
+    },
+    "correct": "B",
+    "explanation": "Wait for them to walk forward from the vehicle. They may be hidden by the parked vehicle."
+  },
+  {
+    "number": 50,
+    "text": "You're turning right from a main road into a side road. There's no oncoming traffic.\nWhat should you do if \npedestrians are standing on the pavement waiting to \ncross the side road?",
+    "options": {
+      "A": "Wait and give way to the pedestrians",
+      "B": "Wave at the pedestrians, inviting them to cross the road",
+      "C": "Turn in because the pedestrians are safe on the pavement",
+      "D": "Sound your horn to alert the pedestrians to your presence"
+    },
+    "correct": "C",
+    "explanation": "Wait for them to cross. Pedestrians who have started crossing have priority."
+  },
+  {
+    "number": 51,
+    "text": "You're travelling on a narrow section of road.\nWhat should you do if a \nhorse rider ahead is riding in the centre of the lane?",
+    "options": {
+      "A": "Get up close behind to encourage them to move aside",
+      "B": "Sound your horn to alert them to your presence",
+      "C": "Stay behind and allow them to ride in this position",
+      "D": "Move across to the right and try to ease past them"
+    },
+    "correct": "D",
+    "explanation": "Give signals before you change direction. This helps cyclists and others anticipate your movements."
+  },
+  {
+    "number": 52,
+    "text": "You’re about to overtake a cyclist on a road that has a 30 mph speed limit. How \nmuch room should you \nleave them as you overtake?",
+    "options": {
+      "A": "At least a car’s width",
+      "B": "At least as much room as you would if you were overtaking a car",
+      "C": "At least a car’s length",
+      "D": "At least 2 car widths"
+    },
+    "correct": "A",
+    "explanation": "Reduce your speed. Ice cream vans attract children who may run into the road without looking."
+  },
+  {
+    "number": 53,
+    "text": "You're turning left from a main road into a side road.\nWhat should you do if \nthere’s a pedestrian on the pavement waiting to cross the side road?",
+    "options": {
+      "A": "Flash your lights to encourage the pedestrian to cross",
+      "B": "Wait and give way to the pedestrian",
+      "C": "Sound your horn to let the pedestrian know you’re there",
+      "D": "Carry on turning into the side road"
+    },
+    "correct": "B",
+    "explanation": "Give way to them. Pedestrians crossing have priority."
+  },
+  {
+    "number": 54,
+    "text": "You want to reverse into a side road. What should \nyou do if you aren't sure that the area behind your car is clear?",
+    "options": {
+      "A": "Get out and check",
+      "B": "Carry on, assuming it's clear",
+      "C": "Check the mirrors only",
+      "D": "Look through the rear window only"
+    },
+    "correct": "C",
+    "explanation": "Leave a safe gap between you and the cyclist. Give cyclists space to ride safely."
+  },
+  {
+    "number": 55,
+    "text": "You're about to reverse into a side road. What \nshould you do if a \npedestrian is waiting to \ncross behind your car?",
+    "options": {
+      "A": "Give way to the pedestrian",
+      "B": "Wave to the pedestrian to stop",
+      "C": "Sound your horn to warn the pedestrian",
+      "D": "Reverse before the pedestrian starts to cross"
+    },
+    "correct": "D",
+    "explanation": "Slow down until they've crossed. Pedestrians may cross from either side at these crossings."
+  },
+  {
+    "number": 56,
+    "text": "Which road users are\nmost difficult to see when\nyou're reversing your car?",
+    "options": {
+      "A": "Cyclists",
+      "B": "Car drivers",
+      "C": "Motorcyclists",
+      "D": "Children"
+    },
+    "correct": "A",
+    "explanation": "Give them plenty of room. Cyclists may need to swerve around obstacles."
+  },
+  {
+    "number": 57,
+    "text": "You want to turn right\nfrom a junction. What should\nyou do if your view is\nrestricted by parked\nvehicles?",
+    "options": {
+      "A": "Move out quickly, but be prepared to stop",
+      "B": "Sound your horn and pull out if there's no reply",
+      "C": "Stop, then move forward slowly until you have a clear view",
+      "D": "Stop, get out and look along the main road to check"
+    },
+    "correct": "B",
+    "explanation": "Children running out between vehicles. Parked cars can hide children who may run out suddenly."
+  },
+  {
+    "number": 58,
+    "text": "You're at the front of a queue of traffic waiting to turn right into a side road. Why is it important to check your right mirror just before turning?",
+    "options": {
+      "A": "To check for emerging traffic",
+      "B": "To look for pedestrians about to cross",
+      "C": "To check for overtaking vehicles",
+      "D": "To make sure the side road is clear"
+    },
+    "correct": "C",
+    "explanation": "Stay behind the cyclist until it's safe to overtake. Don't squeeze past when there isn't enough room."
+  },
+  {
+    "number": 59,
+    "text": "You've driven up to a\npelican crossing. What must\nyou do while the amber light\nis flashing?",
+    "options": {
+      "A": "Wait for the red-and-amber light before proceeding",
+      "B": "Always wait for the green light before proceeding",
+      "C": "Give way to any pedestrians on the crossing",
+      "D": "Signal the pedestrian to cross"
+    },
+    "correct": "D",
+    "explanation": "Slow down and be prepared to stop. The pedestrian may not be able to see or hear you approaching."
+  },
+  {
+    "number": 60,
+    "text": "You've stopped at a \npelican crossing. What \nshould you do if a disabled person is crossing slowly in front of you and the lights change to green?",
+    "options": {
+      "A": "Sound your horn",
+      "B": "Wait for them to finish crossing",
+      "C": "Drive in front of them",
+      "D": "Edge forward slowly"
+    },
+    "correct": "A",
+    "explanation": "Keep well back. Motorcycles can stop more quickly than cars in some conditions."
+  },
+  {
+    "number": 61,
+    "text": "You're driving past a line\nof parked cars. What should\nyou do if a ball bounces out\ninto the road ahead?",
+    "options": {
+      "A": "Continue driving at the same speed and flash your headlights",
+      "B": "Stop and wave the children across to fetch their ball",
+      "C": "Slow down and be prepared to stop for children",
+      "D": "Continue driving at the same speed and sound your horn"
+    },
+    "correct": "B",
+    "explanation": "Be aware that the pedestrian may suddenly cross. They can't see you and may step into the road."
+  },
+  {
+    "number": 62,
+    "text": "You want to turn right\nfrom a main road into a side\nroad. What should you do\njust before turning?",
+    "options": {
+      "A": "Cancel your right-turn signal",
+      "B": "Stop and set the parking brake",
+      "C": "Check for traffic overtaking on your right",
+      "D": "Select first gear"
+    },
+    "correct": "C",
+    "explanation": "Give way to them. Pedestrians have priority when they're already crossing."
+  },
+  {
+    "number": 63,
+    "text": "You're driving in a slow-\nmoving queue of traffic.\nWhat should you do just\nbefore changing lane?",
+    "options": {
+      "A": "Change down to first gear",
+      "B": "Sound the horn and flash your lights",
+      "C": "Look for motorcyclists filtering through the traffic",
+      "D": "Give a ‘slowing down’ arm signal"
+    },
+    "correct": "D",
+    "explanation": "Slow down and prepare to stop. You should expect children near schools to act unpredictably."
+  },
+  {
+    "number": 64,
+    "text": "You're driving in town.\nWhy should you be careful if\nthere's a bus at a bus stop\non the other side of the\nroad?",
+    "options": {
+      "A": "The bus might move off suddenly",
+      "B": "The bus might have broken down",
+      "C": "The bus might remain stationary",
+      "D": "Pedestrians might come from behind the bus"
+    },
+    "correct": "A",
+    "explanation": "Give them plenty of space. Cyclists need room for safety and may need to move out to avoid hazards."
+  },
+  {
+    "number": 65,
+    "text": "How should you\novertake horse riders?",
+    "options": {
+      "A": "Use your horn just once to warn them",
+      "B": "Drive up close and overtake as soon as possible",
+      "C": "Speed isn't important but allow plenty of room",
+      "D": "Drive slowly and leave plenty of room"
+    },
+    "correct": "B",
+    "explanation": "Wait patiently behind them. Don't rush or pressure elderly pedestrians who are crossing."
+  },
+  {
+    "number": 66,
+    "text": "Why should you allow\nextra room while overtaking\na motorcyclist on a windy\nday?",
+    "options": {
+      "A": "The rider may be travelling faster than normal",
+      "B": "The rider may turn off suddenly to get out of the wind",
+      "C": "The rider may be blown in front of you",
+      "D": "The rider may stop suddenly"
+    },
+    "correct": "C",
+    "explanation": "Stay well back from the cyclist. This gives you better visibility and reaction time."
+  },
+  {
+    "number": 67,
+    "text": "Where should you take\nparticular care to look for\nmotorcyclists and cyclists?",
+    "options": {
+      "A": "At zebra crossings",
+      "B": "On dual carriageways",
+      "C": "At junctions",
+      "D": "On one-way streets"
+    },
+    "correct": "D",
+    "explanation": "Slow down and watch carefully. Children may not understand the dangers and could run into the road."
+  },
+  {
+    "number": 68,
+    "text": "The road outside this\nschool is marked with\nyellow zigzag lines. What do\nthese lines mean?",
+    "options": {
+      "A": "You must stay with your vehicle if you park here",
+      "B": "You may park on the lines when dropping off schoolchildren",
+      "C": "You may park on the lines when picking up schoolchildren",
+      "D": "You shouldn't wait or park your vehicle here"
+    },
+    "correct": "D",
+    "explanation": "Yellow zigzag lines outside schools mean you must not wait or park your vehicle on them. This keeps the area clear for children's safety."
+  },
+  {
+    "number": 69,
+    "text": "You're driving past\nparked cars. What should\nyou do if you see a bicycle\nwheel sticking out between\nthe cars?",
+    "options": {
+      "A": "Slow down and wave the cyclist across",
+      "B": "Slow down and be prepared to stop for a cyclist",
+      "C": "Brake sharply and flash your headlights",
+      "D": "Accelerate past quickly and sound your horn"
+    },
+    "correct": "B",
+    "explanation": "Slow down and be prepared to stop for a cyclist. If you can see a bicycle wheel, a cyclist may be about to emerge from between the parked cars."
+  },
+  {
+    "number": 70,
+    "text": "You're driving at night.\nWhat should you do if you're\ndazzled by a vehicle behind\nyou?",
+    "options": {
+      "A": "Switch your rear lights on and off",
+      "B": "Brake sharply to a stop",
+      "C": "Set your mirror to the anti- dazzle position",
+      "D": "Set your mirror to dazzle the other driver"
+    },
+    "correct": "C",
+    "explanation": "Set your mirror to the anti-dazzle position. This will reduce the glare from headlights behind you without affecting your vision of the road ahead."
+  },
+  {
+    "number": 71,
+    "text": "You're driving towards a zebra crossing. What should you do if a person in a \nwheelchair is waiting to \ncross?",
+    "options": {
+      "A": "Continue on your way",
+      "B": "Be prepared to stop",
+      "C": "Wave to the person to wait",
+      "D": "Wave to the person to cross Answers"
+    },
+    "correct": "B",
+    "explanation": "Be prepared to stop. You must give way to anyone waiting to cross at a zebra crossing, including wheelchair users."
+  }
+]
