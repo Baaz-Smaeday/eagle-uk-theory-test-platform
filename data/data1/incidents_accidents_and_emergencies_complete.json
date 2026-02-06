@@ -1,0 +1,542 @@
+[
+  {
+    "number": 2,
+    "text": "What should you do if you\nhave to stop while you're\ngoing through a congested\ntunnel?",
+    "options": {
+      "A": "Pull up very close to the vehicle in front to save space",
+      "B": "Ignore any message signs, as they're never up to date",
+      "C": "Keep a safe distance from the vehicle in front",
+      "D": "Make a U-turn and find another route"
+    },
+    "correct": "C",
+    "explanation": "Keep a safe distance from the vehicle in front. Maintain proper spacing even in tunnels."
+  },
+  {
+    "number": 3,
+    "text": "You arrive at the scene of a crash where someone is bleeding heavily from a \nwound in their arm. Nothing is embedded in the wound. What could you do to help?",
+    "options": {
+      "A": "Dab the wound",
+      "B": "Walk them around and keep them talking",
+      "C": "Apply pressure over the wound",
+      "D": "Get them a drink"
+    },
+    "correct": "D",
+    "explanation": "Switch on your hazard warning lights. Warn other drivers of the obstruction or hazard."
+  },
+  {
+    "number": 4,
+    "text": "You're at an incident.\nWhat could you do to help\nan unconscious casualty?",
+    "options": {
+      "A": "Take photographs of the scene",
+      "B": "Splash their face with cool water",
+      "C": "Move them to somewhere more comfortable",
+      "D": "Check that they're breathing normally"
+    },
+    "correct": "A",
+    "explanation": "Drive on carefully. Don't stop on motorways unless it's an emergency."
+  },
+  {
+    "number": 5,
+    "text": "A casualty isn't breathing normally and needs CPR. At what rate should you press down and release on the \ncentre of their chest?",
+    "options": {
+      "A": "10 times per minute",
+      "B": "240 times per minute",
+      "C": "60 times per minute",
+      "D": "120 times per minute"
+    },
+    "correct": "B",
+    "explanation": "Stop and call the emergency services. Report accidents involving injury immediately."
+  },
+  {
+    "number": 6,
+    "text": "Following a collision, a person has been injured. What would be a warning sign for shock?",
+    "options": {
+      "A": "Flushed complexion",
+      "B": "Warm dry skin",
+      "C": "Slow pulse",
+      "D": "Rapid shallow breathing"
+    },
+    "correct": "C",
+    "explanation": "Use an emergency telephone. These directly connect to emergency services and show your location."
+  },
+  {
+    "number": 7,
+    "text": "An injured person has \nbeen placed in the recovery position. They're \nunconscious but breathing normally. What else should be done?",
+    "options": {
+      "A": "Check their airway remains open",
+      "B": "Press firmly between their shoulders",
+      "C": "Give them a hot sweet drink",
+      "D": "Place their arms by their side"
+    },
+    "correct": "D",
+    "explanation": "Send someone to call for help. Get professional medical help immediately for injuries."
+  },
+  {
+    "number": 8,
+    "text": "An injured motorcyclist is lying unconscious in the \nroad. The traffic has stopped and there's no further \ndanger. What could you do to help?",
+    "options": {
+      "A": "Remove their leather jacket",
+      "B": "Seek medical assistance",
+      "C": "Move the person off the road",
+      "D": "Remove their safety helmet"
+    },
+    "correct": "A",
+    "explanation": "Switch off the fuel supply. This reduces fire risk in vehicle accidents."
+  },
+  {
+    "number": 9,
+    "text": "What should you do if you\nsee a large box fall from a\nlorry onto the motorway?",
+    "options": {
+      "A": "Go to the next emergency telephone and report the hazard",
+      "B": "Catch up with the lorry and try to get the driver's attention",
+      "C": "Stop close to the box until the police arrive",
+      "D": "Pull over to the hard shoulder, then remove the box"
+    },
+    "correct": "B",
+    "explanation": "Don't remove their helmet. Removing helmets can cause further spinal injury."
+  },
+  {
+    "number": 10,
+    "text": "You're going through a\nlong tunnel. What will warn\nyou of congestion or an\nincident ahead?",
+    "options": {
+      "A": "Hazard warning lines",
+      "B": "Areas with hatch markings",
+      "C": "Other drivers flashing their lights",
+      "D": "Variable message signs"
+    },
+    "correct": "C",
+    "explanation": "Get them out of the vehicle. Fire risk means evacuating casualties if safe to do so."
+  },
+  {
+    "number": 11,
+    "text": "An adult casualty isn't \nbreathing. To maintain \ncirculation, CPR should be given. What's the correct \ndepth to press down on their chest?",
+    "options": {
+      "A": "10 to 15 centimetres",
+      "B": "1 to 2 centimetres",
+      "C": "5 to 6 centimetres",
+      "D": "15 to 20 centimetres"
+    },
+    "correct": "D",
+    "explanation": "Loosen any tight clothing. This helps injured people breathe more easily."
+  },
+  {
+    "number": 12,
+    "text": "You're the first person to arrive at an incident where people are badly injured.\nYou’ve switched on your hazard warning lights and checked all engines are \nstopped. What else should you do?",
+    "options": {
+      "A": "Make sure that an ambulance has been called",
+      "B": "Move the people who are injured clear of their vehicles",
+      "C": "Try and get people who are injured to drink something",
+      "D": "Stop other cars and ask the drivers for help"
+    },
+    "correct": "A",
+    "explanation": "Call the emergency services immediately. Professional medical help is crucial for serious injuries."
+  },
+  {
+    "number": 13,
+    "text": "You arrive at the scene of a motorcycle crash. The \nrider is injured. When \nshould their helmet be \nremoved?",
+    "options": {
+      "A": "Always, unless they're in shock",
+      "B": "Only when it's essential",
+      "C": "Always straight away",
+      "D": "Only when the motorcyclist asks"
+    },
+    "correct": "B",
+    "explanation": "Keep them warm and comfortable. Treat for shock by keeping casualty warm."
+  },
+  {
+    "number": 14,
+    "text": "You arrive at an incident. There's no danger from fire or further collisions and the emergency services have \nbeen called. What's your \nfirst priority when attending to an unconscious \nmotorcyclist?",
+    "options": {
+      "A": "Check whether they're bleeding",
+      "B": "Check whether they have any bruising",
+      "C": "Check whether they're breathing normally",
+      "D": "Check whether they have any broken bones"
+    },
+    "correct": "C",
+    "explanation": "Clear the airway and check breathing. ABC - Airway, Breathing, Circulation."
+  },
+  {
+    "number": 15,
+    "text": "At an incident, someone\nis unconscious and you\nwant to help. What would be\nthe first thing to check?",
+    "options": {
+      "A": "Whether they're comfortable",
+      "B": "Whether their vehicle is insured",
+      "C": "Whether their airway is open",
+      "D": "Whether they have any allergies"
+    },
+    "correct": "D",
+    "explanation": "Phone for medical assistance. Get professional help for all injury accidents."
+  },
+  {
+    "number": 16,
+    "text": "What could you do to\nhelp injured people at an\nincident?",
+    "options": {
+      "A": "Give them a warm drink",
+      "B": "Keep them warm and comfortable",
+      "C": "Give them something to eat",
+      "D": "Keep them on the move by walking them around"
+    },
+    "correct": "A",
+    "explanation": "Place them in the recovery position. This keeps airways clear for unconscious breathing casualties."
+  },
+  {
+    "number": 17,
+    "text": "There's been a collision.\nHow can you help a driver\nwho's suffering from shock?",
+    "options": {
+      "A": "Offer them a cigarette",
+      "B": "Give them a drink",
+      "C": "Reassure them confidently",
+      "D": "Ask who caused the incident"
+    },
+    "correct": "B",
+    "explanation": "Stop, but only if it's safe to do so. Assess safety before stopping at any incident."
+  },
+  {
+    "number": 18,
+    "text": "You arrive at the scene of a motorcycle crash. No \nother vehicle is involved. \nThe rider is unconscious \nand lying in the middle of \nthe road. What's the first \nthing you should do at the scene?",
+    "options": {
+      "A": "Clear the road of debris",
+      "B": "Warn other traffic",
+      "C": "Give the rider reassurance",
+      "D": "Move the rider out of the road"
+    },
+    "correct": "C",
+    "explanation": "Use an emergency telephone. These connect directly to highways agencies."
+  },
+  {
+    "number": 19,
+    "text": "At an incident, how\ncould you help a small child\nwho isn't breathing?",
+    "options": {
+      "A": "Find their parents and explain what's happening",
+      "B": "Talk to them confidently until an ambulance arrives",
+      "C": "Put them in the recovery position and slap their back",
+      "D": "Open their airway and begin CPR"
+    },
+    "correct": "D",
+    "explanation": "Switch off the vehicle's engine. Reduce fire risk at accident scenes."
+  },
+  {
+    "number": 20,
+    "text": "At an incident, a casualty\nisn't breathing. What should\nyou do while helping them to\nstart breathing again?",
+    "options": {
+      "A": "Open their airway",
+      "B": "Put their arms across their chest",
+      "C": "Roll them onto their side",
+      "D": "Shake them firmly"
+    },
+    "correct": "A",
+    "explanation": "Check the casualty's breathing. Airway and breathing are first priorities."
+  },
+  {
+    "number": 21,
+    "text": "At an incident, someone\nis suffering from severe\nburns. How could you help\nthem?",
+    "options": {
+      "A": "Burst any blisters",
+      "B": "Douse the burns with clean, cool water",
+      "C": "Remove anything sticking to the burns",
+      "D": "Apply lotions to the injury"
+    },
+    "correct": "B",
+    "explanation": "Warn other traffic. Prevent further accidents by warning approaching vehicles."
+  },
+  {
+    "number": 22,
+    "text": "You arrive at an incident. A pedestrian is bleeding \nheavily from a leg wound. The leg isn't broken and \nthere's nothing in the \nwound. How could you \nhelp?",
+    "options": {
+      "A": "Give them a warm drink",
+      "B": "Apply firm pressure over the wound",
+      "C": "Keep the casualty's legs flat on the ground",
+      "D": "Dab the wound to stop the bleeding"
+    },
+    "correct": "C",
+    "explanation": "Give mouth-to-mouth resuscitation. If someone isn't breathing, start rescue breaths."
+  },
+  {
+    "number": 23,
+    "text": "At an incident, a casualty\nis unconscious but\nbreathing. When should you\nmove them?",
+    "options": {
+      "A": "When an ambulance is on its way",
+      "B": "When bystanders tell you to move them",
+      "C": "When there's a risk of further danger",
+      "D": "When bystanders offer to help you"
+    },
+    "correct": "D",
+    "explanation": "Apply firm pressure to the wound. Direct pressure helps control bleeding."
+  },
+  {
+    "number": 24,
+    "text": "At an incident, it's\nimportant to look after any\ncasualties. What should you\ndo with them when the area\nis safe?",
+    "options": {
+      "A": "Keep them where they are",
+      "B": "Move them away from the vehicles",
+      "C": "Ask them how it happened",
+      "D": "Give them something to eat"
+    },
+    "correct": "A",
+    "explanation": "Stop and give assistance. It's your legal and moral duty to stop and help."
+  },
+  {
+    "number": 27,
+    "text": "After a collision, \nsomeone is unconscious in their vehicle. When should you call the emergency \nservices?",
+    "options": {
+      "A": "After checking for broken bones",
+      "B": "Only as a last resort",
+      "C": "As soon as possible",
+      "D": "After you've woken them up"
+    },
+    "correct": "D",
+    "explanation": "Do nothing until medical help arrives. Don't give food, drink, or move casualties unnecessarily."
+  },
+  {
+    "number": 28,
+    "text": "A collision has just \nhappened. An injured \nperson is lying in a busy road. What’s the first thing you should do?",
+    "options": {
+      "A": "Treat the person for shock",
+      "B": "Make sure the injured person is kept warm",
+      "C": "Place them in the recovery position",
+      "D": "Warn other traffic"
+    },
+    "correct": "A",
+    "explanation": "Use an emergency telephone. These provide direct connection to emergency services."
+  },
+  {
+    "number": 29,
+    "text": "At an incident, how\ncould you help a casualty\nwho has stopped breathing?",
+    "options": {
+      "A": "Follow the DR ABC code",
+      "B": "Try to give them something to drink",
+      "C": "Raise their legs to help with circulation",
+      "D": "Keep their head tilted forwards as far as possible"
+    },
+    "correct": "B",
+    "explanation": "Keep casualties warm. Shock treatment includes maintaining body temperature."
+  },
+  {
+    "number": 30,
+    "text": "You’re at the scene of an incident. How could you \nhelp someone who's \nsuffering from shock?",
+    "options": {
+      "A": "Reassure them confidently",
+      "B": "Give them a warm drink",
+      "C": "Offer them some food",
+      "D": "Offer them a cigarette"
+    },
+    "correct": "C",
+    "explanation": "Call for medical help. Head injuries always require professional medical assessment."
+  },
+  {
+    "number": 31,
+    "text": "There's been a collision.\nA motorcyclist is lying \ninjured and unconscious.\nWhy should you only \nremove their helmet if it’s essential?",
+    "options": {
+      "A": "Removing it could let them get cold",
+      "B": "Removing it could make any injuries worse",
+      "C": "You could scratch the helmet as you remove it",
+      "D": "They might not want you to remove it"
+    },
+    "correct": "D",
+    "explanation": "Cover the burn with a clean cloth. Protect burns from infection with clean covering."
+  },
+  {
+    "number": 32,
+    "text": "You're on a motorway.\nWhen can you use hazard\nwarning lights?",
+    "options": {
+      "A": "When a vehicle is following too closely",
+      "B": "When you're being towed by another vehicle",
+      "C": "When you're using the hard shoulder as a running lane",
+      "D": "When you slow down quickly because of danger ahead"
+    },
+    "correct": "A",
+    "explanation": "Stop at the scene. You must stop if you're involved in any accident."
+  },
+  {
+    "number": 33,
+    "text": "You've broken down on a two-way road. You have a \nwarning triangle. At least \nhow far from your vehicle \nshould you place the \nwarning triangle?",
+    "options": {
+      "A": "100 metres (328 feet)",
+      "B": "5 metres (16 feet)",
+      "C": "25 metres (82 feet)",
+      "D": "45 metres (147 feet)"
+    },
+    "correct": "B",
+    "explanation": "Clear the airway. First check and clear the airway for breathing casualties."
+  },
+  {
+    "number": 34,
+    "text": "Your car breaks down on\na level crossing. What's the\nfirst thing you should do?",
+    "options": {
+      "A": "Stay in your car until you're told to move",
+      "B": "Tell drivers behind what's happened",
+      "C": "Leave your vehicle and get everyone clear",
+      "D": "Walk down the track and signal the next train"
+    },
+    "correct": "C",
+    "explanation": "Move them to fresh air. Carbon monoxide poisoning requires fresh air immediately."
+  },
+  {
+    "number": 35,
+    "text": "What should you do if a\ntyre bursts while you’re\ndriving?",
+    "options": {
+      "A": "Brake as quickly as possible",
+      "B": "Pull on the parking brake",
+      "C": "Continue on at a normal speed",
+      "D": "Pull up slowly at the side of the road"
+    },
+    "correct": "D",
+    "explanation": "Call the emergency services. Always report injury accidents to police."
+  },
+  {
+    "number": 36,
+    "text": "What should you do if\nyour vehicle has a puncture\non a motorway?",
+    "options": {
+      "A": "Pull up on the hard shoulder or in an emergency refuge area and call for assistance",
+      "B": "Switch on your hazard warning lights. Stop in your lane",
+      "C": "Drive slowly to the next service area to get assistance",
+      "D": "Pull up on the hard shoulder or in an emergency refuge area. Change the wheel as quickly as possible"
+    },
+    "correct": "A",
+    "explanation": "Apply pressure to the wound. Control bleeding with direct pressure."
+  },
+  {
+    "number": 37,
+    "text": "Your vehicle has stalled in the middle of a level \ncrossing. What should you do if the warning bells start to ring while you're trying to restart the engine?",
+    "options": {
+      "A": "Get out of the car and clear of the crossing",
+      "B": "Carry on trying to restart the engine",
+      "C": "Push the vehicle clear of the crossing",
+      "D": "Run down the track to warn the signal operator"
+    },
+    "correct": "B",
+    "explanation": "Check they can breathe. Ensure airways are clear and casualty is breathing."
+  },
+  {
+    "number": 38,
+    "text": "What should you do\nbefore driving into a tunnel?",
+    "options": {
+      "A": "Switch off your radio",
+      "B": "Take off your sunglasses",
+      "C": "Close your sunroof",
+      "D": "Switch on your windscreen wipers"
+    },
+    "correct": "C",
+    "explanation": "Report it to the police. Non-injury accidents must be reported if details aren't exchanged."
+  },
+  {
+    "number": 39,
+    "text": "Which lights should you\nuse when you're driving in a\ntunnel?",
+    "options": {
+      "A": "Front spotlights",
+      "B": "Rear fog lights",
+      "C": "Sidelights",
+      "D": "Dipped headlights"
+    },
+    "correct": "D",
+    "explanation": "Keep them warm. Maintaining body temperature helps prevent or treat shock."
+  },
+  {
+    "number": 40,
+    "text": "What should you do to\nreduce the risk of your\nvehicle catching fire?",
+    "options": {
+      "A": "Check out any strong smell of fuel",
+      "B": "Keep water levels above maximum",
+      "C": "Use fuel additives",
+      "D": "Avoid driving with a full tank of fuel"
+    },
+    "correct": "A",
+    "explanation": "Switch off the fuel supply. Reduces fire risk at accident scenes."
+  },
+  {
+    "number": 41,
+    "text": "You're driving on the \nmotorway. What should you do if luggage falls from your vehicle?",
+    "options": {
+      "A": "Stop on the motorway and switch on hazard warning lights while you pick it up",
+      "B": "Stop at the next emergency telephone and report the incident",
+      "C": "Walk back up the motorway to pick it up",
+      "D": "Pull up on the hard shoulder and wave traffic down"
+    },
+    "correct": "B",
+    "explanation": "Use the emergency telephone. Direct connection to emergency services with location."
+  },
+  {
+    "number": 42,
+    "text": "What should you do if an\ninstrument panel warning\nlight comes on while you're\ndriving?",
+    "options": {
+      "A": "Hope that it's just a temporary electrical fault",
+      "B": "Deal with the problem when there's more time",
+      "C": "Continue if the engine sounds all right",
+      "D": "Check out the problem quickly and safely"
+    },
+    "correct": "C",
+    "explanation": "Place them in the recovery position. Maintains open airway for unconscious breathing casualties."
+  },
+  {
+    "number": 43,
+    "text": "What should you do if\nyour vehicle breaks down in\na tunnel?",
+    "options": {
+      "A": "Stand in front of your vehicle to warn oncoming drivers",
+      "B": "Stand in the lane behind your vehicle to warn others",
+      "C": "Switch on hazard warning lights, then go and call for help",
+      "D": "Stay in your vehicle and wait for the police"
+    },
+    "correct": "D",
+    "explanation": "Approach with care. Always assess hazards before entering accident scenes."
+  },
+  {
+    "number": 44,
+    "text": "What should you do if\nyour vehicle catches fire\nwhile you're driving through\na tunnel?",
+    "options": {
+      "A": "Park it away from the carriageway",
+      "B": "Leave it where it is, with the engine running",
+      "C": "Pull up, then walk to an emergency telephone",
+      "D": "Drive it out of the tunnel if it's safe to do so"
+    },
+    "correct": "A",
+    "explanation": "Keep them still. Don't move casualties unless there's immediate danger."
+  },
+  {
+    "number": 45,
+    "text": "What should you do first\nif your vehicle has broken\ndown on an automatic\nrailway level crossing?",
+    "options": {
+      "A": "Walk along the track to give warning to any approaching trains",
+      "B": "Try to push the vehicle clear of the crossing as soon as possible",
+      "C": "Get everyone out of the vehicle and clear of the crossing",
+      "D": "Telephone your vehicle recovery service to move it"
+    },
+    "correct": "B",
+    "explanation": "Move them away from the vehicle. Fire risk means evacuating casualties when safe."
+  },
+  {
+    "number": 46,
+    "text": "What's the first thing you\nmust do if you have a\ncollision while you're driving\nyour car?",
+    "options": {
+      "A": "Call your insurance company",
+      "B": "Stop only if someone waves at you",
+      "C": "Call the emergency services",
+      "D": "Stop at the scene of the incident"
+    },
+    "correct": "C",
+    "explanation": "Check for danger first. Scene safety is the first priority before helping."
+  },
+  {
+    "number": 47,
+    "text": "What information should\nyou share if you’re involved\nin a collision that causes\ndamage to another vehicle?",
+    "options": {
+      "A": "Your name, address and vehicle registration number",
+      "B": "Your national insurance number",
+      "C": "Your internet service provider",
+      "D": "Your occupation and reason for your journey"
+    },
+    "correct": "A",
+    "explanation": "Your name, address and vehicle registration number. These are the legally required details to exchange after a collision."
+  },
+  {
+    "number": 48,
+    "text": "You lose control of your\ncar and damage a garden\nwall. What must you do if the\nproperty owner isn't\navailable?",
+    "options": {
+      "A": "Report the incident to your insurance company when you get home",
+      "B": "Go back to tell the house owner the next day",
+      "C": "Report the incident to the police within 24 hours",
+      "D": "Find someone in the area to tell them about it immediately"
+    },
+    "correct": "C",
+    "explanation": "Report the incident to the police within 24 hours. You must report damage to property if the owner isn't present."
+  }
+]
