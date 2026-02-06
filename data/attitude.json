@@ -1,0 +1,446 @@
+[
+  {
+    "number": 2,
+    "text": "Why should you never\nwave people across at\npedestrian crossings?",
+    "options": {
+      "A": "They may not be ready to cross",
+      "B": "Another vehicle may be coming",
+      "C": "They may not be looking",
+      "D": "It's safer for you to carry on"
+    },
+    "correct": "B",
+    "explanation": "Another vehicle may be coming. Waving people across could put them in danger from vehicles you can't see."
+  },
+  {
+    "number": 3,
+    "text": "Why is it dangerous to\ntravel too close to the\nvehicle ahead?",
+    "options": {
+      "A": "Your engine will overheat",
+      "B": "Your mirrors will need adjusting",
+      "C": "Your view of the road ahead will be restricted",
+      "D": "Your sat nav will be confused"
+    },
+    "correct": "A",
+    "explanation": "Slow down and be ready to stop. Flashing headlights should be used to warn others of your presence, not to instruct them."
+  },
+  {
+    "number": 4,
+    "text": "What will happen if you\nfollow this vehicle too\nclosely?",
+    "options": {
+      "A": "Your brakes will overheat",
+      "B": "Your view ahead will be reduced",
+      "C": "Your engine will overheat",
+      "D": "Your fuel consumption will be increased"
+    },
+    "correct": "D",
+    "explanation": "Let them get ahead. Tailgating is dangerous and intimidating - maintain proper distance."
+  },
+  {
+    "number": 5,
+    "text": "What's the minimum time gap you should leave when following a vehicle on a wet road?",
+    "options": {
+      "A": "One second",
+      "B": "Four seconds",
+      "C": "Three seconds",
+      "D": "Two seconds"
+    },
+    "correct": "C",
+    "explanation": "Give you road rage. Aggressive driving increases stress, risk, and can lead to dangerous confrontations."
+  },
+  {
+    "number": 6,
+    "text": "You're being overtaken by a long, heavily laden lorry. What should you do if it's \ntaking a long time for it to overtake?",
+    "options": {
+      "A": "Hold your speed",
+      "B": "Change direction",
+      "C": "Slow down",
+      "D": "Speed up"
+    },
+    "correct": "B",
+    "explanation": "Be patient and stay behind. Never pressure elderly pedestrians - they need time to cross safely."
+  },
+  {
+    "number": 7,
+    "text": "Which vehicle will use a\nblue flashing beacon?",
+    "options": {
+      "A": "Motorway maintenance",
+      "B": "Bomb disposal",
+      "C": "Snow plough",
+      "D": "Breakdown recovery"
+    },
+    "correct": "A",
+    "explanation": "Keep well back and don't intimidate. Following too closely is aggressive and dangerous."
+  },
+  {
+    "number": 8,
+    "text": "What should you do if\nyou're being followed by an\nambulance showing flashing\nblue lights?",
+    "options": {
+      "A": "Accelerate hard to get away from it",
+      "B": "Brake harshly and stop well out into the road",
+      "C": "Pull over as soon as it's safe to do so",
+      "D": "Maintain your speed and course"
+    },
+    "correct": "D",
+    "explanation": "Stay behind until you can overtake safely. Patience is essential - only overtake when completely safe."
+  },
+  {
+    "number": 9,
+    "text": "What type of emergency vehicle is fitted with a green flashing beacon?",
+    "options": {
+      "A": "Ambulance",
+      "B": "Doctor's car",
+      "C": "Fire engine",
+      "D": "Road gritter"
+    },
+    "correct": "C",
+    "explanation": "Flash your lights to warn them. Flashing headlights warns of your presence in potentially dangerous situations."
+  },
+  {
+    "number": 10,
+    "text": "Who should obey\ndiamond-shaped traffic\nsigns?",
+    "options": {
+      "A": "Taxi drivers",
+      "B": "Lorry drivers",
+      "C": "Bus drivers",
+      "D": "Tram drivers"
+    },
+    "correct": "B",
+    "explanation": "Give them plenty of room. Respect other road users by maintaining safe distances."
+  },
+  {
+    "number": 11,
+    "text": "On a road where trams operate, which vehicles will be most at risk from the \ntram rails?",
+    "options": {
+      "A": "Lorries",
+      "B": "Buses",
+      "C": "Cycles",
+      "D": "Cars"
+    },
+    "correct": "A",
+    "explanation": "Concentrate on your own driving. Don't let other drivers' mistakes cause you to react dangerously."
+  },
+  {
+    "number": 12,
+    "text": "When should you use\nyour vehicle's horn?",
+    "options": {
+      "A": "To alert others to your presence",
+      "B": "To allow you right of way",
+      "C": "To greet other road users",
+      "D": "To signal your annoyance"
+    },
+    "correct": "D",
+    "explanation": "Show patience and stay calm. Remaining calm improves safety for everyone."
+  },
+  {
+    "number": 13,
+    "text": "You're in a one-way \nstreet and want to turn right. Where should you position your vehicle when there are two lanes?",
+    "options": {
+      "A": "In either lane, depending on the traffic",
+      "B": "Just left of the centre line",
+      "C": "In the left-hand lane",
+      "D": "In the right-hand lane"
+    },
+    "correct": "C",
+    "explanation": "Stay at a safe distance. Maintain proper following distance regardless of other drivers' behavior."
+  },
+  {
+    "number": 14,
+    "text": "You wish to turn right\nahead. Why should you take\nup the correct position in\ngood time?",
+    "options": {
+      "A": "To give a better view into the road that you're joining",
+      "B": "To allow other drivers to pull out in front of you",
+      "C": "To help other road users know what you intend to do",
+      "D": "To allow drivers to pass you on the right"
+    },
+    "correct": "B",
+    "explanation": "Hold back and give them room. Allow inexperienced drivers extra space and patience."
+  },
+  {
+    "number": 15,
+    "text": "Which type of crossing allows cyclists to ride \nacross with pedestrians?",
+    "options": {
+      "A": "Zebra",
+      "B": "Toucan",
+      "C": "Puffin",
+      "D": "Pelican"
+    },
+    "correct": "A",
+    "explanation": "Be tolerant of the driver's mistakes. Everyone makes mistakes - respond with patience not aggression."
+  },
+  {
+    "number": 16,
+    "text": "You're travelling at the legal speed limit. What \nshould you do if the vehicle behind approaches quickly, flashing its headlights?",
+    "options": {
+      "A": "Accelerate to make a gap behind you",
+      "B": "Allow the vehicle to overtake",
+      "C": "Maintain your speed to prevent the vehicle from overtaking",
+      "D": "Touch the brakes sharply to show your brake lights"
+    },
+    "correct": "D",
+    "explanation": "Allow them to merge in turn. Merge in turn (zipper merge) is courteous and efficient."
+  },
+  {
+    "number": 17,
+    "text": "When should you flash\nyour headlights at other\nroad users?",
+    "options": {
+      "A": "When letting them know that you're there",
+      "B": "When telling them that you have right of way",
+      "C": "When showing that you're about to turn",
+      "D": "When showing that you're giving way"
+    },
+    "correct": "C",
+    "explanation": "Drive patiently and carefully. Considerate driving makes roads safer for everyone."
+  },
+  {
+    "number": 18,
+    "text": "You're approaching an\nunmarked crossroads. How\nshould you deal with the\njunction?",
+    "options": {
+      "A": "Slow down and keep to the right",
+      "B": "Slow down and look both ways",
+      "C": "Accelerate and look to the left",
+      "D": "Accelerate and keep to the middle"
+    },
+    "correct": "B",
+    "explanation": "Remain calm and not retaliate. Rising to provocation escalates danger - stay calm."
+  },
+  {
+    "number": 19,
+    "text": "The conditions are good\nand dry. When should you\nuse the 'two-second rule'?",
+    "options": {
+      "A": "When traffic lights change to green",
+      "B": "Before using the 'Mirrors - Signal - Manoeuvre' routine",
+      "C": "When checking your gap from the vehicle in front",
+      "D": "Before restarting the engine after it has stalled"
+    },
+    "correct": "A",
+    "explanation": "Pull over and take a break. Tiredness kills - stop and rest when tired."
+  },
+  {
+    "number": 20,
+    "text": "Which colour follows the\ngreen signal at a puffin\ncrossing?",
+    "options": {
+      "A": "Flashing green",
+      "B": "Steady amber",
+      "C": "Flashing amber",
+      "D": "Steady red"
+    },
+    "correct": "D",
+    "explanation": "Keep calm and accept it. Frustration with traffic won't help - maintain composure."
+  },
+  {
+    "number": 21,
+    "text": "You're in a line of traffic.\nWhat action should you take\nif the driver behind is\nfollowing very closely?",
+    "options": {
+      "A": "Ignore the driver behind and continue to travel within the speed limit",
+      "B": "Move over to a position just left of the centre line of the road",
+      "C": "Signal left and wave the driver behind to come past",
+      "D": "Slow down, gradually increasing the gap between you and the vehicle in front"
+    },
+    "correct": "C",
+    "explanation": "Allow them to pull in. Helping others merge safely improves overall traffic flow."
+  },
+  {
+    "number": 22,
+    "text": "You’re travelling along a single-track road. There’s a passing place on your right. What should you do if you see a vehicle coming \ntowards you?",
+    "options": {
+      "A": "Move over onto the verge",
+      "B": "Continue along the single-track road",
+      "C": "Stop in the passing place",
+      "D": "Wait opposite the passing place"
+    },
+    "correct": "B",
+    "explanation": "Think about the driver behind you. Consideration for following drivers means braking gently when safe."
+  },
+  {
+    "number": 23,
+    "text": "You're driving on a clear night. Which lights should you use if the national speed limit applies and there's a \nsteady stream of oncoming traffic?",
+    "options": {
+      "A": "Fog lights",
+      "B": "Sidelights",
+      "C": "Dipped headlights",
+      "D": "Full-beam headlights"
+    },
+    "correct": "A",
+    "explanation": "Slow down and be patient. Rushing near schools endangers children."
+  },
+  {
+    "number": 24,
+    "text": "You're driving behind a\nheavy goods vehicle. What\nshould you do if it signals\nleft but steers to the right?",
+    "options": {
+      "A": "Drive on, keeping to the left",
+      "B": "Slow down and let the vehicle turn",
+      "C": "Overtake on the right of it",
+      "D": "Hold your speed and sound your horn"
+    },
+    "correct": "D",
+    "explanation": "Be patient and understanding. Young children are unpredictable - drive with extra care."
+  },
+  {
+    "number": 25,
+    "text": "You're driving along this\nroad. What should you do if\nthe red car cuts in close in\nfront of you?",
+    "options": {
+      "A": "Give a long blast on the horn",
+      "B": "Accelerate to get closer to the red car",
+      "C": "Drop back to leave the correct separation distance",
+      "D": "Flash your headlights several times"
+    },
+    "correct": "C",
+    "explanation": "Leave plenty of space. Following distance is crucial for reaction time and safety."
+  },
+  {
+    "number": 26,
+    "text": "You're waiting in a traffic\nqueue at night. How can you\navoid dazzling drivers\nbehind you?",
+    "options": {
+      "A": "Balance the clutch with the accelerator",
+      "B": "Use the parking brake and release the footbrake",
+      "C": "Keep your foot on the footbrake",
+      "D": "Use the parking brake and footbrake together"
+    },
+    "correct": "B",
+    "explanation": "Pull over and let them pass. Allow aggressive drivers to pass rather than engaging."
+  },
+  {
+    "number": 27,
+    "text": "You're driving in traffic at the speed limit for the road.\nWhat should you do if the driver behind is trying to overtake?",
+    "options": {
+      "A": "Move closer to the car ahead, so the driver behind has no room to overtake",
+      "B": "Wave the driver behind to overtake when it's safe",
+      "C": "Accelerate to get away from the driver behind",
+      "D": "Keep a steady course and allow the driver behind to overtake"
+    },
+    "correct": "A",
+    "explanation": "Keep calm and not respond. Ignoring provocation prevents escalation."
+  },
+  {
+    "number": 28,
+    "text": "What does it mean if the\nsigns at a bus lane show no\ntimes of operation?",
+    "options": {
+      "A": "The lane is in operation 24 hours a day",
+      "B": "The lane is only in operation in daylight hours",
+      "C": "The lane is only in operation at peak times",
+      "D": "The lane isn't in operation"
+    },
+    "correct": "D",
+    "explanation": "Be considerate of others. Showing courtesy makes driving safer and less stressful for everyone."
+  },
+  {
+    "number": 29,
+    "text": "What should you do\nwhen a person herding\nsheep asks you to stop?",
+    "options": {
+      "A": "Continue on but drive slowly",
+      "B": "Try to get past quickly",
+      "C": "Ignore them as they have no authority",
+      "D": "Stop and switch off your engine"
+    },
+    "correct": "C",
+    "explanation": "Stay well back. Give large vehicles extra space - they have limited rearward visibility."
+  },
+  {
+    "number": 30,
+    "text": "What should you do\nwhen you're overtaking a\nhorse and rider?",
+    "options": {
+      "A": "Flash your headlights as a warning",
+      "B": "Go past slowly and carefully",
+      "C": "Sound your horn as a warning",
+      "D": "Go past as quickly as possible"
+    },
+    "correct": "B",
+    "explanation": "Flash your lights to warn them. Flashing headlights appropriately warns of danger."
+  },
+  {
+    "number": 31,
+    "text": "You're approaching a\nzebra crossing. What should\nyou do if pedestrians are\nwaiting to cross?",
+    "options": {
+      "A": "Wave at them to cross the road",
+      "B": "Use your headlights to indicate they can cross",
+      "C": "Slow down and prepare to stop",
+      "D": "Give way to older and infirm people only"
+    },
+    "correct": "A",
+    "explanation": "Be patient and slow down. Never pressure vulnerable road users."
+  },
+  {
+    "number": 32,
+    "text": "What should you do if a\nvehicle pulls out in front of\nyou at a junction?",
+    "options": {
+      "A": "Swerve past it and sound your horn",
+      "B": "Flash your headlights and drive up close behind",
+      "C": "Slow down and be ready to stop",
+      "D": "Accelerate past it immediately"
+    },
+    "correct": "D",
+    "explanation": "Give them plenty of room and time. Elderly pedestrians need patience and consideration."
+  },
+  {
+    "number": 34,
+    "text": "When should you leave a\ntwo-second gap between\nyour vehicle and the one in\nfront?",
+    "options": {
+      "A": "When it's raining",
+      "B": "When it's dry",
+      "C": "When it's icy",
+      "D": "When it's foggy"
+    },
+    "correct": "B",
+    "explanation": "Make eye contact and proceed carefully. Communication with pedestrians improves safety."
+  },
+  {
+    "number": 35,
+    "text": "You're driving at night on\nan unlit road. What should\nyou do if you're following\nanother vehicle?",
+    "options": {
+      "A": "Switch off your headlights",
+      "B": "Use full-beam headlights",
+      "C": "Use dipped headlights",
+      "D": "Flash your headlights"
+    },
+    "correct": "A",
+    "explanation": "Slow down and be ready to stop. Always expect the unexpected near schools."
+  },
+  {
+    "number": 36,
+    "text": "What should you do if\nyou're driving a slow-\nmoving vehicle on a narrow\nwinding road?",
+    "options": {
+      "A": "Give a left signal when it's safe for vehicles to overtake you",
+      "B": "Keep well out to stop vehicles overtaking dangerously",
+      "C": "Wave the vehicles behind to come past you if you think they can overtake quickly",
+      "D": "Pull in when you can, to let the vehicles behind overtake"
+    },
+    "correct": "D",
+    "explanation": "Be patient and follow at a safe distance. Learner drivers deserve patience and space."
+  },
+  {
+    "number": 37,
+    "text": "You're driving a car that\nhas a diesel engine. What\ncan a loose filler cap on\nyour fuel tank cause?",
+    "options": {
+      "A": "It can increase the level of exhaust emissions",
+      "B": "It can make the engine difficult to start",
+      "C": "It can make the roads slippery for other road users",
+      "D": "It can improve your vehicle’s fuel consumption"
+    },
+    "correct": "C",
+    "explanation": "Recognize your own mistakes. Self-awareness improves driving behavior."
+  },
+  {
+    "number": 38,
+    "text": "What should you do to\navoid fuel spillage?",
+    "options": {
+      "A": "Check that your tank is only three-quarters full",
+      "B": "Check that you've used a locking filler cap",
+      "C": "Check that your fuel gauge is working",
+      "D": "Check that your filler cap is securely fastened"
+    },
+    "correct": "B",
+    "explanation": "Give way to emergency vehicles. Always facilitate emergency vehicle passage."
+  },
+  {
+    "number": 39,
+    "text": "What style of driving causes increased risk to everyone?",
+    "options": {
+      "A": "Considerate",
+      "B": "Competitive",
+      "C": "Responsible",
+      "D": "Defensive"
+    },
+    "correct": "A",
+    "explanation": "Keep a safe distance. Following too closely is aggressive and dangerous."
+  }
+]

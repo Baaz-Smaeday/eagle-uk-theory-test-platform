@@ -1,0 +1,734 @@
+[
+  {
+    "number": 2,
+    "text": "What's the national speed limit for cars and \nmotorcycles on a dual \ncarriageway?",
+    "options": {
+      "A": "30 mph",
+      "B": "70 mph",
+      "C": "60 mph",
+      "D": "50 mph"
+    },
+    "correct": "B",
+    "explanation": "70 mph. The national speed limit for cars on dual carriageways is 70 mph."
+  },
+  {
+    "number": 3,
+    "text": "There are no speed-limit signs on the road. In \nEngland, Scotland and \nNorthern Ireland how is a 30 mph limit generally \nindicated?",
+    "options": {
+      "A": "By pedestrian islands",
+      "B": "By double or single yellow lines",
+      "C": "By hazard warning lines",
+      "D": "By street lighting"
+    },
+    "correct": "D",
+    "explanation": "60 mph. The national speed limit on single carriageways is 60 mph for cars and motorcycles."
+  },
+  {
+    "number": 4,
+    "text": "In England, Scotland and Northern Ireland what will the speed limit usually be where you can see street lights but no speed-limit \nsigns?",
+    "options": {
+      "A": "60 mph",
+      "B": "30 mph",
+      "C": "40 mph",
+      "D": "50 mph"
+    },
+    "correct": "A",
+    "explanation": "30 mph. Unless otherwise stated, the speed limit in built-up areas with street lighting is 30 mph."
+  },
+  {
+    "number": 5,
+    "text": "What does this sign\nmean?",
+    "options": {
+      "A": "End of maximum speed",
+      "B": "Maximum speed 30 mph",
+      "C": "Minimum speed 30 mph",
+      "D": "End of minimum speed"
+    },
+    "correct": "C",
+    "explanation": "Red and amber together. Red and amber together means stop, prepare to go - the lights are about to change to green."
+  },
+  {
+    "number": 6,
+    "text": "What should you do if you\nwant to overtake a tractor\nbut aren't sure that it's safe?",
+    "options": {
+      "A": "Sound your horn to make the tractor driver pull over",
+      "B": "Follow another vehicle as it overtakes the tractor",
+      "C": "Speed past, flashing your lights at oncoming traffic",
+      "D": "Stay behind it if you're in any doubt"
+    },
+    "correct": "B",
+    "explanation": "Slow down and be prepared to stop. Flashing amber lights mean you can proceed only if it's safe and pedestrians have crossed."
+  },
+  {
+    "number": 7,
+    "text": "Which vehicle is most likely to take an unusual course at a roundabout?",
+    "options": {
+      "A": "Taxi",
+      "B": "Long vehicle",
+      "C": "Delivery van",
+      "D": "Estate car"
+    },
+    "correct": "D",
+    "explanation": "Give way to traffic already on the roundabout. Traffic on the roundabout has priority over vehicles entering."
+  },
+  {
+    "number": 8,
+    "text": "When may you stop on a\nclearway?",
+    "options": {
+      "A": "During daylight hours",
+      "B": "Never",
+      "C": "When it's busy",
+      "D": "In the rush hour"
+    },
+    "correct": "A",
+    "explanation": "Move to the left and slow down. When emergency vehicles approach with lights/sirens, move left and slow to let them pass."
+  },
+  {
+    "number": 9,
+    "text": "What's the meaning of\nthis sign?",
+    "options": {
+      "A": "Waiting restrictions",
+      "B": "National speed limit",
+      "C": "School crossing patrol",
+      "D": "No entry"
+    },
+    "correct": "C",
+    "explanation": "Stop and wait. A red traffic light means you must stop and wait behind the stop line."
+  },
+  {
+    "number": 10,
+    "text": "You're looking for\nsomewhere to park at night.\nWhen may you park on the\nright-hand side of the road?",
+    "options": {
+      "A": "When you're more than 10 metres (32 feet) from a junction",
+      "B": "When you're under a lamppost",
+      "C": "When you have your sidelights on",
+      "D": "When you're in a one-way street"
+    },
+    "correct": "B",
+    "explanation": "Give way to pedestrians on the crossing. You must give way to pedestrians already on a zebra crossing."
+  },
+  {
+    "number": 11,
+    "text": "When should you use the\nright-hand lane of a three-\nlane dual carriageway?",
+    "options": {
+      "A": "When you're using cruise control",
+      "B": "When you're overtaking only",
+      "C": "When you're turning right only",
+      "D": "When you're overtaking or turning right"
+    },
+    "correct": "D",
+    "explanation": "Give way to traffic from the right. At unmarked junctions, give way to traffic approaching from your right."
+  },
+  {
+    "number": 12,
+    "text": "You're approaching a\nbusy junction. What should\nyou do when, at the last\nmoment, you realise you're\nin the wrong lane?",
+    "options": {
+      "A": "Force your way into the lane you need",
+      "B": "Use arm signals to help you change lane",
+      "C": "Stop until the area has cleared",
+      "D": "Continue in that lane"
+    },
+    "correct": "A",
+    "explanation": "No stopping at any time. Double yellow lines mean no stopping or parking at any time."
+  },
+  {
+    "number": 13,
+    "text": "Where may you overtake\non a one-way street?",
+    "options": {
+      "A": "Only on the right-hand side",
+      "B": "On either the right or the left",
+      "C": "Overtaking isn't allowed",
+      "D": "Only on the left-hand side"
+    },
+    "correct": "C",
+    "explanation": "Overtake on either side. On one-way streets, you can overtake on either the left or right side."
+  },
+  {
+    "number": 14,
+    "text": "What signal should you\ngive when you're going\nstraight ahead at a\nroundabout?",
+    "options": {
+      "A": "Signal left before leaving the roundabout",
+      "B": "Signal left when you're approaching the roundabout",
+      "C": "Signal right when you're approaching the roundabout",
+      "D": "Don't signal at any time"
+    },
+    "correct": "B",
+    "explanation": "70 mph. The motorway speed limit for cars is 70 mph."
+  },
+  {
+    "number": 15,
+    "text": "Which vehicle might\nhave to take a different\ncourse from normal at a\nroundabout?",
+    "options": {
+      "A": "Long vehicle",
+      "B": "Van",
+      "C": "Estate car",
+      "D": "Sports car"
+    },
+    "correct": "D",
+    "explanation": "Stop before the line. A solid white line means you must stop at the line."
+  },
+  {
+    "number": 16,
+    "text": "When may you enter a\nbox junction?",
+    "options": {
+      "A": "When there are fewer than two vehicles ahead",
+      "B": "When your exit road is clear",
+      "C": "When signalled by another road user",
+      "D": "When traffic signs direct you"
+    },
+    "correct": "A",
+    "explanation": "In the left-hand lane. On motorways, drive in the left lane unless overtaking."
+  },
+  {
+    "number": 17,
+    "text": "When may you stop and\nwait in a box junction?",
+    "options": {
+      "A": "When you're on a roundabout",
+      "B": "When oncoming traffic prevents you from turning right",
+      "C": "When you're in a queue of traffic turning left",
+      "D": "When you're in a queue of traffic going ahead"
+    },
+    "correct": "C",
+    "explanation": "Stop if pedestrians are waiting to cross. At pelican crossings, you must stop when the light is red."
+  },
+  {
+    "number": 18,
+    "text": "Who is authorised to\nsignal you to stop?",
+    "options": {
+      "A": "A motorcyclist",
+      "B": "A bus driver",
+      "C": "A police officer",
+      "D": "A pedestrian"
+    },
+    "correct": "B",
+    "explanation": "No vehicles except bicycles. This sign indicates a route for bicycles only."
+  },
+  {
+    "number": 19,
+    "text": "What should you do if\nyou see a pedestrian waiting\nat a zebra crossing?",
+    "options": {
+      "A": "Be ready to slow down or stop to let them cross",
+      "B": "Ignore them as they're still on the pavement",
+      "C": "Stop before you reach the zigzag lines and let them cross",
+      "D": "Go on quickly before they step onto the crossing"
+    },
+    "correct": "D",
+    "explanation": "Give way to oncoming traffic. When the arrow points up, oncoming traffic has priority."
+  },
+  {
+    "number": 21,
+    "text": "You’re waiting at a\npelican crossing. What does\nit mean when the red light\nchanges to flashing amber?",
+    "options": {
+      "A": "Get ready and go when the continuous amber light shows",
+      "B": "Give way to pedestrians on the crossing",
+      "C": "Move off immediately without any hesitation",
+      "D": "Wait for the green light before moving off"
+    },
+    "correct": "C",
+    "explanation": "Wait until you're sure it's safe. At stop signs, you must stop completely and only proceed when safe."
+  },
+  {
+    "number": 22,
+    "text": "You see these double\nwhite lines along the centre\nof the road. When may you\npark on the left?",
+    "options": {
+      "A": "To pick up or set down passengers",
+      "B": "If the line nearest to you is broken",
+      "C": "When there are no yellow lines",
+      "D": "During daylight hours only"
+    },
+    "correct": "B",
+    "explanation": "Move to the left. When an ambulance approaches with flashing lights, move left to allow it to pass."
+  },
+  {
+    "number": 23,
+    "text": "You're turning right at a crossroads. An oncoming driver is also turning right.\nWhat's the advantage of turning behind the \noncoming vehicle?",
+    "options": {
+      "A": "You'll use less fuel because you can stay in a higher gear",
+      "B": "You'll have a clearer view of any approaching traffic",
+      "C": "You'll be able to turn without stopping",
+      "D": "You'll have more time to turn"
+    },
+    "correct": "D",
+    "explanation": "50 mph. The national speed limit for cars towing trailers on single carriageways is 50 mph."
+  },
+  {
+    "number": 24,
+    "text": "You're travelling along a\nresidential street. There are\nparked vehicles on the left-\nhand side. Why should you\nkeep your speed down?",
+    "options": {
+      "A": "So that oncoming traffic can see you more clearly",
+      "B": "Children may run out from between the vehicles",
+      "C": "There may be delivery lorries on the street",
+      "D": "You may set off car alarms"
+    },
+    "correct": "A",
+    "explanation": "Clearway - no stopping. A clearway means no stopping at any time except in an emergency."
+  },
+  {
+    "number": 26,
+    "text": "When would you use the\nright-hand lane of a two-lane\ndual carriageway?",
+    "options": {
+      "A": "When you're travelling at a constant high speed",
+      "B": "When you're turning right or overtaking",
+      "C": "When you're passing a side road on the left",
+      "D": "When you're staying at the minimum allowed speed"
+    },
+    "correct": "B",
+    "explanation": "No entry. This sign means no entry for vehicles in this direction."
+  },
+  {
+    "number": 29,
+    "text": "You're looking for\nsomewhere to safely park\nyour vehicle. Where would\nyou choose to park?",
+    "options": {
+      "A": "Near the brow of a hill",
+      "B": "In a designated parking space",
+      "C": "At or near a bus stop",
+      "D": "On the approach to a level crossing"
+    },
+    "correct": "C",
+    "explanation": "Stop at the line. At traffic lights, stop before the solid white stop line."
+  },
+  {
+    "number": 30,
+    "text": "You're waiting at a level\ncrossing. What must you do\nif a train passes but the\nlights keep flashing?",
+    "options": {
+      "A": "Phone the signal operator",
+      "B": "Carry on waiting",
+      "C": "Park and investigate",
+      "D": "Edge over the stop line and look for trains"
+    },
+    "correct": "B",
+    "explanation": "Before you reach the crossing. Always check mirrors before any maneuver, including approaching crossings."
+  },
+  {
+    "number": 31,
+    "text": "What does this sign\nmean?",
+    "options": {
+      "A": "Free-parking zone ends",
+      "B": "End of controlled parking zone",
+      "C": "End of traffic-calming zone",
+      "D": "No through road"
+    },
+    "correct": "D",
+    "explanation": "Wait behind the line. At red lights with a green filter arrow, wait unless turning in the direction shown by the arrow."
+  },
+  {
+    "number": 32,
+    "text": "What must you do if you come across roadworks that have a temporary speed \nlimit displayed?",
+    "options": {
+      "A": "Obey the limit, but only during rush hour",
+      "B": "Use your own judgement; the limit is only advisory",
+      "C": "Obey the speed limit",
+      "D": "Ignore the displayed limit"
+    },
+    "correct": "A",
+    "explanation": "On the left. In the UK, you should normally drive on the left side of the road."
+  },
+  {
+    "number": 33,
+    "text": "You're in a built-up area\nat night and the road is well\nlit. Why should you use\ndipped headlights?",
+    "options": {
+      "A": "So that you can switch to main beam quickly",
+      "B": "So that you can be easily seen by others",
+      "C": "So that you can go at a much faster speed",
+      "D": "So that you can see further along the road"
+    },
+    "correct": "C",
+    "explanation": "No motor vehicles. This sign prohibits all motor vehicles from entering."
+  },
+  {
+    "number": 34,
+    "text": "You're turning right onto\na dual carriageway. What\nshould you do if the central\nreservation is too narrow to\ncontain your vehicle?",
+    "options": {
+      "A": "Stop in the first lane so that other vehicles give way",
+      "B": "Emerge slightly to show your intentions",
+      "C": "Proceed to the central reservation and wait",
+      "D": "Wait until the road is clear in both directions"
+    },
+    "correct": "B",
+    "explanation": "Move over to let it pass. Emergency vehicles on calls should be allowed to pass quickly and safely."
+  },
+  {
+    "number": 35,
+    "text": "What's the national\nspeed limit on a single\ncarriageway road for cars\nand motorcycles?",
+    "options": {
+      "A": "60 mph",
+      "B": "30 mph",
+      "C": "50 mph",
+      "D": "70 mph"
+    },
+    "correct": "D",
+    "explanation": "60 mph. The national speed limit on single carriageways for cars is 60 mph."
+  },
+  {
+    "number": 36,
+    "text": "What should you do\nwhen you park at night on a\nroad that has a 40 mph\nspeed limit?",
+    "options": {
+      "A": "Leave parking lights switched on",
+      "B": "Park near a street light",
+      "C": "Leave dipped headlights switched on",
+      "D": "Park facing the traffic"
+    },
+    "correct": "A",
+    "explanation": "Stop. A school crossing patrol showing a stop sign means you must stop."
+  },
+  {
+    "number": 37,
+    "text": "Where will you see these\nred and white markers?",
+    "options": {
+      "A": "Approaching the end of a dual carriageway",
+      "B": "Approaching the end of a motorway",
+      "C": "Approaching a concealed level crossing",
+      "D": "Approaching a concealed speed-limit sign"
+    },
+    "correct": "C",
+    "explanation": "Pedestrians have priority. At zebra crossings, you must give way to pedestrians crossing or waiting to cross."
+  },
+  {
+    "number": 38,
+    "text": "You're travelling on a\nmotorway in England. When\nmust you stop your vehicle?",
+    "options": {
+      "A": "When signalled to stop by a traffic officer",
+      "B": "When signalled to stop by a roadworks supervisor",
+      "C": "When signalled to stop by a driver who has broken down",
+      "D": "When signalled to stop by a pedestrian on the hard shoulder"
+    },
+    "correct": "B",
+    "explanation": "Give way to traffic from the right. Unless signs indicate otherwise, give way to traffic from the right at roundabouts."
+  },
+  {
+    "number": 39,
+    "text": "How should you signal if\nyou're going straight ahead\nat a roundabout?",
+    "options": {
+      "A": "Signal left just after you pass the exit before the one you're going to take",
+      "B": "Signal left after you leave the roundabout and enter the new road",
+      "C": "Signal right on the approach to the roundabout and keep the signal on",
+      "D": "Signal right on the approach and then left to leave the roundabout"
+    },
+    "correct": "D",
+    "explanation": "To tell you the speed limit. Speed limit signs inform you of the maximum permitted speed."
+  },
+  {
+    "number": 40,
+    "text": "When may you drive\nover a pavement?",
+    "options": {
+      "A": "To overtake slow-moving traffic",
+      "B": "When the pavement is very wide",
+      "C": "To gain access to a property",
+      "D": "If there are no pedestrians nearby"
+    },
+    "correct": "A",
+    "explanation": "No overtaking. This sign prohibits overtaking on that section of road."
+  },
+  {
+    "number": 41,
+    "text": "A single carriageway road has this sign. What's the maximum permitted speed for a car towing a trailer?",
+    "options": {
+      "A": "50 mph",
+      "B": "60 mph",
+      "C": "40 mph",
+      "D": "30 mph"
+    },
+    "correct": "C",
+    "explanation": "Get into the right-hand lane. When turning right at a roundabout, move to the right lane before entering."
+  },
+  {
+    "number": 42,
+    "text": "What's the speed limit for a car towing a caravan on a dual carriageway?",
+    "options": {
+      "A": "70 mph",
+      "B": "60 mph",
+      "C": "40 mph",
+      "D": "50 mph"
+    },
+    "correct": "B",
+    "explanation": "At a junction. Box junctions prevent blocking intersections - don't enter unless your exit is clear."
+  },
+  {
+    "number": 43,
+    "text": "You want to park and you\nsee this sign. What should\nyou do on the days and\ntimes shown?",
+    "options": {
+      "A": "Park on yellow lines and not pay",
+      "B": "Park in a bay and not pay",
+      "C": "Park on yellow lines and pay",
+      "D": "Park in a bay and pay"
+    },
+    "correct": "D",
+    "explanation": "Stop at the line. Solid white stop lines mean you must stop before the line."
+  },
+  {
+    "number": 44,
+    "text": "A cycle lane, marked by\na solid white line, is in\noperation. What does this\nmean for car drivers?",
+    "options": {
+      "A": "They may park in the lane",
+      "B": "They may drive in the lane at any time",
+      "C": "They may use the lane when necessary",
+      "D": "They mustn't drive along the lane"
+    },
+    "correct": "A",
+    "explanation": "Proceed with caution. Green lights mean proceed if safe, but always check for other traffic."
+  },
+  {
+    "number": 45,
+    "text": "You're going to turn left\nfrom a main road into a\nminor road. What should\nyou do as you approach the\njunction?",
+    "options": {
+      "A": "Keep just left of the middle of the road",
+      "B": "Keep well to the left of the road",
+      "C": "Swing out to the right just before turning",
+      "D": "Keep in the middle of the road"
+    },
+    "correct": "C",
+    "explanation": "Hold back until the cyclist has passed. Give cyclists space and time to pass junctions safely."
+  },
+  {
+    "number": 46,
+    "text": "You're waiting at a level crossing. What should you do if the red warning lights continue to flash after a train has passed by?",
+    "options": {
+      "A": "Get out and investigate",
+      "B": "Telephone the signal operator",
+      "C": "Continue to wait",
+      "D": "Drive across carefully"
+    },
+    "correct": "B",
+    "explanation": "No vehicles. This indicates an area where no vehicles are permitted."
+  },
+  {
+    "number": 47,
+    "text": "What should you do if the amber lights come on and a warning sounds while you're driving over a level crossing?",
+    "options": {
+      "A": "Get everyone out of the vehicle immediately",
+      "B": "Stop immediately and use your hazard warning lights",
+      "C": "Keep going and clear the crossing",
+      "D": "Stop and reverse back to clear the crossing"
+    },
+    "correct": "D",
+    "explanation": "Wait before the line. Never cross solid white stop lines, even when the way seems clear."
+  },
+  {
+    "number": 48,
+    "text": "You're driving on a busy\nmain road. What should you\ndo if you find that you're\ndriving in the wrong\ndirection?",
+    "options": {
+      "A": "Turn around in a side road",
+      "B": "Make a ‘three-point’ turn in the main road",
+      "C": "Make a U-turn in the main road",
+      "D": "Turn into a side road on the right and reverse into the main road"
+    },
+    "correct": "A",
+    "explanation": "Red route - no stopping. Red routes have strict stopping restrictions at all times."
+  },
+  {
+    "number": 49,
+    "text": "When may you drive\nwithout wearing your seat\nbelt?",
+    "options": {
+      "A": "When you're driving slowly in queuing traffic",
+      "B": "When you're testing your brakes",
+      "C": "When you're moving off on a hill",
+      "D": "When you're carrying out a manoeuvre that includes reversing"
+    },
+    "correct": "C",
+    "explanation": "Give way to pedestrians. At crossings, pedestrians have priority when crossing."
+  },
+  {
+    "number": 50,
+    "text": "How far are you allowed\nto reverse?",
+    "options": {
+      "A": "The length of a residential street",
+      "B": "As far as it takes to reverse around a corner",
+      "C": "No more than a car’s length",
+      "D": "No further than is necessary"
+    },
+    "correct": "B",
+    "explanation": "70 mph. The national speed limit on dual carriageways for cars is 70 mph."
+  },
+  {
+    "number": 51,
+    "text": "What should you do \nwhen you're unsure whether it's safe to reverse your \nvehicle?",
+    "options": {
+      "A": "Rev your engine",
+      "B": "Sound your horn",
+      "C": "Reverse slowly",
+      "D": "Get out and check"
+    },
+    "correct": "D",
+    "explanation": "Move left to let it pass. Always give way to emergency vehicles with blue flashing lights."
+  },
+  {
+    "number": 52,
+    "text": "Why could it be\ndangerous to reverse from a\nside road into a main road?",
+    "options": {
+      "A": "Your reversing lights will be hidden",
+      "B": "Your reverse sensors will beep",
+      "C": "Your view will be restricted",
+      "D": "Your mirrors will need adjusting"
+    },
+    "correct": "A",
+    "explanation": "30 mph. This is the standard speed limit in built-up areas with street lighting."
+  },
+  {
+    "number": 53,
+    "text": "You want to turn right at\na box junction. What should\nyou do if there's oncoming\ntraffic?",
+    "options": {
+      "A": "Drive on; you can't turn right at a box junction",
+      "B": "Wait in the box junction if your exit is clear",
+      "C": "Wait before the junction until it's clear of all traffic",
+      "D": "Drive slowly into the box junction when signalled by oncoming traffic"
+    },
+    "correct": "C",
+    "explanation": "Stop and give way. At give way signs and lines, you must give priority to traffic on the major road."
+  },
+  {
+    "number": 54,
+    "text": "You're reversing into a\nside road. When would your\nvehicle be the greatest\nhazard to passing traffic?",
+    "options": {
+      "A": "After you’ve completed the manoeuvre",
+      "B": "When the front of your vehicle swings out",
+      "C": "After you’ve entered the side road",
+      "D": "Just before you begin to manoeuvre"
+    },
+    "correct": "B",
+    "explanation": "Give way to traffic from the right. This is the basic rule at roundabouts without priority markings."
+  },
+  {
+    "number": 55,
+    "text": "Where's the safest place\nto park your vehicle at\nnight?",
+    "options": {
+      "A": "In a quiet car park",
+      "B": "On a busy road",
+      "C": "In a garage",
+      "D": "Near a red route"
+    },
+    "correct": "D",
+    "explanation": "Traffic lights out of order. This means the traffic lights aren't working - treat as an unmarked junction."
+  },
+  {
+    "number": 56,
+    "text": "When may you stop on\nan urban clearway?",
+    "options": {
+      "A": "To set down and pick up passengers",
+      "B": "To use a mobile telephone",
+      "C": "To ask for directions",
+      "D": "To load or unload goods"
+    },
+    "correct": "A",
+    "explanation": "No parking. This sign indicates parking is not permitted in this area."
+  },
+  {
+    "number": 57,
+    "text": "You're looking for \nsomewhere to park your \nvehicle. Neither you or your passenger are disabled.\nWhat should you do if the only free spaces are marked for disabled drivers?",
+    "options": {
+      "A": "Use one of the spaces as long as one is kept free",
+      "B": "Park in one of these spaces but stay with your vehicle",
+      "C": "Use one of these spaces",
+      "D": "Wait for a regular parking space to become free"
+    },
+    "correct": "C",
+    "explanation": "When your exit is clear. Only enter box junctions when your exit road is clear."
+  },
+  {
+    "number": 58,
+    "text": "You're on a road that's\nonly wide enough for one\nvehicle. What should you do\nif a car is coming towards\nyou?",
+    "options": {
+      "A": "Pull into a passing place on your right",
+      "B": "Pull into a passing place on your left",
+      "C": "Force the other driver to reverse",
+      "D": "Pull into a passing place if your vehicle is wider"
+    },
+    "correct": "B",
+    "explanation": "Stop completely. Stop signs require a complete stop before proceeding."
+  },
+  {
+    "number": 59,
+    "text": "You're driving at night with your headlights on main beam. A vehicle is overtaking you. When \nshould you dip your \nheadlights?",
+    "options": {
+      "A": "Some time after the vehicle has passed you",
+      "B": "Before the vehicle starts to pass you",
+      "C": "Only if the other driver dips their headlights",
+      "D": "As soon as the vehicle passes you"
+    },
+    "correct": "D",
+    "explanation": "Pedestrians have priority. Always give way to pedestrians at zebra crossings."
+  },
+  {
+    "number": 60,
+    "text": "When may you drive a\ncar in this bus lane?",
+    "options": {
+      "A": "To overtake slow-moving traffic",
+      "B": "You may not use it at any time",
+      "C": "To get to the front of a traffic queue",
+      "D": "Outside its hours of operation"
+    },
+    "correct": "A",
+    "explanation": "Drive at 30 mph. In built-up areas with street lighting, the limit is 30 mph unless otherwise stated."
+  },
+  {
+    "number": 61,
+    "text": "Other than direction\nindicators, how can you give\nsignals to other road users?",
+    "options": {
+      "A": "By using interior lights",
+      "B": "By using brake lights",
+      "C": "By using sidelights",
+      "D": "By using fog lights"
+    },
+    "correct": "C",
+    "explanation": "On the left-hand side. In the UK, you should drive on the left unless overtaking or turning right."
+  },
+  {
+    "number": 62,
+    "text": "You're parked in a busy high street. What's the \nsafest way to turn your \nvehicle around so you can drive in the opposite \ndirection?",
+    "options": {
+      "A": "Turn around in a quiet side road",
+      "B": "Carry out a U-turn",
+      "C": "Ask someone to stop the traffic",
+      "D": "Drive into a side road and reverse out into the main road"
+    },
+    "correct": "B",
+    "explanation": "Minimum speed limit. This sign shows the minimum speed vehicles must maintain."
+  },
+  {
+    "number": 64,
+    "text": "You're driving in the \nright-hand lane of a dual \ncarriageway. What should you do if you see a sign \nshowing that the right-hand lane is closed 800 yards \nahead?",
+    "options": {
+      "A": "Move to the left in good time",
+      "B": "Keep in that lane until you reach the queue",
+      "C": "Move to the left immediately",
+      "D": "Wait and see which lane is moving faster"
+    },
+    "correct": "A",
+    "explanation": "Move to the left in good time. When you see advance warning signs of lane closures, merge in good time - don't wait until the last moment."
+  },
+  {
+    "number": 65,
+    "text": "You're driving on a road that has a cycle lane. What does it mean if the lane is marked by a broken white line?",
+    "options": {
+      "A": "There's a reduced speed limit for motor vehicles using the lane",
+      "B": "You shouldn't drive in the lane unless it's unavoidable",
+      "C": "Cyclists can travel in both directions in that lane",
+      "D": "The lane must be used by motorcyclists in heavy traffic"
+    },
+    "correct": "B",
+    "explanation": "You shouldn't drive in the lane unless it's unavoidable. Broken white lines indicate advisory cycle lanes - avoid using them but you can if necessary."
+  },
+  {
+    "number": 66,
+    "text": "When are you allowed to\npark in a parking bay for\ndisabled drivers?",
+    "options": {
+      "A": "When you have an advanced driver certificate",
+      "B": "When you have a Blue Badge",
+      "C": "When you have an adapted vehicle",
+      "D": "When you have a wheelchair"
+    },
+    "correct": "B",
+    "explanation": "When you have a Blue Badge. Only vehicles displaying a valid Blue Badge can park in disabled bays."
+  },
+  {
+    "number": 67,
+    "text": "When must you stop\nyour vehicle?",
+    "options": {
+      "A": "At a junction where there are ‘give way’ lines",
+      "B": "Before merging onto a motorway",
+      "C": "At the end of a one-way street",
+      "D": "If you’re involved in an incident that causes damage or injury"
+    },
+    "correct": "D",
+    "explanation": "If you're involved in an incident that causes damage or injury. You must stop by law if you're involved in any incident causing damage or injury."
+  }
+]
