@@ -378,6 +378,8 @@
 
     <div class="controls-bar">
         <button class="control-btn" id="voiceToggle" onclick="toggleVoice()">🔊 Voice: OFF</button>
+        
+        
         <button class="control-btn" onclick="resetProgress()">🔄 Reset Quiz</button>
     </div>
 
@@ -457,7 +459,7 @@
         let correctAnswers = 0;
         let incorrectAnswers = 0;
         let voiceEnabled = false;
-        
+        let autoPlayEnabled = false;
         let synth = window.speechSynthesis;
 
         // Load questions
@@ -493,7 +495,13 @@
             }
         }
 
-        
+        function toggleAutoPlay() {
+            autoPlayEnabled = !autoPlayEnabled;
+            const btn = document.getElementById('autoPlayToggle');
+            btn.textContent = autoPlayEnabled ? '▶️ Auto-play: ON' : '▶️ Auto-play: OFF';
+            btn.classList.toggle('active', autoPlayEnabled);
+        }
+
         function readQuestion() {
             if (!voiceEnabled) return;
             const question = questions[currentQuestionIndex];
@@ -521,7 +529,10 @@
             document.getElementById('flagBtn').classList.toggle('active', isFlagged);
         }
 
-                        return localStorage.getItem(key) === 'true';
+        function showFlagged() {
+            const flaggedQuestions = questions.filter((q, idx) => {
+                const key = `flag_${TOPIC_NAME}_q${q.number}`;
+                return localStorage.getItem(key) === 'true';
             });
             
             if (flaggedQuestions.length === 0) {
@@ -579,7 +590,7 @@
             ['A', 'B', 'C', 'D'].forEach(letter => {
                 const option = document.createElement('div');
                 option.className = 'option';
-                option.onclick = function() { selectOption(letter, this); };
+                option.onclick = () => selectOption(letter);
                 option.innerHTML = `
                     <div class="option-letter">${letter}</div>
                     <div class="option-text">${question.options[letter]}</div>
@@ -601,11 +612,11 @@
             }
         }
 
-        function selectOption(letter, optionElement) {
+        function selectOption(letter) {
             if (selectedAnswer !== null) return;
             
             document.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
-            optionElement.classList.add('selected');
+            event.currentTarget.classList.add('selected');
             selectedAnswer = letter;
         }
 
@@ -644,6 +655,9 @@
                 speak(`${isCorrect ? 'Correct' : 'Incorrect'}. ${question.explanation}`);
             }
             
+            if (autoPlayEnabled) {
+                setTimeout(() => nextQuestion(), 3000);
+            }
         }
 
         function nextQuestion() {
