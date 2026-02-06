@@ -1,0 +1,302 @@
+[
+  {
+    "number": 2,
+    "text": "Why did the lorry driver\nstart turning so late?\nVideo.",
+    "options": {
+      "A": "Because the lorry set off too fast",
+      "B": "Because the lorry needs the room to turn",
+      "C": "Because the driver was late checking their right mirror",
+      "D": "Because the driver was making room for the cyclist"
+    },
+    "correct": "B",
+    "explanation": "Because the lorry needs the room to turn. Large vehicles like lorries need to take a wide path when turning due to their size and turning circle."
+  },
+  {
+    "number": 3,
+    "text": "When may you wait in the\narea marked with a cycle?\nVideo.",
+    "options": {
+      "A": "When you've checked your mirrors for cyclists",
+      "B": "When there are no cycles in the marked area",
+      "C": "When you've turned on your hazard warning lights",
+      "D": "When the traffic lights change to amber after you've passed the first line"
+    },
+    "correct": "D",
+    "explanation": "They passed too close to the cyclist. The car didn't leave enough safe passing distance when overtaking the cyclist."
+  },
+  {
+    "number": 4,
+    "text": "What hazard do you need\nto look out for as you drive\nunder the bridge?\nVideo.",
+    "options": {
+      "A": "Pedestrians walking in the road",
+      "B": "Overhanging tree branches",
+      "C": "A narrowing of the road",
+      "D": "The height of the bridge"
+    },
+    "correct": "A",
+    "explanation": "The cyclist was trying to turn right. The cyclist was positioning themselves to turn right at the junction."
+  },
+  {
+    "number": 5,
+    "text": "What's the speed limit on\nthis road?\nVideo.",
+    "options": {
+      "A": "30 mph",
+      "B": "40 mph",
+      "C": "50 mph",
+      "D": "60 mph"
+    },
+    "correct": "C",
+    "explanation": "The pedestrian stepped into the road. The pedestrian crossed without looking properly for approaching traffic."
+  },
+  {
+    "number": 6,
+    "text": "What does the single\nyellow line along the side of\nthe road mean?\nVideo.",
+    "options": {
+      "A": "Waiting restrictions apply at certain times",
+      "B": "No waiting at any time",
+      "C": "No stopping at any time",
+      "D": "It marks the edge of the road"
+    },
+    "correct": "B",
+    "explanation": "There could be pedestrians crossing. At crossings with no lights visible, pedestrians may be crossing and have right of way."
+  },
+  {
+    "number": 7,
+    "text": "What's the speed limit for\nthe car towing the caravan\non this road?\nVideo.",
+    "options": {
+      "A": "70 mph",
+      "B": "40 mph",
+      "C": "50 mph",
+      "D": "60 mph"
+    },
+    "correct": "D",
+    "explanation": "Check mirrors and signal right. Before moving out to overtake, you must check mirrors and signal your intention."
+  },
+  {
+    "number": 8,
+    "text": "The caravan starts to\nswing from side to side.\nWhat should the driver do to\nbring it back under control?\nVideo.",
+    "options": {
+      "A": "Accelerate until the swinging stops",
+      "B": "Brake firmly until the swinging stops",
+      "C": "Steer sharply in the opposite direction to the caravan's swing",
+      "D": "Ease off the accelerator to slow down"
+    },
+    "correct": "A",
+    "explanation": "The rider was thrown over the handlebars. Emergency braking on a bicycle can cause the rider to go over the handlebars."
+  },
+  {
+    "number": 9,
+    "text": "Why is the caravan\nunstable and swinging from\nside to side?\nVideo.",
+    "options": {
+      "A": "Because the other cars are passing too close to it",
+      "B": "Because of side winds",
+      "C": "Because there are traffic cones on the road",
+      "D": "Because it's in the wrong lane"
+    },
+    "correct": "C",
+    "explanation": "The car pulled out without looking properly. The driver failed to check properly before pulling out from the junction."
+  },
+  {
+    "number": 10,
+    "text": "Why is there a warning\n'Reduce speed now'?\nVideo.",
+    "options": {
+      "A": "There's a crossroads and a double bend ahead",
+      "B": "There's a staggered junction ahead",
+      "C": "There's a T-junction ahead",
+      "D": "Traffic is merging from the left"
+    },
+    "correct": "B",
+    "explanation": "Slow down and be prepared to stop. When approaching a junction with limited visibility, reduce speed and be ready to stop."
+  },
+  {
+    "number": 11,
+    "text": "Why has the line in the\ncentre of the road changed?\nVideo.",
+    "options": {
+      "A": "To warn of hazards ahead",
+      "B": "To warn you there's a speed camera ahead",
+      "C": "To warn you not to change lanes",
+      "D": "To warn you the speed limit has changed"
+    },
+    "correct": "D",
+    "explanation": "The motorcyclist was in the driver's blind spot. The car driver didn't see the motorcyclist because they were in a blind spot."
+  },
+  {
+    "number": 12,
+    "text": "The driver towing the\ncaravan wants to turn right\nonto the dual carriageway.\nWhat should they do?\nVideo.",
+    "options": {
+      "A": "Move out when an approaching driver flashes their headlights",
+      "B": "Turn left and find a suitable place to turn around.",
+      "C": "Move partly into the central reservation and wait until it's safe to turn",
+      "D": "Wait until the road is clear in both directions before turning"
+    },
+    "correct": "A",
+    "explanation": "Give way to the cyclist. When turning left, you must give way to cyclists going straight ahead on your left."
+  },
+  {
+    "number": 13,
+    "text": "What do the lines along\nthe centre of the road mean?\nVideo.",
+    "options": {
+      "A": "They mark the centre of the road",
+      "B": "No stopping",
+      "C": "No overtaking",
+      "D": "There's a hazard ahead"
+    },
+    "correct": "C",
+    "explanation": "The driver opened the door without checking. The driver should have checked for approaching traffic before opening the door."
+  },
+  {
+    "number": 14,
+    "text": "You want to overtake the\ntractor. What should you\ndo?\nVideo.",
+    "options": {
+      "A": "Speed up and overtake before you get to the bend",
+      "B": "Sound your horn and make the tractor pull over",
+      "C": "Overtake straight after the oncoming car passes",
+      "D": "Stay behind and wait until you have a clear view"
+    },
+    "correct": "B",
+    "explanation": "Drop back to increase your view. Following too closely restricts your view of the road ahead."
+  },
+  {
+    "number": 15,
+    "text": "Why has the tractor got\nflashing amber lights?\nVideo.",
+    "options": {
+      "A": "To warn you it's a slow- moving vehicle",
+      "B": "To warn you it's breaking down",
+      "C": "To tell you not to overtake",
+      "D": "To warn you it has a wide load"
+    },
+    "correct": "D",
+    "explanation": "Stop and allow them to cross. At a pedestrian crossing, you must stop when people are waiting to cross."
+  },
+  {
+    "number": 16,
+    "text": "Why should you take\ncare driving past the man\nwith the cane?\nVideo.",
+    "options": {
+      "A": "He's blind",
+      "B": "He's physically disabled",
+      "C": "He's deaf and blind",
+      "D": "He's deaf"
+    },
+    "correct": "A",
+    "explanation": "Check your blind spot before changing lanes. Always check blind spots before making lane changes, especially on motorways."
+  },
+  {
+    "number": 17,
+    "text": "How should you\napproach the zebra\ncrossing?\nVideo.",
+    "options": {
+      "A": "Be ready to slow down or stop to allow pedestrians to cross",
+      "B": "Sound your horn to warn the pedestrians",
+      "C": "Speed up to get past the crossing",
+      "D": "Slow down and wave the pedestrians across"
+    },
+    "correct": "C",
+    "explanation": "The driver was driving too fast for the conditions. Speed should always be appropriate for road and traffic conditions."
+  },
+  {
+    "number": 18,
+    "text": "You've stopped at the\nzebra crossing. When may\nyou move off?\nVideo.",
+    "options": {
+      "A": "When the pedestrians have cleared your side of the road",
+      "B": "When the driver behind you sounds their horn",
+      "C": "When the oncoming car moves off",
+      "D": "When the pedestrians have completely crossed"
+    },
+    "correct": "B",
+    "explanation": "Slow down and be ready to stop. When visibility is poor, reduce speed and be prepared for hazards."
+  },
+  {
+    "number": 19,
+    "text": "As you approach the roundabout, there's a sign showing a single white bar on a green background.\nWhat does this sign tell you?\nVideo.",
+    "options": {
+      "A": "The roundabout is 50 yards ahead",
+      "B": "The roundabout is 100 yards ahead",
+      "C": "There are chevrons on the roundabout",
+      "D": "Give way at the roundabout"
+    },
+    "correct": "D",
+    "explanation": "Keep well back from the vehicle in front. In poor weather, increase following distance to allow more stopping time."
+  },
+  {
+    "number": 20,
+    "text": "As you approach the\nroundabout, you want to\nchange lanes. What routine\nshould you follow?\nVideo.",
+    "options": {
+      "A": "Mirrors, signal, manoeuvre",
+      "B": "Manoeuvre, mirrors, signal",
+      "C": "Manoeuvre, signal, mirrors",
+      "D": "Signal, mirrors, manoeuvre"
+    },
+    "correct": "A",
+    "explanation": "The driver failed to look properly at the junction. The crash occurred because the driver didn't check thoroughly before emerging."
+  },
+  {
+    "number": 21,
+    "text": "You want to travel on the\nA61. Which lane should you\nuse at the roundabout?\nVideo.",
+    "options": {
+      "A": "Either the left lane or middle lane",
+      "B": "Only the left lane",
+      "C": "Only the middle lane",
+      "D": "Either the middle lane or right lane"
+    },
+    "correct": "C",
+    "explanation": "Look well ahead and anticipate hazards. Good hazard perception means scanning ahead and predicting potential dangers."
+  },
+  {
+    "number": 22,
+    "text": "Why has the bus driver\npositioned the bus on the\nleft?\nVideo.",
+    "options": {
+      "A": "The sign on the roundabout is directing traffic to 'keep left'",
+      "B": "In case the pedestrian wants to get on the bus",
+      "C": "The bus needs extra room to get around the roundabout",
+      "D": "To get a better view of the roundabout"
+    },
+    "correct": "B",
+    "explanation": "The pedestrian was hidden by the parked car. Parked vehicles can obstruct your view of pedestrians about to cross."
+  },
+  {
+    "number": 23,
+    "text": "Why does the cyclist\ntake the longer route around\nthe roundabout?\nVideo.",
+    "options": {
+      "A": "It's easier to give arm signals while you're on the left",
+      "B": "Cyclists may keep to the left for safety",
+      "C": "The cyclist is riding into a one-way street",
+      "D": "To avoid being dazzled by the sun"
+    },
+    "correct": "D",
+    "explanation": "Be patient and wait for a safe opportunity. Never overtake unless you have a clear, safe view ahead."
+  },
+  {
+    "number": 24,
+    "text": "What do the yellow lines\nalong the edge of the road\nmean?\nVideo.",
+    "options": {
+      "A": "No waiting",
+      "B": "Pedestrians shouldn't cross where there are yellow lines",
+      "C": "They mark the edge of the road",
+      "D": "They are rumble strips"
+    },
+    "correct": "A",
+    "explanation": "Move to the left to give more room. When a large vehicle is alongside, increase the gap by moving away from it."
+  },
+  {
+    "number": 25,
+    "text": "Why is it dangerous to\novertake near a junction?\nVideo.",
+    "options": {
+      "A": "You'll be in the blind spot of the driver waiting to emerge",
+      "B": "The road surface will be slippery",
+      "C": "A driver waiting to emerge might not see you",
+      "D": "Your signal would be hard to see"
+    },
+    "correct": "C",
+    "explanation": "Check mirrors more frequently. In busy traffic, more frequent mirror checks help you stay aware of surrounding vehicles."
+  },
+  {
+    "number": 26,
+    "text": "What is the speed limit\non this road for the car\ntowing the caravan?\nVideo.",
+    "options": {
+      "A": "50 mph",
+      "B": "60 mph",
+      "C": "30 mph",
+      "D": "40 mph"
+    },
+    "correct": "B",
+    "explanation": "The traffic island forces drivers to slow down. Traffic calming features like islands are designed to reduce vehicle speeds."
+  }
+]
