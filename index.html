@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UK Driving Theory Test Platform</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚗 UK Driving Theory Test</h1>
+            <p class="subtitle">Complete Practice Platform - 13 Topics | 536 Questions</p>
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-number">13</span>
+                    <span class="stat-label">Topics</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number">536</span>
+                    <span class="stat-label">Questions</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="overall-progress">0%</span>
+                    <span class="stat-label">Complete</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mock Tests Section -->
+        <div class="mock-section">
+            <h2>🎯 Mock Tests</h2>
+            <p>Practice with full-length mock tests - 50 questions, pass mark 43/50</p>
+            <a href="mock-test.html" class="mock-btn">View All Mock Tests</a>
+        </div>
+
+        <!-- Topics Grid -->
+        <h2 style="color: white; text-align: center; margin-bottom: 30px;">📚 Practice by Topic</h2>
+        <div class="topics-grid" id="topics-grid">
+            <!-- Topics will be dynamically generated with progress -->
+        </div>
+
+        <div class="footer">
+            <p>© 2026 UK Driving Theory Test Practice Platform</p>
+            <p>Good luck with your test! 🚗💨</p>
+        </div>
+    </div>
+
+    <script>
+        const TOPICS = [
+            { id: 'road_and_traffic_signs', name: 'Road and Traffic Signs', icon: '🚦', questions: 67, featured: true },
+            { id: 'safety_and_your_vehicle', name: 'Safety and Your Vehicle', icon: '🔧', questions: 62 },
+            { id: 'vulnerable_road_users', name: 'Vulnerable Road Users', icon: '🚶', questions: 67 },
+            { id: 'rules_of_the_road', name: 'Rules of the Road', icon: '📋', questions: 61 },
+            { id: 'motorway_rules', name: 'Motorway Rules', icon: '🛣️', questions: 49 },
+            { id: 'incidents_accidents_emergencies', name: 'Incidents & Emergencies', icon: '🚨', questions: 45 },
+            { id: 'vehicle_handling', name: 'Vehicle Handling', icon: '🎮', questions: 41 },
+            { id: 'attitude', name: 'Attitude', icon: '😊', questions: 37 },
+            { id: 'safety_margins', name: 'Safety Margins', icon: '⚠️', questions: 28 },
+            { id: 'essential_documents', name: 'Essential Documents', icon: '📄', questions: 24 },
+            { id: 'other_types_of_vehicle', name: 'Other Types of Vehicle', icon: '🚛', questions: 19 },
+            { id: 'hazard_awareness', name: 'Hazard Awareness', icon: '👀', questions: 18 },
+            { id: 'vehicle_loading', name: 'Vehicle Loading', icon: '📦', questions: 18 }
+        ];
+
+        function calculateProgress(topic) {
+            const saved = localStorage.getItem(topic.id + '_progress');
+            if (!saved) return 0;
+            
+            const data = JSON.parse(saved);
+            const answered = Object.keys(data.userAnswers || {}).length;
+            return Math.round((answered / topic.questions) * 100);
+        }
+
+        function renderTopics() {
+            const grid = document.getElementById('topics-grid');
+            let totalAnswered = 0;
+            let totalQuestions = 0;
+
+            TOPICS.forEach(topic => {
+                const progress = calculateProgress(topic);
+                const circumference = 2 * Math.PI * 34;
+                const offset = circumference - (progress / 100) * circumference;
+
+                totalQuestions += topic.questions;
+                const saved = localStorage.getItem(topic.id + '_progress');
+                if (saved) {
+                    const data = JSON.parse(saved);
+                    totalAnswered += Object.keys(data.userAnswers || {}).length;
+                }
+
+                const topicCard = `
+                    <a href="quiz.html?topic=${topic.id}" class="topic-card ${topic.featured ? 'featured' : ''}">
+                        <div class="topic-progress">
+                            <svg class="progress-ring" width="80" height="80">
+                                <circle class="progress-ring-bg" cx="40" cy="40" r="34" fill="none" stroke="#e9ecef" stroke-width="6"/>
+                                <circle class="progress-ring-circle" cx="40" cy="40" r="34" fill="none" stroke="#667eea" stroke-width="6"
+                                        stroke-dasharray="${circumference}" stroke-dashoffset="${offset}"
+                                        transform="rotate(-90 40 40)" style="transition: stroke-dashoffset 0.5s ease;"/>
+                            </svg>
+                            <div class="progress-percentage">${progress}%</div>
+                        </div>
+                        <div class="topic-info">
+                            <div class="topic-icon">${topic.icon}</div>
+                            <h3>${topic.name}</h3>
+                            <p>${topic.questions} questions</p>
+                            ${topic.featured ? '<span class="badge">✨ With Images</span>' : ''}
+                        </div>
+                    </a>
+                `;
+                grid.innerHTML += topicCard;
+            });
+
+            // Update overall progress
+            const overallPercentage = totalQuestions > 0 ? Math.round((totalAnswered / totalQuestions) * 100) : 0;
+            document.getElementById('overall-progress').textContent = overallPercentage + '%';
+        }
+
+        // Render on page load
+        renderTopics();
+    </script>
+</body>
+</html>
