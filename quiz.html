@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - UK Theory Test</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="quiz-header">
+            <a href="index.html" class="home-btn">← Back to Topics</a>
+            <h1 id="topic-title">Quiz</h1>
+            <div class="progress-container">
+                <div class="progress-bar-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                </div>
+                <div class="progress-text">
+                    Question <span id="current">1</span> of <span id="total">0</span>
+                </div>
+            </div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr 350px; gap: 20px;">
+            <div class="quiz-card">
+                <!-- Image (for road signs) -->
+                <div class="image-container" id="image-container" style="display: none;">
+                    <img id="question-image" alt="Road sign">
+                </div>
+
+                <!-- Question -->
+                <div class="question" id="question"></div>
+
+                <!-- Options -->
+                <div class="options" id="options"></div>
+
+                <!-- Controls -->
+                <div class="controls">
+                    <button class="btn btn-flag" id="flag-btn" onclick="toggleFlag()">🚩 Flag</button>
+                    <button class="btn btn-check" id="check-btn" onclick="checkAnswer()">Check Answer</button>
+                </div>
+
+                <!-- Explanation -->
+                <div class="explanation" id="explanation" style="display: none;"></div>
+
+                <!-- Navigation -->
+                <div class="navigation">
+                    <button class="btn btn-primary" onclick="previousQuestion()" id="prev-btn">← Previous</button>
+                    <button class="btn btn-primary" onclick="nextQuestion()" id="next-btn">Next →</button>
+                </div>
+            </div>
+
+            <div style="display: flex; flex-direction: column; gap: 20px;">
+                <div class="sidebar">
+                    <h3>Personal Notes</h3>
+                    <textarea id="notes" placeholder="Add your notes here..."></textarea>
+                    <button class="btn btn-primary" onclick="saveNote()" style="width: 100%;">Save Note</button>
+                </div>
+
+                <div class="sidebar">
+                    <h3>Progress</h3>
+                    <div class="stat">
+                        <span>Answered:</span>
+                        <span id="answered-count">0</span>
+                    </div>
+                    <div class="stat">
+                        <span>Flagged:</span>
+                        <span id="flagged-count">0</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Get topic from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const TOPIC_ID = urlParams.get('topic') || 'attitude';
+        
+        const TOPIC_TITLES = {
+            'road_and_traffic_signs': '🚦 Road and Traffic Signs',
+            'attitude': '😊 Attitude',
+            'safety_and_your_vehicle': '🔧 Safety and Your Vehicle',
+            'rules_of_the_road': '📋 Rules of the Road',
+            'vulnerable_road_users': '🚶 Vulnerable Road Users',
+            'motorway_rules': '🛣️ Motorway Rules',
+            'incidents_accidents_emergencies': '🚨 Incidents & Emergencies',
+            'vehicle_handling': '🎮 Vehicle Handling',
+            'safety_margins': '⚠️ Safety Margins',
+            'essential_documents': '📄 Essential Documents',
+            'other_types_of_vehicle': '🚛 Other Types of Vehicle',
+            'hazard_awareness': '👀 Hazard Awareness',
+            'vehicle_loading': '📦 Vehicle Loading'
+        };
+
+        document.getElementById('topic-title').textContent = TOPIC_TITLES[TOPIC_ID] || 'Quiz';
+
+        let questions = [];
+        let currentIndex = 0;
+        let userAnswers = {};
+        let flaggedQuestions = new Set();
+        let notes = {};
+
+        // Load progress
+        function loadProgress() {
+            const saved = localStorage.getItem(TOPIC_ID + '_progress');
+            if (saved) {
+                const data = JSON.parse(saved);
+                userAnswers = data.userAnswers || {};
+                flaggedQuestions = new Set(data.flaggedQuestions || []);
+                notes = data.notes || {};
+            }
+        }
+
+        // Save progress
+        function saveProgress() {
+            const data = {
+                userAnswers,
+                flaggedQuestions: Array.from(flaggedQuestions),
+                notes
+            };
+            localStorage.setItem(TOPIC_ID + '_progress', JSON.stringify(data));
+        }
+
+        // Load questions
+        fetch('data/' + TOPIC_ID + '.json')
+            .then(response => response.json())
+            .then(data => {
+                questions = data;
+                loadProgress();
+                document.getElementById('total').textContent = questions.length;
+                showQuestion();
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('question').textContent = 'Error loading questions. Please check that data/' + TOPIC_ID + '.json exists.';
+            });
+
+        function showQuestion() {
+            if (questions.length === 0) return;
+
+            const q = questions[currentIndex];
+            const qNum = q.number || currentIndex + 1;
+
+            // Update progress
+            document.getElementById('current').textContent = currentIndex + 1;
+            const percent = ((currentIndex + 1) / questions.length) * 100;
+            document.getElementById('progress-bar').style.width = percent + '%';
+
+            // Show/hide image
+            const imgContainer = document.getElementById('image-container');
+            const img = document.getElementById('question-image');
+            if (q.image) {
+                img.src = q.image;
+                imgContainer.style.display = 'block';
+            } else {
+                imgContainer.style.display = 'none';
+            }
+
+            // Show question
+            document.getElementById('question').textContent = q.text;
+
+            // Show options
+            const optionsDiv = document.getElementById('options');
+            optionsDiv.innerHTML = '';
+
+            for (let [letter, text] of Object.entries(q.options)) {
+                const option = document.createElement('div');
+                option.className = 'option';
+                option.innerHTML = `<span class="option-letter">${letter}</span>${text}`;
+                option.onclick = () => selectOption(letter);
+
+                if (userAnswers[qNum] === letter) {
+                    option.classList.add('selected');
+                }
+
+                option.dataset.option = letter;
+                optionsDiv.appendChild(option);
+            }
+
+            // Update flag button
+            const flagBtn = document.getElementById('flag-btn');
+            if (flaggedQuestions.has(qNum)) {
+                flagBtn.classList.add('flagged');
+                flagBtn.textContent = '🚩 Flagged';
+            } else {
+                flagBtn.classList.remove('flagged');
+                flagBtn.textContent = '🚩 Flag';
+            }
+
+            // Load note
+            document.getElementById('notes').value = notes[qNum] || '';
+
+            // Hide explanation
+            document.getElementById('explanation').style.display = 'none';
+
+            // Update stats
+            updateStats();
+
+            // Navigation buttons
+            document.getElementById('prev-btn').disabled = currentIndex === 0;
+            document.getElementById('next-btn').textContent = 
+                currentIndex === questions.length - 1 ? 'Finish' : 'Next →';
+        }
+
+        function selectOption(letter) {
+            const q = questions[currentIndex];
+            const qNum = q.number || currentIndex + 1;
+
+            // Clear selection
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.classList.remove('selected');
+            });
+
+            // Select option
+            const selected = document.querySelector(`[data-option="${letter}"]`);
+            if (selected) {
+                selected.classList.add('selected');
+                userAnswers[qNum] = letter;
+                saveProgress();
+            }
+        }
+
+        function checkAnswer() {
+            const q = questions[currentIndex];
+            const qNum = q.number || currentIndex + 1;
+            const userAnswer = userAnswers[qNum];
+
+            if (!userAnswer) {
+                alert('Please select an answer first.');
+                return;
+            }
+
+            const isCorrect = userAnswer === q.correct;
+
+            // Show correct/incorrect
+            document.querySelectorAll('.option').forEach((opt, i) => {
+                const letter = Object.keys(q.options)[i];
+                if (letter === q.correct) {
+                    opt.classList.add('correct');
+                } else if (letter === userAnswer && !isCorrect) {
+                    opt.classList.add('incorrect');
+                }
+                opt.onclick = null;
+            });
+
+            // Show explanation
+            const expDiv = document.getElementById('explanation');
+            expDiv.innerHTML = `
+                <div class="result ${isCorrect ? 'correct' : 'incorrect'}">
+                    ${isCorrect ? '✓ Correct!' : '✗ Incorrect'}
+                </div>
+                ${!isCorrect ? `<p><strong>Correct answer:</strong> ${q.correct} - ${q.options[q.correct]}</p>` : ''}
+                <p>${q.explanation}</p>
+            `;
+            expDiv.style.display = 'block';
+        }
+
+        function toggleFlag() {
+            const q = questions[currentIndex];
+            const qNum = q.number || currentIndex + 1;
+
+            if (flaggedQuestions.has(qNum)) {
+                flaggedQuestions.delete(qNum);
+            } else {
+                flaggedQuestions.add(qNum);
+            }
+
+            saveProgress();
+            showQuestion();
+        }
+
+        function saveNote() {
+            const q = questions[currentIndex];
+            const qNum = q.number || currentIndex + 1;
+            const noteText = document.getElementById('notes').value;
+
+            if (noteText.trim()) {
+                notes[qNum] = noteText;
+            } else {
+                delete notes[qNum];
+            }
+
+            saveProgress();
+            alert('Note saved!');
+        }
+
+        function previousQuestion() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                showQuestion();
+            }
+        }
+
+        function nextQuestion() {
+            if (currentIndex < questions.length - 1) {
+                currentIndex++;
+                showQuestion();
+            } else {
+                if (confirm('You have reached the end. Review from the beginning?')) {
+                    currentIndex = 0;
+                    showQuestion();
+                }
+            }
+        }
+
+        function updateStats() {
+            document.getElementById('answered-count').textContent = Object.keys(userAnswers).length;
+            document.getElementById('flagged-count').textContent = flaggedQuestions.size;
+        }
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') previousQuestion();
+            if (e.key === 'ArrowRight') nextQuestion();
+            if (e.key >= '1' && e.key <= '4' && questions.length > 0) {
+                const options = Object.keys(questions[currentIndex].options);
+                const index = parseInt(e.key) - 1;
+                if (index < options.length) {
+                    selectOption(options[index]);
+                }
+            }
+        });
+    </script>
+</body>
+</html>

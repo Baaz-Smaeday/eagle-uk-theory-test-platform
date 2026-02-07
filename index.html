@@ -3,424 +3,116 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UK Driving Theory Test - Practice Platform</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
-
-        .header {
-            text-align: center;
-            color: white;
-            margin-bottom: 40px;
-        }
-
-        .header h1 {
-            font-size: 42px;
-            margin-bottom: 10px;
-            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
-        }
-
-        .header p {
-            font-size: 18px;
-            opacity: 0.95;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        .topics-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 20px;
-            margin-bottom: 40px;
-        }
-
-        .topic-card {
-            background: white;
-            border-radius: 15px;
-            padding: 25px;
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-            transition: all 0.3s ease;
-            cursor: pointer;
-            text-decoration: none;
-            color: inherit;
-            display: block;
-        }
-
-        .topic-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3);
-        }
-
-        .topic-icon {
-            font-size: 40px;
-            margin-bottom: 15px;
-        }
-
-        .topic-title {
-            font-size: 20px;
-            font-weight: 600;
-            color: #667eea;
-            margin-bottom: 10px;
-        }
-
-        .topic-questions {
-            font-size: 14px;
-            color: #666;
-            margin-bottom: 15px;
-        }
-
-        .topic-progress {
-            background: #e0e0e0;
-            height: 8px;
-            border-radius: 10px;
-            overflow: hidden;
-            margin-bottom: 10px;
-        }
-
-        .topic-progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
-            transition: width 0.3s ease;
-        }
-
-        .topic-status {
-            font-size: 13px;
-            color: #888;
-        }
-
-        .start-button {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            border: none;
-            padding: 12px 24px;
-            border-radius: 8px;
-            font-size: 16px;
-            font-weight: 600;
-            cursor: pointer;
-            width: 100%;
-            margin-top: 15px;
-            transition: all 0.3s ease;
-        }
-
-        .start-button:hover {
-            transform: scale(1.05);
-            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
-        }
-
-        .stats-container {
-            background: white;
-            border-radius: 15px;
-            padding: 30px;
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-            margin-bottom: 20px;
-        }
-
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-        }
-
-        .stat-box {
-            text-align: center;
-            padding: 20px;
-            background: #f8f9fa;
-            border-radius: 10px;
-        }
-
-        .stat-number {
-            font-size: 36px;
-            font-weight: bold;
-            color: #667eea;
-            margin-bottom: 5px;
-        }
-
-        .stat-label {
-            font-size: 14px;
-            color: #666;
-        }
-
-        .footer {
-            text-align: center;
-            color: white;
-            margin-top: 40px;
-            opacity: 0.9;
-        }
-
-        @media (max-width: 768px) {
-            .header h1 {
-                font-size: 32px;
-            }
-            
-            .topics-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
+    <title>UK Driving Theory Test</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="container">
         <div class="header">
             <h1>🚗 UK Driving Theory Test</h1>
-            <p>Practice with 681 questions across 14 topics</p>
-        </div>
-
-        <div class="stats-container">
-            <div class="stats-grid">
-                <div class="stat-box">
-                    <div class="stat-number" id="totalQuestions">681</div>
-                    <div class="stat-label">Total Questions</div>
-                </div>
-                <div class="stat-box">
-                    <div class="stat-number" id="completedQuestions">0</div>
-                    <div class="stat-label">Questions Completed</div>
-                </div>
-                <div class="stat-box">
-                    <div class="stat-number" id="overallProgress">0%</div>
-                    <div class="stat-label">Overall Progress</div>
-                </div>
-                <div class="stat-box">
-                    <div class="stat-number" id="averageScore">-</div>
-                    <div class="stat-label">Average Score</div>
-                </div>
+            <p class="subtitle">Complete Practice Platform - 13 Topics | 536 Questions</p>
+            <div class="stats">
+                <div class="stat-item"><span class="stat-number">13</span><span class="stat-label">Topics</span></div>
+                <div class="stat-item"><span class="stat-number">536</span><span class="stat-label">Questions</span></div>
+                <div class="stat-item"><span class="stat-number">85</span><span class="stat-label">Images</span></div>
             </div>
         </div>
 
         <div class="topics-grid">
-            <!-- Topic 1: Vulnerable Road Users -->
-            <a href="topics/vulnerable-road-users.html" class="topic-card">
-                <div class="topic-icon">👥</div>
-                <div class="topic-title">Vulnerable Road Users</div>
-                <div class="topic-questions">67 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
+            <a href="quiz.html?topic=road_and_traffic_signs" class="topic-card featured">
+                <div class="topic-icon">🚦</div>
+                <h2>Road and Traffic Signs</h2>
+                <p>Learn all UK road signs with 85 images</p>
+                <div class="topic-meta">
+                    <span class="question-count">67 questions</span>
+                    <span class="has-images">✨ With Images</span>
                 </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
             </a>
 
-            <!-- Topic 2: Road and Traffic Signs -->
-            <a href="topics/road-and-traffic-signs.html" class="topic-card">
-                <div class="topic-icon">🚸</div>
-                <div class="topic-title">Road and Traffic Signs</div>
-                <div class="topic-questions">187 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
-            </a>
-
-            <!-- Topic 3: Rules of the Road -->
-            <a href="topics/rules-of-the-road.html" class="topic-card">
-                <div class="topic-icon">📋</div>
-                <div class="topic-title">Rules of the Road</div>
-                <div class="topic-questions">61 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
-            </a>
-
-            <!-- Topic 4: Safety and Your Vehicle -->
-            <a href="topics/safety-and-your-vehicle.html" class="topic-card">
+            <a href="quiz.html?topic=safety_and_your_vehicle" class="topic-card">
                 <div class="topic-icon">🔧</div>
-                <div class="topic-title">Safety and Your Vehicle</div>
-                <div class="topic-questions">62 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+                <h2>Safety and Your Vehicle</h2>
+                <p>Vehicle safety and maintenance</p>
+                <div class="topic-meta"><span class="question-count">62 questions</span></div>
             </a>
 
-            <!-- Topic 5: Motorway Rules -->
-            <a href="topics/motorway-rules.html" class="topic-card">
+            <a href="quiz.html?topic=vulnerable_road_users" class="topic-card">
+                <div class="topic-icon">🚶</div>
+                <h2>Vulnerable Road Users</h2>
+                <p>Pedestrians, cyclists, motorcyclists</p>
+                <div class="topic-meta"><span class="question-count">67 questions</span></div>
+            </a>
+
+            <a href="quiz.html?topic=rules_of_the_road" class="topic-card">
+                <div class="topic-icon">📋</div>
+                <h2>Rules of the Road</h2>
+                <p>Traffic laws and regulations</p>
+                <div class="topic-meta"><span class="question-count">61 questions</span></div>
+            </a>
+
+            <a href="quiz.html?topic=motorway_rules" class="topic-card">
                 <div class="topic-icon">🛣️</div>
-                <div class="topic-title">Motorway Rules</div>
-                <div class="topic-questions">49 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+                <h2>Motorway Rules</h2>
+                <p>Driving safely on motorways</p>
+                <div class="topic-meta"><span class="question-count">49 questions</span></div>
             </a>
 
-            <!-- Topic 6: Hazard Awareness -->
-            <a href="topics/hazard-awareness.html" class="topic-card">
-                <div class="topic-icon">⚠️</div>
-                <div class="topic-title">Hazard Awareness</div>
-                <div class="topic-questions">18 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
-            </a>
-
-            <!-- Topic 7: Incidents, Accidents & Emergencies -->
-            <a href="topics/incidents-accidents-emergencies.html" class="topic-card">
+            <a href="quiz.html?topic=incidents_accidents_emergencies" class="topic-card">
                 <div class="topic-icon">🚨</div>
-                <div class="topic-title">Incidents & Emergencies</div>
-                <div class="topic-questions">45 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+                <h2>Incidents & Emergencies</h2>
+                <p>Accidents and breakdowns</p>
+                <div class="topic-meta"><span class="question-count">45 questions</span></div>
             </a>
 
-            <!-- Topic 8: Vehicle Handling -->
-            <a href="topics/vehicle-handling.html" class="topic-card">
+            <a href="quiz.html?topic=vehicle_handling" class="topic-card">
                 <div class="topic-icon">🎮</div>
-                <div class="topic-title">Vehicle Handling</div>
-                <div class="topic-questions">41 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+                <h2>Vehicle Handling</h2>
+                <p>Steering, braking, control</p>
+                <div class="topic-meta"><span class="question-count">41 questions</span></div>
             </a>
 
-            <!-- Topic 9: Safety Margins -->
-            <a href="topics/safety-margins.html" class="topic-card">
-                <div class="topic-icon">📏</div>
-                <div class="topic-title">Safety Margins</div>
-                <div class="topic-questions">28 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
-            </a>
-
-            <!-- Topic 10: Attitude -->
-            <a href="topics/attitude.html" class="topic-card">
+            <a href="quiz.html?topic=attitude" class="topic-card">
                 <div class="topic-icon">😊</div>
-                <div class="topic-title">Attitude</div>
-                <div class="topic-questions">37 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+                <h2>Attitude</h2>
+                <p>Proper driving behavior</p>
+                <div class="topic-meta"><span class="question-count">37 questions</span></div>
             </a>
 
-            <!-- Topic 11: Video Questions -->
-            <a href="topics/video-questions.html" class="topic-card">
-                <div class="topic-icon">🎥</div>
-                <div class="topic-title">Video Questions</div>
-                <div class="topic-questions">25 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+            <a href="quiz.html?topic=safety_margins" class="topic-card">
+                <div class="topic-icon">⚠️</div>
+                <h2>Safety Margins</h2>
+                <p>Following distances</p>
+                <div class="topic-meta"><span class="question-count">28 questions</span></div>
             </a>
 
-            <!-- Topic 12: Essential Documents -->
-            <a href="topics/essential-documents.html" class="topic-card">
+            <a href="quiz.html?topic=essential_documents" class="topic-card">
                 <div class="topic-icon">📄</div>
-                <div class="topic-title">Essential Documents</div>
-                <div class="topic-questions">24 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+                <h2>Essential Documents</h2>
+                <p>Licenses and insurance</p>
+                <div class="topic-meta"><span class="question-count">24 questions</span></div>
             </a>
 
-            <!-- Topic 13: Other Types of Vehicle -->
-            <a href="topics/other-types-of-vehicle.html" class="topic-card">
+            <a href="quiz.html?topic=other_types_of_vehicle" class="topic-card">
                 <div class="topic-icon">🚛</div>
-                <div class="topic-title">Other Types of Vehicle</div>
-                <div class="topic-questions">19 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+                <h2>Other Types of Vehicle</h2>
+                <p>Lorries, buses, motorcycles</p>
+                <div class="topic-meta"><span class="question-count">19 questions</span></div>
             </a>
 
-            <!-- Topic 14: Vehicle Loading -->
-            <a href="topics/vehicle-loading.html" class="topic-card">
+            <a href="quiz.html?topic=hazard_awareness" class="topic-card">
+                <div class="topic-icon">👀</div>
+                <h2>Hazard Awareness</h2>
+                <p>Spotting hazards</p>
+                <div class="topic-meta"><span class="question-count">18 questions</span></div>
+            </a>
+
+            <a href="quiz.html?topic=vehicle_loading" class="topic-card">
                 <div class="topic-icon">📦</div>
-                <div class="topic-title">Vehicle Loading</div>
-                <div class="topic-questions">18 questions</div>
-                <div class="topic-progress">
-                    <div class="topic-progress-fill" style="width: 0%"></div>
-                </div>
-                <div class="topic-status">Not started</div>
-                <button class="start-button">Start Quiz</button>
+                <h2>Vehicle Loading</h2>
+                <p>Loading safely</p>
+                <div class="topic-meta"><span class="question-count">18 questions</span></div>
             </a>
-        </div>
-
-        <div class="footer">
-            <p>💡 Tip: Complete all topics to be fully prepared for your UK driving theory test!</p>
-            <p style="margin-top: 10px; font-size: 14px;">Practice as many times as you need • Track your progress • Learn from detailed explanations</p>
         </div>
     </div>
-
-    <script>
-        // Load progress from localStorage
-        function loadProgress() {
-            const topics = document.querySelectorAll('.topic-card');
-            let totalCompleted = 0;
-            let totalScore = 0;
-            let topicsWithScores = 0;
-
-            topics.forEach(card => {
-                const href = card.getAttribute('href');
-                const topicName = href.replace('topics/', '').replace('.html', '');
-                const progress = JSON.parse(localStorage.getItem(`progress_${topicName}`)) || { completed: 0, total: 0, score: 0 };
-                
-                const progressFill = card.querySelector('.topic-progress-fill');
-                const statusText = card.querySelector('.topic-status');
-                
-                if (progress.completed > 0) {
-                    const percentage = Math.round((progress.completed / progress.total) * 100);
-                    progressFill.style.width = percentage + '%';
-                    statusText.textContent = `${progress.completed}/${progress.total} (${percentage}%)`;
-                    
-                    if (progress.completed === progress.total) {
-                        statusText.textContent += ` • Score: ${progress.score}%`;
-                    }
-                    
-                    totalCompleted += progress.completed;
-                    if (progress.score > 0) {
-                        totalScore += progress.score;
-                        topicsWithScores++;
-                    }
-                }
-            });
-
-            // Update stats
-            document.getElementById('completedQuestions').textContent = totalCompleted;
-            const overallPercentage = Math.round((totalCompleted / 681) * 100);
-            document.getElementById('overallProgress').textContent = overallPercentage + '%';
-            
-            if (topicsWithScores > 0) {
-                const avgScore = Math.round(totalScore / topicsWithScores);
-                document.getElementById('averageScore').textContent = avgScore + '%';
-            }
-        }
-
-        // Load progress on page load
-        loadProgress();
-    </script>
 </body>
 </html>
